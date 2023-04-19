@@ -30,4 +30,11 @@ For the total unclaimed rewards for each reward token for each chain, please vis
     - [Optimism](https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-optimism)
     - [Polygon](https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-matic)
 
-3. For each `joinedPositions` in step 2, we call the function of the farming contract `getUserInfo(nftId, pId)` with `block_identifier=<snapshot_block_number>` to get the pending rewards at the snapshot time.
+3. From the `joinedPositions` above, we filter only positions in these farms:
+    - Arbitrum: `0xBdEc4a045446F583dc564C0A227FFd475b329bf0`
+    - Avalanche: `0xBdEc4a045446F583dc564C0A227FFd475b329bf0`
+    - Ethereum: `0xb85ebE2e4eA27526f817FF33fb55fB240057C03F`
+    - Optimism: `0xb85ebE2e4eA27526f817FF33fb55fB240057C03F`
+    - Polygon: `0xBdEc4a045446F583dc564C0A227FFd475b329bf0`
+
+4. For each `joinedPositions`, we call the function of the farming contract `getUserInfo(nftId, pId)` with `block_identifier=<snapshot_block_number>` to get the pending rewards at the snapshot time.
