@@ -1,0 +1,102 @@
+{
+  "avalanche": [
+    {
+      "token_address": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+      "token_symbol": "KNC",
+      "amount": 2731330534638488028696
+    },
+    {
+      "token_address": "0x0000000000000000000000000000000000000000",
+      "token_symbol": "unknown",
+      "amount": 37681109712601419724
+    },
+    {
+      "token_address": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec",
+      "token_symbol": "axlUSDC",
+      "amount": 146190196
+    },
+    {
+      "token_address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "token_symbol": "QI",
+      "amount": 29480570362150047804428
+    },
+    {
+      "token_address": "0x77777777777d4554c39223c354a05825b2e8faa3",
+      "token_symbol": "YETI",
+      "amount": 11821974705886359070523
+    }
+  ],
+  "ethereum": [
+    {
+      "token_address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+      "token_symbol": "KNC",
+      "amount": 8505853052038624637
+    },
+    {
+      "token_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "token_symbol": "LDO",
+      "amount": 4221526822334084172
+    }
+  ],
+  "optimism": [
+    {
+      "token_address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+      "token_symbol": "BOB",
+      "amount": 70228389844840536295
+    },
+    {
+      "token_address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+      "token_symbol": "KNC",
+      "amount": 2773647478100842616955
+    },
+    {
+      "token_address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+      "token_symbol": "LDO",
+      "amount": 170173994323448522207
+    },
+    {
+      "token_address": "0x4200000000000000000000000000000000000042",
+      "token_symbol": "OP",
+      "amount": 508109502355059508270
+    }
+  ],
+  "arbitrum": [
+    {
+      "token_address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+      "token_symbol": "KNC",
+      "amount": 9210007465899940442875
+    },
+    {
+      "token_address": "0x43c25f828390de5a3648864eb485cc523e039e67",
+      "token_symbol": "PET",
+      "amount": 304620264808743902282
+    },
+    {
+      "token_address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+      "token_symbol": "LDO",
+      "amount": 458581564880394732815
+    }
+  ],
+  "polygon": [
+    {
+      "token_address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+      "token_symbol": "KNC",
+      "amount": 4106114164911351264602
+    },
+    {
+      "token_address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+      "token_symbol": "LDO",
+      "amount": 171921583999270030412
+    },
+    {
+      "token_address": "0x7a7b94f18ef6ad056cda648588181cda84800f94",
+      "token_symbol": "FIS",
+      "amount": 911208068857973129674
+    },
+    {
+      "token_address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+      "token_symbol": "BOB",
+      "amount": 71750104167012936384
+    }
+  ]
+}
