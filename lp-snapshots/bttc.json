@@ -1,0 +1,480 @@
+{
+  "number_of_positions": 34,
+  "total_liquidity_usd": 61.91601188819623,
+  "number_distinct_owners": 14,
+  "number_owner_less_than_1_liquidity_usd": 9,
+  "details": [
+    {
+      "owner": "0x55986cc9eb57e29875a80a7f70b9abcef063cfaf",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 42.763944207636115,
+      "positions": [
+        {
+          "id": "112",
+          "chain": "bttc",
+          "pool_id": "0xcef096a067b6a931b603377b0af0cfd01327ff02",
+          "liquidity": "84986393674685223942",
+          "amount0": 0.00018816874355751,
+          "amount1": 12693489.787259405,
+          "amount0_usd": 6.072553234027809,
+          "amount1_usd": 13.267271491670169,
+          "liquidity_usd": 19.339824725697977
+        },
+        {
+          "id": "113",
+          "chain": "bttc",
+          "pool_id": "0x57c8fa2c2db015ffc0aa0deb0129fbaada97497e",
+          "liquidity": "30142654209300047917458389",
+          "amount0": 18398946.022295933,
+          "amount1": 11795422.666297853,
+          "amount0_usd": 11.09551028970107,
+          "amount1_usd": 12.328609192237067,
+          "liquidity_usd": 23.424119481938135
+        }
+      ]
+    },
+    {
+      "owner": "0x965528d5309066c8c5b699b386ba49f7ed08535d",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 11.714554491061822,
+      "positions": [
+        {
+          "id": "64",
+          "chain": "bttc",
+          "pool_id": "0xd63d73d1cd6c3ace9a5b9530bc023dfc113acb95",
+          "liquidity": "3290057845305737339",
+          "amount0": 1040.409132427,
+          "amount1": 10404061.525483642,
+          "amount0_usd": 0.0,
+          "amount1_usd": 10.874354585543317,
+          "liquidity_usd": 10.874354585543317
+        },
+        {
+          "id": "66",
+          "chain": "bttc",
+          "pool_id": "0x6f2683e4b234a48b09ee85bf3c879fa5fc760d91",
+          "liquidity": "16711714586621349118",
+          "amount0": 347424.122890037,
+          "amount1": 803863.0193594445,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.8401999055185052,
+          "liquidity_usd": 0.8401999055185052
+        }
+      ]
+    },
+    {
+      "owner": "0x803ca6b63116dc371c51bdc6c3ee4c6ecdddfcf9",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 3.6876164042873727,
+      "positions": [
+        {
+          "id": "218",
+          "chain": "bttc",
+          "pool_id": "0x626e3e93dac3e36ce6dfcc2acaaa7d230dd659c4",
+          "liquidity": "142907811225805578275626433",
+          "amount0": 3528329.7182510723,
+          "amount1": 3528134.718321004,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.6876164042873727,
+          "liquidity_usd": 3.6876164042873727
+        },
+        {
+          "id": "221",
+          "chain": "bttc",
+          "pool_id": "0xabacedab14b5eb796aef621c86d676b45d892e43",
+          "liquidity": "11381364155476208",
+          "amount0": 3371743.21981536,
+          "amount1": 38.417946,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x0193a8a52d77e27bdd4f12e0cdd52d8ff1d97d68",
+      "number_of_positions": 13,
+      "total_liquidity_usd": 2.011918284690282,
+      "positions": [
+        {
+          "id": "158",
+          "chain": "bttc",
+          "pool_id": "0x4655120065c9f055cc2ada52c1f0aab026b6cadb",
+          "liquidity": "9610341582543547468536",
+          "amount0": 10000.0,
+          "amount1": 0.0714668111927195,
+          "amount0_usd": 0.01045202833423057,
+          "amount1_usd": 0.0714668111927195,
+          "liquidity_usd": 0.08191883952695007
+        },
+        {
+          "id": "159",
+          "chain": "bttc",
+          "pool_id": "0x4655120065c9f055cc2ada52c1f0aab026b6cadb",
+          "liquidity": "81649115274191131664",
+          "amount0": 100000.0,
+          "amount1": 0.06666578025058151,
+          "amount0_usd": 0.10452028334230572,
+          "amount1_usd": 0.06666578025058151,
+          "liquidity_usd": 0.17118606359288724
+        },
+        {
+          "id": "160",
+          "chain": "bttc",
+          "pool_id": "0x424d5615212b775925e9d05f0ac30b7433b3678f",
+          "liquidity": "6071788611325984171373",
+          "amount0": 0.13901067200986167,
+          "amount1": 227061.71453784665,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.23732554739685469,
+          "liquidity_usd": 0.23732554739685469
+        },
+        {
+          "id": "162",
+          "chain": "bttc",
+          "pool_id": "0x5b86c1a5487660b89ca1d1c16fe9aa07e8686131",
+          "liquidity": "20051041647900280328",
+          "amount0": 0.1,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "163",
+          "chain": "bttc",
+          "pool_id": "0x357b5c0ad8b3451b183e18e5877a4703c0709ea9",
+          "liquidity": "20051041647900280328",
+          "amount0": 0.0,
+          "amount1": 0.10050122696230512,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "164",
+          "chain": "bttc",
+          "pool_id": "0x5b86c1a5487660b89ca1d1c16fe9aa07e8686131",
+          "liquidity": "1304614367207366607",
+          "amount0": 1.2873459539805225,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "167",
+          "chain": "bttc",
+          "pool_id": "0x302cfdef1dbda8099b0239a67904ea945ff59950",
+          "liquidity": "2465355584163149792040098470",
+          "amount0": 1000.0,
+          "amount1": 0.0,
+          "amount0_usd": 0.0010452028334230572,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0010452028334230572
+        },
+        {
+          "id": "174",
+          "chain": "bttc",
+          "pool_id": "0xde29ce3a44988fdc1bfebe8573a41cabc09ce8e2",
+          "liquidity": "132198180968422",
+          "amount0": 0.0,
+          "amount1": 68.235304529,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "175",
+          "chain": "bttc",
+          "pool_id": "0xde29ce3a44988fdc1bfebe8573a41cabc09ce8e2",
+          "liquidity": "46366649758562",
+          "amount0": 0.000873747100590958,
+          "amount1": 908.024752877,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "177",
+          "chain": "bttc",
+          "pool_id": "0xde29ce3a44988fdc1bfebe8573a41cabc09ce8e2",
+          "liquidity": "3948620084480",
+          "amount0": 0.000199206620487018,
+          "amount1": 78.268485924,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "178",
+          "chain": "bttc",
+          "pool_id": "0xeecb1e163d687994d38d932f31ac5d9b4e2bca4d",
+          "liquidity": "1100927632393545599",
+          "amount0": 0.06334663474617415,
+          "amount1": 0.40583014962289987,
+          "amount0_usd": 0.06334663474617415,
+          "amount1_usd": 0.40583014962289987,
+          "liquidity_usd": 0.469176784369074
+        },
+        {
+          "id": "179",
+          "chain": "bttc",
+          "pool_id": "0x5223e885bf8473e229a96ae6ce424976a113a201",
+          "liquidity": "70357157026413214",
+          "amount0": 0.0,
+          "amount1": 19.495093227,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "188",
+          "chain": "bttc",
+          "pool_id": "0x6fbc738305b1bdc8009dffcc96e574db91cce3e9",
+          "liquidity": "10778821089796842831",
+          "amount0": 0.505264133919415,
+          "amount1": 0.5460017130516781,
+          "amount0_usd": 0.505264133919415,
+          "amount1_usd": 0.5460017130516781,
+          "liquidity_usd": 1.0512658469710932
+        }
+      ]
+    },
+    {
+      "owner": "0x84f535dd29638cb152617268a8f5092841be4c9b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.480146691725139,
+      "positions": [
+        {
+          "id": "5",
+          "chain": "bttc",
+          "pool_id": "0xf506adb4856daedee967980a5ef363a8e7800cc1",
+          "liquidity": "33230001813655495683595495",
+          "amount0": 779752093.6778735,
+          "amount1": 1416133.4473976053,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.480146691725139,
+          "liquidity_usd": 1.480146691725139
+        }
+      ]
+    },
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.1976748220097136,
+      "positions": [
+        {
+          "id": "1",
+          "chain": "bttc",
+          "pool_id": "0x6786406bfe658a9197347c37ff75d3b7cd90f0a2",
+          "liquidity": "96676583300547188351",
+          "amount0": 94562.85169382699,
+          "amount1": 0.09883746148276129,
+          "amount0_usd": 0.09883736052695231,
+          "amount1_usd": 0.09883746148276129,
+          "liquidity_usd": 0.1976748220097136
+        }
+      ]
+    },
+    {
+      "owner": "0x375442dcacefc8f93be8a102ea30aa16b658f1e1",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 0.03157863206466852,
+      "positions": [
+        {
+          "id": "102",
+          "chain": "bttc",
+          "pool_id": "0xf506adb4856daedee967980a5ef363a8e7800cc1",
+          "liquidity": "351718504008689654687",
+          "amount0": 3470.7678930818965,
+          "amount1": 2.1433352002881096,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.240220024316508e-6,
+          "liquidity_usd": 2.240220024316508e-6
+        },
+        {
+          "id": "103",
+          "chain": "bttc",
+          "pool_id": "0x34eb9a3ff03b9cda6fa39429e5f597bac5b1bcc7",
+          "liquidity": "3338502497096994491347494",
+          "amount0": 9700.476915338682,
+          "amount1": 30209.779032459166,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.03157534664181078,
+          "liquidity_usd": 0.03157534664181078
+        },
+        {
+          "id": "124",
+          "chain": "bttc",
+          "pool_id": "0x34eb9a3ff03b9cda6fa39429e5f597bac5b1bcc7",
+          "liquidity": "3426333665160945423",
+          "amount0": 1.006653817643766,
+          "amount1": 1.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.0452028334230571e-6,
+          "liquidity_usd": 1.0452028334230571e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x3d098b004d400f38dde34847179d3cf86ac31a5f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.015773802126232493,
+      "positions": [
+        {
+          "id": "79",
+          "chain": "bttc",
+          "pool_id": "0x1ce9a3b6f8640c5ed25b13f49d3bb237e2297f42",
+          "liquidity": "380318203955477842563214",
+          "amount0": 15091.6182216738,
+          "amount1": 290068275440.3512,
+          "amount0_usd": 0.015773802126232493,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.015773802126232493
+        }
+      ]
+    },
+    {
+      "owner": "0x147de7a5e4d199f5e9c4aa9bba3454fb98a26a2d",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 0.005229145052794691,
+      "positions": [
+        {
+          "id": "69",
+          "chain": "bttc",
+          "pool_id": "0x9650d0fd56d57889e11f2662ec72391d14f9cfa0",
+          "liquidity": "158240155931655644",
+          "amount0": 2002.9954814312757,
+          "amount1": 0.0,
+          "amount0_usd": 0.0020935365525255496,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0020935365525255496
+        },
+        {
+          "id": "70",
+          "chain": "bttc",
+          "pool_id": "0x469d76ec4191afb4b0909ac6c0773fc05235a6dd",
+          "liquidity": "1265071270714138642",
+          "amount0": 1999.9999999999802,
+          "amount1": 0.0,
+          "amount0_usd": 0.0020904056668460936,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0020904056668460936
+        },
+        {
+          "id": "72",
+          "chain": "bttc",
+          "pool_id": "0x9e5a851a599330b74fff4f6158bcb067bc1e9199",
+          "liquidity": "10581068763601937",
+          "amount0": 999.9999999999902,
+          "amount1": 0.0,
+          "amount0_usd": 0.001045202833423047,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.001045202833423047
+        }
+      ]
+    },
+    {
+      "owner": "0x627a584c78af211f5a4b520169c23bc88c7bac8e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.004956,
+      "positions": [
+        {
+          "id": "207",
+          "chain": "bttc",
+          "pool_id": "0xfce9f3d45eb21126e966df743f700d12f2d133c1",
+          "liquidity": "105831",
+          "amount0": 0.004956,
+          "amount1": 0.1211,
+          "amount0_usd": 0.004956,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.004956
+        }
+      ]
+    },
+    {
+      "owner": "0x305a433b460419d7632fca2f8c74df5f164f0619",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0026040029634574933,
+      "positions": [
+        {
+          "id": "80",
+          "chain": "bttc",
+          "pool_id": "0x1ce9a3b6f8640c5ed25b13f49d3bb237e2297f42",
+          "liquidity": "2685121816815780838798",
+          "amount0": 2491.385289235525,
+          "amount1": 248148689785.8325,
+          "amount0_usd": 0.0026040029634574933,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0026040029634574933
+        }
+      ]
+    },
+    {
+      "owner": "0x4f2d66999f45483df5e5b309f1c959cbf0d1e480",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.0452028334230572e-5,
+      "positions": [
+        {
+          "id": "123",
+          "chain": "bttc",
+          "pool_id": "0x1bcdcee12ac8cfd63a9e560111f8ba0a520698fb",
+          "liquidity": "335121525779045285",
+          "amount0": 0.0,
+          "amount1": 10.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.0452028334230572e-5,
+          "liquidity_usd": 1.0452028334230572e-5
+        }
+      ]
+    },
+    {
+      "owner": "0x1cfdd76b11a1b23a0663a9d3e7ea35c992decafb",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.95255029059885e-6,
+      "positions": [
+        {
+          "id": "129",
+          "chain": "bttc",
+          "pool_id": "0x4e28de72931c399bbe040d83cb0110fa04235607",
+          "liquidity": "999999999999999999",
+          "amount0": 2.36918143169358,
+          "amount1": 0.42208671173197665,
+          "amount0_usd": 2.476275145299425e-6,
+          "amount1_usd": 2.476275145299425e-6,
+          "liquidity_usd": 4.95255029059885e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x6eeeb4025549626996a11076c0026f92367ede50",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "24",
+          "chain": "bttc",
+          "pool_id": "0x1853853d3fba7772c26d468fcf325a5d19555bba",
+          "liquidity": "725335466542580660928803",
+          "amount0": 28.35650459183673,
+          "amount1": 18553469357.29164,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "83",
+          "chain": "bttc",
+          "pool_id": "0xd21efd2a2e77fd6f9c631158140327b7d6072482",
+          "liquidity": "13699395794821608213677",
+          "amount0": 0.010340266810312982,
+          "amount1": 18149768142.92492,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    }
+  ]
+}

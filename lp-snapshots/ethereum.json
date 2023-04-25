@@ -1,0 +1,1381 @@
+{
+  "number_of_positions": 86,
+  "total_liquidity_usd": 25605.17779657533,
+  "number_distinct_owners": 61,
+  "number_owner_less_than_1_liquidity_usd": 8,
+  "details": [
+    {
+      "owner": "0x5dd596c901987a2b28c38a9c1dfbf86fffc15d77",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13568.462065960011,
+      "positions": [
+        {
+          "id": "861",
+          "chain": "ethereum",
+          "pool_id": "0x99da39d60c9733d37573266a8551443cc122441b",
+          "liquidity": "84710803113366835301",
+          "amount0": 230.74559252836843,
+          "amount1": 5.055720013354062,
+          "amount0_usd": 4157.574559484384,
+          "amount1_usd": 9410.887506475627,
+          "liquidity_usd": 13568.462065960011
+        }
+      ]
+    },
+    {
+      "owner": "0xf81a849945ffb609dc7be08b805c0620d087dc66",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3440.2293521113843,
+      "positions": [
+        {
+          "id": "83",
+          "chain": "ethereum",
+          "pool_id": "0xa38a0165e82b7a5e8650109e9e54087a34c93020",
+          "liquidity": "183051291650073355545",
+          "amount0": 0.16452672560571405,
+          "amount1": 4499.403830556453,
+          "amount0_usd": 306.2555882039357,
+          "amount1_usd": 3133.9737639074488,
+          "liquidity_usd": 3440.2293521113843
+        }
+      ]
+    },
+    {
+      "owner": "0xb9e36547fc19b6f96770b742c47a4cf3a98174dc",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2960.040698,
+      "positions": [
+        {
+          "id": "255",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "18101275277412764",
+          "amount0": 0.0,
+          "amount1": 2960.040698,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2960.040698,
+          "liquidity_usd": 2960.040698
+        }
+      ]
+    },
+    {
+      "owner": "0x0025500c6a6bcaebde159db6a307f4d38503a079",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1021.799277,
+      "positions": [
+        {
+          "id": "370",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "296592792447713",
+          "amount0": 0.0,
+          "amount1": 1021.799277,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1021.799277,
+          "liquidity_usd": 1021.799277
+        }
+      ]
+    },
+    {
+      "owner": "0x3b4a77dd0273abd9c134c75cd97dd56bbad9312c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 470.802141,
+      "positions": [
+        {
+          "id": "351",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "266353495920611",
+          "amount0": 0.0,
+          "amount1": 470.802141,
+          "amount0_usd": 0.0,
+          "amount1_usd": 470.802141,
+          "liquidity_usd": 470.802141
+        }
+      ]
+    },
+    {
+      "owner": "0x4df3308ee828c0fb9c76f5aac290aa8040f89004",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 464.4601695095489,
+      "positions": [
+        {
+          "id": "559",
+          "chain": "ethereum",
+          "pool_id": "0xd4c83b99560fad3541d637c2add7ace251b6b35e",
+          "liquidity": "30998026869067208",
+          "amount0": 0.0,
+          "amount1": 199.999999,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "560",
+          "chain": "ethereum",
+          "pool_id": "0xd4c83b99560fad3541d637c2add7ace251b6b35e",
+          "liquidity": "116158369882405",
+          "amount0": 0.24951744166312312,
+          "amount1": 3132.729535,
+          "amount0_usd": 464.4601695095489,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 464.4601695095489
+        }
+      ]
+    },
+    {
+      "owner": "0x472f64877ee59e57b92e0c09569fea6c32307d76",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 310.4837869880138,
+      "positions": [
+        {
+          "id": "15",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "68958034312930",
+          "amount0": 0.04018040439244015,
+          "amount1": 235.690629,
+          "amount0_usd": 74.79315798801376,
+          "amount1_usd": 235.69062900000003,
+          "liquidity_usd": 310.4837869880138
+        }
+      ]
+    },
+    {
+      "owner": "0x6838a2acb3756c7fbc0b2772cae14248bfe8cad2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 306.46986243234,
+      "positions": [
+        {
+          "id": "519",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "20585315542800348147",
+          "amount0": 0.0,
+          "amount1": 0.1646418380756213,
+          "amount0_usd": 0.0,
+          "amount1_usd": 306.46986243234,
+          "liquidity_usd": 306.46986243234
+        }
+      ]
+    },
+    {
+      "owner": "0x77f6e09da5fdd15e148dfda5c028d54f3bf9ff75",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 261.6091174225851,
+      "positions": [
+        {
+          "id": "557",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "10413399193179",
+          "amount0": 0.058478395780209476,
+          "amount1": 152.755462,
+          "amount0_usd": 108.85365542258509,
+          "amount1_usd": 152.755462,
+          "liquidity_usd": 261.6091174225851
+        }
+      ]
+    },
+    {
+      "owner": "0xb999a0aa511a4ced3458cf3d23b598ece9a73af8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 253.15498039844732,
+      "positions": [
+        {
+          "id": "568",
+          "chain": "ethereum",
+          "pool_id": "0x81df0049443f5d037f92518fbb509e0ee50333ce",
+          "liquidity": "385657004694515453975",
+          "amount0": 0.0,
+          "amount1": 0.136,
+          "amount0_usd": 0.0,
+          "amount1_usd": 253.15498039844732,
+          "liquidity_usd": 253.15498039844732
+        }
+      ]
+    },
+    {
+      "owner": "0x8b932f5e9b62bba7fc468396dd628ae2dd88cf33",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 215.21965697831928,
+      "positions": [
+        {
+          "id": "916",
+          "chain": "ethereum",
+          "pool_id": "0x30234f2afe32693f291b3574d99a55b05840aa05",
+          "liquidity": "882339923140015559380",
+          "amount0": 1154.8456690229661,
+          "amount1": 0.04473588154700136,
+          "amount0_usd": 0.0,
+          "amount1_usd": 92.61106806266254,
+          "liquidity_usd": 92.61106806266254
+        },
+        {
+          "id": "939",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "7375086915437895235",
+          "amount0": 151.60215899129224,
+          "amount1": 0.030258644348308515,
+          "amount0_usd": 66.28412923271829,
+          "amount1_usd": 56.32445968293845,
+          "liquidity_usd": 122.60858891565674
+        }
+      ]
+    },
+    {
+      "owner": "0x9548df6469e35f6d1bc0357fb669519c96034f70",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 196.94155469478062,
+      "positions": [
+        {
+          "id": "333",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "16207036993302021328",
+          "amount0": 0.0,
+          "amount1": 0.10580100536175129,
+          "amount0_usd": 0.0,
+          "amount1_usd": 196.94155469478062,
+          "liquidity_usd": 196.94155469478062
+        }
+      ]
+    },
+    {
+      "owner": "0x75075ee28f91c24f8b84a7c0f55d68274a539835",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 187.22860128971467,
+      "positions": [
+        {
+          "id": "914",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "8697576997145",
+          "amount0": 0.03115513375725414,
+          "amount1": 122.732047,
+          "amount0_usd": 64.49655428971468,
+          "amount1_usd": 122.732047,
+          "liquidity_usd": 187.22860128971467
+        }
+      ]
+    },
+    {
+      "owner": "0x6449270bf9f6a50651e22c5d297527ed640ad4e8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 173.78556187621845,
+      "positions": [
+        {
+          "id": "292",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "3045845207933637662",
+          "amount0": 198.7373650896875,
+          "amount1": 0.04668056772567977,
+          "amount0_usd": 86.89278093810923,
+          "amount1_usd": 86.89278093810923,
+          "liquidity_usd": 173.78556187621845
+        }
+      ]
+    },
+    {
+      "owner": "0x0d81d9e21bd7c5bb095535624dcb0759e64b3899",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 153.31352249809564,
+      "positions": [
+        {
+          "id": "777",
+          "chain": "ethereum",
+          "pool_id": "0x601f4cd9ce39d2869828672c03c4b0bcf2ed15cc",
+          "liquidity": "2778543233",
+          "amount0": 4.0,
+          "amount1": 0.08236313987156657,
+          "amount0_usd": 0.0,
+          "amount1_usd": 153.31352249809564,
+          "liquidity_usd": 153.31352249809564
+        },
+        {
+          "id": "778",
+          "chain": "ethereum",
+          "pool_id": "0x80b044ba2cd812d49fae1bf97cbdb06aec4536d0",
+          "liquidity": "88188642657461",
+          "amount0": 11923.0,
+          "amount1": 79361.8516705845,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xbe2f0354d970265bfc36d383af77f72736b81b54",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 145.2987192573492,
+      "positions": [
+        {
+          "id": "944",
+          "chain": "ethereum",
+          "pool_id": "0xb5e643250ff59311071c5008f722488543dd7b3c",
+          "liquidity": "12733864089046295743",
+          "amount0": 0.02442485955143547,
+          "amount1": 143.3295553857467,
+          "amount0_usd": 45.465256183665254,
+          "amount1_usd": 99.83346307368394,
+          "liquidity_usd": 145.2987192573492
+        }
+      ]
+    },
+    {
+      "owner": "0x36a87d1e3200225f881488e4aeedf25303febcae",
+      "number_of_positions": 7,
+      "total_liquidity_usd": 133.40708500000002,
+      "positions": [
+        {
+          "id": "304",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "45506896458173931",
+          "amount0": 105.31848880069037,
+          "amount1": 94.682382,
+          "amount0_usd": 0.0,
+          "amount1_usd": 94.682382,
+          "liquidity_usd": 94.682382
+        },
+        {
+          "id": "305",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "12504390512579622",
+          "amount0": 8.96141427243163,
+          "amount1": 6.03877,
+          "amount0_usd": 0.0,
+          "amount1_usd": 6.03877,
+          "liquidity_usd": 6.03877
+        },
+        {
+          "id": "306",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "2506383439576682",
+          "amount0": 12.792926043710859,
+          "amount1": 13.204445,
+          "amount0_usd": 0.0,
+          "amount1_usd": 13.204445,
+          "liquidity_usd": 13.204445
+        },
+        {
+          "id": "307",
+          "chain": "ethereum",
+          "pool_id": "0xcd4078b9ffed3047d4a8b4bfa3321890e6bed818",
+          "liquidity": "808995528093237",
+          "amount0": 4.999999633231553,
+          "amount1": 11.086922,
+          "amount0_usd": 0.0,
+          "amount1_usd": 11.086922,
+          "liquidity_usd": 11.086922
+        },
+        {
+          "id": "308",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "25081411097644357",
+          "amount0": 9.999999999999998,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "309",
+          "chain": "ethereum",
+          "pool_id": "0xc175ebde0ed25bbbebc457d7fd045ce9bfe5df1c",
+          "liquidity": "10003012984661594",
+          "amount0": 6.999899765831318,
+          "amount1": 3.000507,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.0005070000000003,
+          "liquidity_usd": 3.0005070000000003
+        },
+        {
+          "id": "322",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "2592530141604960",
+          "amount0": 5.99999951512911,
+          "amount1": 5.394059,
+          "amount0_usd": 0.0,
+          "amount1_usd": 5.394059,
+          "liquidity_usd": 5.394059
+        }
+      ]
+    },
+    {
+      "owner": "0xacaf1dfad2defe9c040b18ac8e92ef8ba21ccf78",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 105.000013,
+      "positions": [
+        {
+          "id": "155",
+          "chain": "ethereum",
+          "pool_id": "0x6b1853adc7ac2c0ac1c58650690b98d36f7e7a13",
+          "liquidity": "332038723085524",
+          "amount0": 1049.9971326503514,
+          "amount1": 105.000013,
+          "amount0_usd": 0.0,
+          "amount1_usd": 105.000013,
+          "liquidity_usd": 105.000013
+        }
+      ]
+    },
+    {
+      "owner": "0x43708367cc20176132a04beabd388176d6d74b50",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 104.4744814054421,
+      "positions": [
+        {
+          "id": "918",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "15875099894217",
+          "amount0": 0.014723311360292826,
+          "amount1": 73.994662,
+          "amount0_usd": 30.479819405442104,
+          "amount1_usd": 73.994662,
+          "liquidity_usd": 104.4744814054421
+        }
+      ]
+    },
+    {
+      "owner": "0x61e1a8041186ceb8a561f6f264e8b2bb2e20e06d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 101.27329448095733,
+      "positions": [
+        {
+          "id": "210",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "4038001037992",
+          "amount0": 0.02640391168638922,
+          "amount1": 52.124164,
+          "amount0_usd": 49.149130480957325,
+          "amount1_usd": 52.124164,
+          "liquidity_usd": 101.27329448095733
+        }
+      ]
+    },
+    {
+      "owner": "0x0193a8a52d77e27bdd4f12e0cdd52d8ff1d97d68",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 95.34303002795373,
+      "positions": [
+        {
+          "id": "22",
+          "chain": "ethereum",
+          "pool_id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+          "liquidity": "251886369",
+          "amount0": 11.669126,
+          "amount1": 2.582351,
+          "amount0_usd": 11.669126,
+          "amount1_usd": 2.582351,
+          "liquidity_usd": 14.251477000000001
+        },
+        {
+          "id": "4",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "509456610829",
+          "amount0": 0.001192461797395357,
+          "amount1": 9.753347,
+          "amount0_usd": 2.219688551069991,
+          "amount1_usd": 9.753347,
+          "liquidity_usd": 11.97303555106999
+        },
+        {
+          "id": "593",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "1349331026149",
+          "amount0": 0.003747943749989596,
+          "amount1": 61.359621,
+          "amount0_usd": 7.7588964768837405,
+          "amount1_usd": 61.359621,
+          "liquidity_usd": 69.11851747688374
+        }
+      ]
+    },
+    {
+      "owner": "0x5180db0237291a6449dda9ed33ad90a38787621c",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 92.126488,
+      "positions": [
+        {
+          "id": "301",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "22753448229086964",
+          "amount0": 52.65924440034518,
+          "amount1": 47.341191,
+          "amount0_usd": 0.0,
+          "amount1_usd": 47.341191,
+          "liquidity_usd": 47.341191
+        },
+        {
+          "id": "303",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "2275344731895141",
+          "amount0": 5.265924229398091,
+          "amount1": 4.734118,
+          "amount0_usd": 0.0,
+          "amount1_usd": 4.734118,
+          "liquidity_usd": 4.734118
+        },
+        {
+          "id": "318",
+          "chain": "ethereum",
+          "pool_id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+          "liquidity": "20057393563",
+          "amount0": 4.944871,
+          "amount1": 15.107285,
+          "amount0_usd": 4.944871,
+          "amount1_usd": 15.107285,
+          "liquidity_usd": 20.052156
+        },
+        {
+          "id": "319",
+          "chain": "ethereum",
+          "pool_id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+          "liquidity": "9999512",
+          "amount0": 9.997478,
+          "amount1": 10.001545,
+          "amount0_usd": 9.997478,
+          "amount1_usd": 10.001545,
+          "liquidity_usd": 19.999023
+        }
+      ]
+    },
+    {
+      "owner": "0x6cada842a8067432fc3cb262adbe0c37bc7ca229",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 67.85437999999999,
+      "positions": [
+        {
+          "id": "930",
+          "chain": "ethereum",
+          "pool_id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+          "liquidity": "96956451578",
+          "amount0": 33.593578,
+          "amount1": 34.260802,
+          "amount0_usd": 33.593578,
+          "amount1_usd": 34.260802,
+          "liquidity_usd": 67.85437999999999
+        }
+      ]
+    },
+    {
+      "owner": "0x38fe88132bb86313a8b17d8a2e3fa15044b259f0",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 65.84744438962466,
+      "positions": [
+        {
+          "id": "221",
+          "chain": "ethereum",
+          "pool_id": "0xebfe63ba0264ad639b3c41d2bfe1ad708f683bc8",
+          "liquidity": "8463033679044227",
+          "amount0": 0.007762180389491038,
+          "amount1": 0.00894390380327894,
+          "amount0_usd": 16.069065624884377,
+          "amount1_usd": 16.64848376474028,
+          "liquidity_usd": 32.71754938962466
+        },
+        {
+          "id": "224",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "775336426622048",
+          "amount0": 0.0,
+          "amount1": 33.129895,
+          "amount0_usd": 0.0,
+          "amount1_usd": 33.129895,
+          "liquidity_usd": 33.129895
+        }
+      ]
+    },
+    {
+      "owner": "0xbecb9e5874f834b87313b53f5c392140f353f601",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 62.275016178306274,
+      "positions": [
+        {
+          "id": "867",
+          "chain": "ethereum",
+          "pool_id": "0x99da39d60c9733d37573266a8551443cc122441b",
+          "liquidity": "584328024880157215",
+          "amount0": 0.0,
+          "amount1": 0.033455404222818126,
+          "amount0_usd": 0.0,
+          "amount1_usd": 62.275016178306274,
+          "liquidity_usd": 62.275016178306274
+        }
+      ]
+    },
+    {
+      "owner": "0x6eed1087acd27a6306e8a3e989144b4a679d3c50",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 51.51201265391933,
+      "positions": [
+        {
+          "id": "783",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "4233259297559567593",
+          "amount0": 2.3143825146606867,
+          "amount1": 0.0271296846199739,
+          "amount0_usd": 1.0119039907902887,
+          "amount1_usd": 50.50010866312904,
+          "liquidity_usd": 51.51201265391933
+        }
+      ]
+    },
+    {
+      "owner": "0x59f91aa50dfb3e4ac6d3580e5a2fc22a7c24f505",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 44.950502,
+      "positions": [
+        {
+          "id": "321",
+          "chain": "ethereum",
+          "pool_id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+          "liquidity": "21604419288588603",
+          "amount0": 49.999999296413044,
+          "amount1": 44.950502,
+          "amount0_usd": 0.0,
+          "amount1_usd": 44.950502,
+          "liquidity_usd": 44.950502
+        }
+      ]
+    },
+    {
+      "owner": "0x9c89060e3772c3075e66bcf8e5e0e020717c5b4f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 42.55040473195111,
+      "positions": [
+        {
+          "id": "868",
+          "chain": "ethereum",
+          "pool_id": "0x99da39d60c9733d37573266a8551443cc122441b",
+          "liquidity": "1646696424726920380",
+          "amount0": 0.0,
+          "amount1": 0.022858942116948548,
+          "amount0_usd": 0.0,
+          "amount1_usd": 42.55040473195111,
+          "liquidity_usd": 42.55040473195111
+        }
+      ]
+    },
+    {
+      "owner": "0x205844900cef35cfbf153630c915b7509e5d192c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 41.79764197925782,
+      "positions": [
+        {
+          "id": "551",
+          "chain": "ethereum",
+          "pool_id": "0x30234f2afe32693f291b3574d99a55b05840aa05",
+          "liquidity": "3484100578707463393",
+          "amount0": 41.978968293439074,
+          "amount1": 0.020190398401008263,
+          "amount0_usd": 0.0,
+          "amount1_usd": 41.79764197925782,
+          "liquidity_usd": 41.79764197925782
+        }
+      ]
+    },
+    {
+      "owner": "0x349a01774f22f51ffd46270b48f1fdc85ac9131f",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 37.22867358800695,
+      "positions": [
+        {
+          "id": "507",
+          "chain": "ethereum",
+          "pool_id": "0x298d6c604378bcaa81c5eb7d603f7b48dc12de81",
+          "liquidity": "9999999999999999",
+          "amount0": 0.009999999999999998,
+          "amount1": 0.009999999999999998,
+          "amount0_usd": 0.0,
+          "amount1_usd": 18.614336794003474,
+          "liquidity_usd": 18.614336794003474
+        },
+        {
+          "id": "540",
+          "chain": "ethereum",
+          "pool_id": "0xebfe63ba0264ad639b3c41d2bfe1ad708f683bc8",
+          "liquidity": "190441453276218709088",
+          "amount0": 0.0,
+          "amount1": 0.009999999999999998,
+          "amount0_usd": 0.0,
+          "amount1_usd": 18.614336794003474,
+          "liquidity_usd": 18.614336794003474
+        }
+      ]
+    },
+    {
+      "owner": "0x353924cacc1206ef5fbde26eea1887fb44142155",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 36.859699,
+      "positions": [
+        {
+          "id": "576",
+          "chain": "ethereum",
+          "pool_id": "0xcbef9bfafec9d88f097d6c2cb25a8be57f7c678e",
+          "liquidity": "418208158145500",
+          "amount0": 36.859699,
+          "amount1": 347.5095021338479,
+          "amount0_usd": 36.859699,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 36.859699
+        }
+      ]
+    },
+    {
+      "owner": "0x2fbe675c581d624c02778eef1b47211631a2fad8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 36.65385966341,
+      "positions": [
+        {
+          "id": "932",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "8530839064191267265",
+          "amount0": 71.94747175842728,
+          "amount1": 0.002791765066287346,
+          "amount0_usd": 31.457174144049393,
+          "amount1_usd": 5.19668551936061,
+          "liquidity_usd": 36.65385966341
+        }
+      ]
+    },
+    {
+      "owner": "0x8980dbbe60d92b53b08ff95ea1aaaabb7f665bcb",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 35.176978,
+      "positions": [
+        {
+          "id": "958",
+          "chain": "ethereum",
+          "pool_id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+          "liquidity": "100563455671",
+          "amount0": 0.0,
+          "amount1": 35.176978,
+          "amount0_usd": 0.0,
+          "amount1_usd": 35.176978,
+          "liquidity_usd": 35.176978
+        }
+      ]
+    },
+    {
+      "owner": "0xe149f2fa33449d5fd390fca56199f7f2dc68ef00",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 34.160393365146945,
+      "positions": [
+        {
+          "id": "513",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "5595121996452",
+          "amount0": 0.007363852667349767,
+          "amount1": 20.45307,
+          "amount0_usd": 13.707323365146943,
+          "amount1_usd": 20.45307,
+          "liquidity_usd": 34.160393365146945
+        }
+      ]
+    },
+    {
+      "owner": "0x6a9d63cbb02b6a7d5d09ce11d0a4b981bb1a221d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 33.18705085310757,
+      "positions": [
+        {
+          "id": "695",
+          "chain": "ethereum",
+          "pool_id": "0xb5e643250ff59311071c5008f722488543dd7b3c",
+          "liquidity": "1643731251275064118",
+          "amount0": 0.004275918112404007,
+          "amount1": 36.21908684212361,
+          "amount0_usd": 7.959337984786781,
+          "amount1_usd": 25.22771286832079,
+          "liquidity_usd": 33.18705085310757
+        }
+      ]
+    },
+    {
+      "owner": "0x8fd7797dd5cf8874dd4e68fd3b570c2796aac5f5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 33.136983553201034,
+      "positions": [
+        {
+          "id": "928",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "367947582192",
+          "amount0": 0.007920127448904721,
+          "amount1": 16.74094,
+          "amount0_usd": 16.39604355320104,
+          "amount1_usd": 16.74094,
+          "liquidity_usd": 33.136983553201034
+        }
+      ]
+    },
+    {
+      "owner": "0x44183fd1a79704f79e0986c6380dd9bfbbc7e6d2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 32.814941,
+      "positions": [
+        {
+          "id": "11",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "113861653113064",
+          "amount0": 0.0,
+          "amount1": 32.814941,
+          "amount0_usd": 0.0,
+          "amount1_usd": 32.814941,
+          "liquidity_usd": 32.814941
+        }
+      ]
+    },
+    {
+      "owner": "0x3f1a1f2725d5f073ab4fafeb304c180d575ad8e6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 29.089278808844025,
+      "positions": [
+        {
+          "id": "317",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "39818302414382062178",
+          "amount0": 0.0,
+          "amount1": 0.015627351718603803,
+          "amount0_usd": 0.0,
+          "amount1_usd": 29.089278808844025,
+          "liquidity_usd": 29.089278808844025
+        }
+      ]
+    },
+    {
+      "owner": "0xef9d2faef8fa75bff37f751481c1ccdbbd6eb3b5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 21.266565261766175,
+      "positions": [
+        {
+          "id": "21",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "357127532523",
+          "amount0": 0.003147516522669554,
+          "amount1": 15.407672,
+          "amount0_usd": 5.858893261766176,
+          "amount1_usd": 15.407672,
+          "liquidity_usd": 21.266565261766175
+        }
+      ]
+    },
+    {
+      "owner": "0x5d1aef79aefe7769855b602acd3efd2939d99b65",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 20.9457068016678,
+      "positions": [
+        {
+          "id": "814",
+          "chain": "ethereum",
+          "pool_id": "0xebfe63ba0264ad639b3c41d2bfe1ad708f683bc8",
+          "liquidity": "1063435944348959034",
+          "amount0": 0.002296340335443362,
+          "amount1": 0.008698608201921225,
+          "amount0_usd": 4.753824530703532,
+          "amount1_usd": 16.191882270964268,
+          "liquidity_usd": 20.9457068016678
+        }
+      ]
+    },
+    {
+      "owner": "0xc1096b1a2a42e9239d1f1b3901f97a4f297fcb26",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 20.243824139711887,
+      "positions": [
+        {
+          "id": "538",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "2148764537669441703",
+          "amount0": 0.0,
+          "amount1": 0.010875393716005688,
+          "amount0_usd": 0.0,
+          "amount1_usd": 20.243824139711887,
+          "liquidity_usd": 20.243824139711887
+        }
+      ]
+    },
+    {
+      "owner": "0xc16414ac1fedfdac4f8a09674d994e1bbb9d7113",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 18.64956223773931,
+      "positions": [
+        {
+          "id": "92",
+          "chain": "ethereum",
+          "pool_id": "0xc5d2fcd426a648b2cabf14aabafc9a87801d4b40",
+          "liquidity": "23939456229293225759",
+          "amount0": 0.000898043414626803,
+          "amount1": 0.009020174132817789,
+          "amount0_usd": 1.859106312856453,
+          "amount1_usd": 16.790455924882856,
+          "liquidity_usd": 18.64956223773931
+        }
+      ]
+    },
+    {
+      "owner": "0xdd7e0e26a3bbdcb441a23936e63a8272a78fe1a2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 18.614336794003474,
+      "positions": [
+        {
+          "id": "335",
+          "chain": "ethereum",
+          "pool_id": "0xebfe63ba0264ad639b3c41d2bfe1ad708f683bc8",
+          "liquidity": "10000999587500012322",
+          "amount0": 0.0,
+          "amount1": 0.009999999999999998,
+          "amount0_usd": 0.0,
+          "amount1_usd": 18.614336794003474,
+          "liquidity_usd": 18.614336794003474
+        }
+      ]
+    },
+    {
+      "owner": "0x423cf8c9c414583401ab043390307f526bdedb76",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13.78432866617933,
+      "positions": [
+        {
+          "id": "219",
+          "chain": "ethereum",
+          "pool_id": "0x30234f2afe32693f291b3574d99a55b05840aa05",
+          "liquidity": "313141590343257693",
+          "amount0": 4.9131243162162095,
+          "amount1": 0.00665853560826977,
+          "amount0_usd": 0.0,
+          "amount1_usd": 13.78432866617933,
+          "liquidity_usd": 13.78432866617933
+        }
+      ]
+    },
+    {
+      "owner": "0xe321bd63cde8ea046b382f82964575f2a5586474",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 9.832235,
+      "positions": [
+        {
+          "id": "100",
+          "chain": "ethereum",
+          "pool_id": "0x2c104235eb170e72a19377b07e2dfbd4d7f0c51f",
+          "liquidity": "9546930054538601",
+          "amount0": 0.0,
+          "amount1": 9.549782189865528,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "99",
+          "chain": "ethereum",
+          "pool_id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+          "liquidity": "9366596533",
+          "amount0": 2.777288,
+          "amount1": 7.054947,
+          "amount0_usd": 2.777288,
+          "amount1_usd": 7.054947,
+          "liquidity_usd": 9.832235
+        }
+      ]
+    },
+    {
+      "owner": "0x4c8f8089607ba1d370c7c62743a309bcb01d1eec",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 8.173677191080689,
+      "positions": [
+        {
+          "id": "903",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "40171956566",
+          "amount0": 0.000256635986178151,
+          "amount1": 0.536638,
+          "amount0_usd": 0.47771086801813234,
+          "amount1_usd": 0.536638,
+          "liquidity_usd": 1.0143488680181323
+        },
+        {
+          "id": "931",
+          "chain": "ethereum",
+          "pool_id": "0x30234f2afe32693f291b3574d99a55b05840aa05",
+          "liquidity": "406428391343514630",
+          "amount0": 2.888628561464662,
+          "amount1": 0.000638198092113745,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.3211812286321016,
+          "liquidity_usd": 1.3211812286321016
+        },
+        {
+          "id": "957",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "81421279161911",
+          "amount0": 0.002820123580625319,
+          "amount1": 0.0,
+          "amount0_usd": 5.838147094430456,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 5.838147094430456
+        }
+      ]
+    },
+    {
+      "owner": "0xbf02d40adef92d980ead67ce377ab5f46c7a0ad4",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 7.468259919576449,
+      "positions": [
+        {
+          "id": "72",
+          "chain": "ethereum",
+          "pool_id": "0x7872fae23cc7959cc97ac9ff0d7d559b5a154fc9",
+          "liquidity": "1425564728370650138209",
+          "amount0": 506526330.38740665,
+          "amount1": 0.004012100996250543,
+          "amount0_usd": 0.0,
+          "amount1_usd": 7.468259919576449,
+          "liquidity_usd": 7.468259919576449
+        }
+      ]
+    },
+    {
+      "owner": "0x4ab88515fd84289d8aab1464753775e90695e944",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 5.515852000000001,
+      "positions": [
+        {
+          "id": "526",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "126904601543",
+          "amount0": 0.0,
+          "amount1": 3.476699,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.476699,
+          "liquidity_usd": 3.476699
+        },
+        {
+          "id": "553",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "228045041506",
+          "amount0": 0.0,
+          "amount1": 2.039153,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.039153,
+          "liquidity_usd": 2.039153
+        }
+      ]
+    },
+    {
+      "owner": "0x882a703c43e71e1463ef6694548fd6ee3440e533",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.805405784954807,
+      "positions": [
+        {
+          "id": "359",
+          "chain": "ethereum",
+          "pool_id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+          "liquidity": "586711399684208540",
+          "amount0": 0.0,
+          "amount1": 0.002581561641510025,
+          "amount0_usd": 0.0,
+          "amount1_usd": 4.805405784954807,
+          "liquidity_usd": 4.805405784954807
+        }
+      ]
+    },
+    {
+      "owner": "0x03c2bfd2509de9b13d0124015077e100a292336d",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 3.890464,
+      "positions": [
+        {
+          "id": "444",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "1054981576557",
+          "amount0": 0.0,
+          "amount1": 0.991443,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.9914429999999999,
+          "liquidity_usd": 0.9914429999999999
+        },
+        {
+          "id": "446",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "525782518342",
+          "amount0": 0.0,
+          "amount1": 0.99648,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.99648,
+          "liquidity_usd": 0.99648
+        },
+        {
+          "id": "447",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "255267137854",
+          "amount0": 0.0,
+          "amount1": 0.973489,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.973489,
+          "liquidity_usd": 0.973489
+        },
+        {
+          "id": "448",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "96731733343",
+          "amount0": 0.0,
+          "amount1": 0.929052,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.9290520000000001,
+          "liquidity_usd": 0.9290520000000001
+        }
+      ]
+    },
+    {
+      "owner": "0x5853ed4f26a3fcea565b3fbc698bb19cdf6deb85",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.379982416160492,
+      "positions": [
+        {
+          "id": "30",
+          "chain": "ethereum",
+          "pool_id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+          "liquidity": "27581637413",
+          "amount0": 0.0006392875713648,
+          "amount1": 1.189991,
+          "amount0_usd": 1.189991416160492,
+          "amount1_usd": 1.189991,
+          "liquidity_usd": 2.379982416160492
+        }
+      ]
+    },
+    {
+      "owner": "0x4c5c114fea6aff20a30949b902ebde36cf2ffb48",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.333357257032036,
+      "positions": [
+        {
+          "id": "76",
+          "chain": "ethereum",
+          "pool_id": "0xa38a0165e82b7a5e8650109e9e54087a34c93020",
+          "liquidity": "128187206094638255",
+          "amount0": 2.8535664362953e-5,
+          "amount1": 3.2737098042079675,
+          "amount0_usd": 0.05311724670926499,
+          "amount1_usd": 2.280240010322771,
+          "liquidity_usd": 2.333357257032036
+        }
+      ]
+    },
+    {
+      "owner": "0xc766d73be01caa06834032bf5c8f8f0f41a7bf36",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.240539,
+      "positions": [
+        {
+          "id": "395",
+          "chain": "ethereum",
+          "pool_id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+          "liquidity": "4094704444917",
+          "amount0": 0.0,
+          "amount1": 1.240539,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.240539,
+          "liquidity_usd": 1.240539
+        }
+      ]
+    },
+    {
+      "owner": "0x5c172edfe62f1acde0dbf8e8c4fbb435b872c335",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.014981009520069975,
+      "positions": [
+        {
+          "id": "616",
+          "chain": "ethereum",
+          "pool_id": "0xebfe63ba0264ad639b3c41d2bfe1ad708f683bc8",
+          "liquidity": "7638787981281368",
+          "amount0": 0.0,
+          "amount1": 8.048102753194e-6,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.014981009520069975,
+          "liquidity_usd": 0.014981009520069975
+        }
+      ]
+    },
+    {
+      "owner": "0x155a5b7a6e5c494ebefa28c631ebebc361410166",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "2",
+          "chain": "ethereum",
+          "pool_id": "0xc21545b5758e323c216d7b6f40985053969dab7b",
+          "liquidity": "778124960434359",
+          "amount0": 45119998.99,
+          "amount1": 35194888.41995991,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x8dbe24f1dd6bdd1f2014b26a563c9c6153ad1e67",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "235",
+          "chain": "ethereum",
+          "pool_id": "0xa140955e16dec0a6b8448e47301545836d3a4886",
+          "liquidity": "5777019930224378717713",
+          "amount0": 0.0,
+          "amount1": 3464.656259963161,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x01b2f6622b0815194b805df29b053c13a75f7363",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "3",
+          "chain": "ethereum",
+          "pool_id": "0xc4d8d5592fc2a70fd7185058ce1d857d255b641c",
+          "liquidity": "299704010844565",
+          "amount0": 519.95852105,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "32",
+          "chain": "ethereum",
+          "pool_id": "0x2c104235eb170e72a19377b07e2dfbd4d7f0c51f",
+          "liquidity": "8219618044408868",
+          "amount0": 0.0,
+          "amount1": 9.452312473542376,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x4f125e835bbc9bbb77607c66de6d0d32339b936c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "58",
+          "chain": "ethereum",
+          "pool_id": "0x7872fae23cc7959cc97ac9ff0d7d559b5a154fc9",
+          "liquidity": "296968176802957042958218",
+          "amount0": 18014733504.27333,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xfe61afcbb31aaa6db74f2d141cd8515ac7b67ebe",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "6",
+          "chain": "ethereum",
+          "pool_id": "0x7b97a46e2899185ae3b75f51ca31eca387d959e6",
+          "liquidity": "134052499758669102",
+          "amount0": 1.217160733797539,
+          "amount1": 20194227.9,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "7",
+          "chain": "ethereum",
+          "pool_id": "0xc09f95fb1bf19cf9c62498547e569eec51559c75",
+          "liquidity": "3730812195265935",
+          "amount0": 9.807136630506808,
+          "amount1": 5551740.79,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "8",
+          "chain": "ethereum",
+          "pool_id": "0x584b94cd135a5929ad0b3b737085a95dd934df7f",
+          "liquidity": "7336407978686357",
+          "amount0": 236.08603127557737,
+          "amount1": 48942.25,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x4021e9ed48c3151c62d32d1765f8a72889d62132",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "600",
+          "chain": "ethereum",
+          "pool_id": "0x30234f2afe32693f291b3574d99a55b05840aa05",
+          "liquidity": "61384253253155542463",
+          "amount0": 249.82373254357427,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    }
+  ]
+}

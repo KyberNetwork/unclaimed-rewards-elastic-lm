@@ -1,0 +1,178 @@
+{
+  "number_of_positions": 11,
+  "total_liquidity_usd": 4.429536404805619,
+  "number_distinct_owners": 7,
+  "number_owner_less_than_1_liquidity_usd": 6,
+  "details": [
+    {
+      "owner": "0xbe2f0354d970265bfc36d383af77f72736b81b54",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3.6759439310245337,
+      "positions": [
+        {
+          "id": "30",
+          "chain": "cronos",
+          "pool_id": "0x114b5c670fa904111d38f04e5254531484c3c1bc",
+          "liquidity": "12251362690015361",
+          "amount0": 0.71759,
+          "amount1": 2.9583539310245337,
+          "amount0_usd": 0.71759,
+          "amount1_usd": 2.9583539310245337,
+          "liquidity_usd": 3.6759439310245337
+        }
+      ]
+    },
+    {
+      "owner": "0x876c2f5dfddabf4d1eee8a1379e4a7f6b4618d96",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.5423098110509059,
+      "positions": [
+        {
+          "id": "37",
+          "chain": "cronos",
+          "pool_id": "0x911f46012efad4371a2697761d39eb3b316c3ed1",
+          "liquidity": "8603088015321",
+          "amount0": 4.924821982528876,
+          "amount1": 0.1889,
+          "amount0_usd": 0.35340981105090585,
+          "amount1_usd": 0.18890000000000004,
+          "liquidity_usd": 0.5423098110509059
+        }
+      ]
+    },
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.21128166197188006,
+      "positions": [
+        {
+          "id": "31",
+          "chain": "cronos",
+          "pool_id": "0x911f46012efad4371a2697761d39eb3b316c3ed1",
+          "liquidity": "876506381594",
+          "amount0": 0.858823915865051,
+          "amount1": 0.080757,
+          "amount0_usd": 0.061630003867878314,
+          "amount1_usd": 0.080757,
+          "liquidity_usd": 0.1423870038678783
+        },
+        {
+          "id": "33",
+          "chain": "cronos",
+          "pool_id": "0x233b8ce551b0adc2f25aca6a1914eab0203c8eff",
+          "liquidity": "1999",
+          "amount0": 1.18e-6,
+          "amount1": 0.03373,
+          "amount0_usd": 0.03516465810400174,
+          "amount1_usd": 0.03373,
+          "liquidity_usd": 0.06889465810400175
+        }
+      ]
+    },
+    {
+      "owner": "0x7e3d3be26045b3a61d5a43bbbf5e22d14263c614",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.00075829929e-6,
+      "positions": [
+        {
+          "id": "36",
+          "chain": "cronos",
+          "pool_id": "0x114b5c670fa904111d38f04e5254531484c3c1bc",
+          "liquidity": "1000268",
+          "amount0": 0.0,
+          "amount1": 1.00075829929e-6,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.00075829929e-6,
+          "liquidity_usd": 1.00075829929e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x7c807e32573d5e80737f25113003f496efaff3a4",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "18",
+          "chain": "cronos",
+          "pool_id": "0x2ce79e820d0277b0446af5f295c24da352e25fad",
+          "liquidity": "302815359436939113076024",
+          "amount0": 0.0,
+          "amount1": 6116.967129422817,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "34",
+          "chain": "cronos",
+          "pool_id": "0x2ce79e820d0277b0446af5f295c24da352e25fad",
+          "liquidity": "162910294031583212660931",
+          "amount0": 68.44805530559849,
+          "amount1": 8276.548234075488,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x24ada8c0fcf7c2a70b79ae4791f8c2a60d207d93",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "21",
+          "chain": "cronos",
+          "pool_id": "0x8b6c081fd52440dd35d1c2f515e0aef524930a02",
+          "liquidity": "991545138549510218",
+          "amount0": 1.0,
+          "amount1": 0.9831617617811674,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "22",
+          "chain": "cronos",
+          "pool_id": "0x5e297b2c6da97da91cde944f21af27ee5fdb4333",
+          "liquidity": "990965270240808987",
+          "amount0": 1.0,
+          "amount1": 0.9820121668234396,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "23",
+          "chain": "cronos",
+          "pool_id": "0x0a0dbb730c34f4b77d4e6a0cd7941c136b6a0f78",
+          "liquidity": "1006735411850311332",
+          "amount0": 0.029240507077605254,
+          "amount1": 34.66137528954307,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x94d9a9d1d8bc245c126fe393fb44bf08da355579",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "32",
+          "chain": "cronos",
+          "pool_id": "0xbbffe164db4cd6b5b989c342eda9cf03dbe6ed01",
+          "liquidity": "781714414",
+          "amount0": 6.50243723,
+          "amount1": 0.00819861,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    }
+  ]
+}
