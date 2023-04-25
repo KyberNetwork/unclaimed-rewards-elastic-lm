@@ -1,0 +1,2189 @@
+{
+  "number_of_positions": 155,
+  "total_liquidity_usd": 67959.60292182874,
+  "number_distinct_owners": 68,
+  "number_owner_less_than_1_liquidity_usd": 23,
+  "details": [
+    {
+      "owner": "0xa1efa0adecb7f5691605899d13285928ae025844",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 48350.20171220422,
+      "positions": [
+        {
+          "id": "2378",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "55652790827363466910278",
+          "amount0": 79611.27581665332,
+          "amount1": 0.0,
+          "amount0_usd": 32390.18482033585,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 32390.18482033585
+        },
+        {
+          "id": "2379",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "415594118711668143",
+          "amount0": 0.0,
+          "amount1": 39227.84985219496,
+          "amount0_usd": 0.0,
+          "amount1_usd": 15960.016891868374,
+          "liquidity_usd": 15960.016891868374
+        }
+      ]
+    },
+    {
+      "owner": "0xf944aa03af729a12da3373631588f50e3c8738cf",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 9460.139497485085,
+      "positions": [
+        {
+          "id": "2067",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "2819537403397240",
+          "amount0": 13907.579564937298,
+          "amount1": 0.13914677,
+          "amount0_usd": 5658.357662164418,
+          "amount1_usd": 3801.781835320667,
+          "liquidity_usd": 9460.139497485085
+        }
+      ]
+    },
+    {
+      "owner": "0xf1de2399973afc71953b248eb4c280b9ee631544",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3086.4188319256705,
+      "positions": [
+        {
+          "id": "1537",
+          "chain": "fantom",
+          "pool_id": "0xb4fbf5e3f326848225efeba4c5ab5be718694196",
+          "liquidity": "13760865479705349213785",
+          "amount0": 4488.75164918324,
+          "amount1": 3423.1622456972996,
+          "amount0_usd": 1826.2676240043259,
+          "amount1_usd": 1260.1512079213446,
+          "liquidity_usd": 3086.4188319256705
+        }
+      ]
+    },
+    {
+      "owner": "0xa1dc437005516418cbeb2aaa015573345f637317",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1580.902932361226,
+      "positions": [
+        {
+          "id": "654",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "63448863615916160757255",
+          "amount0": 1679.3495097930104,
+          "amount1": 198814.61238875758,
+          "amount0_usd": 683.2504622260761,
+          "amount1_usd": 897.6524701351499,
+          "liquidity_usd": 1580.902932361226
+        }
+      ]
+    },
+    {
+      "owner": "0x8cbc223df02067476b7f3577eb6b0ac16f8e371d",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 848.6089534545408,
+      "positions": [
+        {
+          "id": "2066",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "307529595674523",
+          "amount0": 716.0786770620325,
+          "amount1": 0.00302767,
+          "amount0_usd": 291.3396432605474,
+          "amount1_usd": 82.72229969366393,
+          "liquidity_usd": 374.0619429542113
+        },
+        {
+          "id": "2251",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "158442213364346960289",
+          "amount0": 1123.8162138722123,
+          "amount1": 0.009532984365678182,
+          "amount0_usd": 457.229387395355,
+          "amount1_usd": 17.31762310497447,
+          "liquidity_usd": 474.54701050032946
+        }
+      ]
+    },
+    {
+      "owner": "0xb755f2111f348a94ce7e1e86927583f818a3b887",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 680.7780299929753,
+      "positions": [
+        {
+          "id": "1395",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "2255690125711809",
+          "amount0": 237.163033,
+          "amount1": 1090.3536388541484,
+          "amount0_usd": 237.163033,
+          "amount1_usd": 443.61499699297536,
+          "liquidity_usd": 680.7780299929753
+        }
+      ]
+    },
+    {
+      "owner": "0xe5c4f20d6e299a637a5c172d181c30ca5950b852",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 606.7262593578763,
+      "positions": [
+        {
+          "id": "1948",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "119928266803170",
+          "amount0": 787.328888181367,
+          "amount1": 0.01048229,
+          "amount0_usd": 320.3280934891071,
+          "amount1_usd": 286.3981658687692,
+          "liquidity_usd": 606.7262593578763
+        }
+      ]
+    },
+    {
+      "owner": "0xd5da422aa15c6f80afc15884f70602446ec282e9",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 604.7035880213355,
+      "positions": [
+        {
+          "id": "1455",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "1474587423259982",
+          "amount0": 73.212658,
+          "amount1": 659.2049010308731,
+          "amount0_usd": 73.212658,
+          "amount1_usd": 268.2003065499769,
+          "liquidity_usd": 341.4129645499769
+        },
+        {
+          "id": "1458",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "26789995711343491864",
+          "amount0": 581.3669004609023,
+          "amount1": 0.014730282653653847,
+          "amount0_usd": 236.5315862758148,
+          "amount1_usd": 26.759037195543854,
+          "liquidity_usd": 263.29062347135863
+        }
+      ]
+    },
+    {
+      "owner": "0x1f3f3f2eef6154ef7d087f48a9afda27aa4bfa10",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 434.32824875878316,
+      "positions": [
+        {
+          "id": "1878",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "89143189910205199134",
+          "amount0": 791.6085030683762,
+          "amount1": 0.06179618617080061,
+          "amount0_usd": 322.0692729354625,
+          "amount1_usd": 112.25897582332064,
+          "liquidity_usd": 434.32824875878316
+        }
+      ]
+    },
+    {
+      "owner": "0x21af6b21f15028d8a164a49224c222582e401e6d",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 287.7104774451371,
+      "positions": [
+        {
+          "id": "1312",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "66056286104640",
+          "amount0": 8.190615,
+          "amount1": 39.25393896540896,
+          "amount0_usd": 8.190615000000001,
+          "amount1_usd": 15.970631358099846,
+          "liquidity_usd": 24.161246358099845
+        },
+        {
+          "id": "920",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "713708043939347",
+          "amount0": 107.889382,
+          "amount1": 382.5936544661636,
+          "amount0_usd": 107.889382,
+          "amount1_usd": 155.65984908703723,
+          "liquidity_usd": 263.54923108703724
+        }
+      ]
+    },
+    {
+      "owner": "0xe546e60d8cc8a85cf103d7b174bf1692dfa3f838",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 230.83078589007465,
+      "positions": [
+        {
+          "id": "2128",
+          "chain": "fantom",
+          "pool_id": "0x463f00960921848864fb25d96772bae61622bef4",
+          "liquidity": "124473349438139363196446",
+          "amount0": 567.355001658772,
+          "amount1": 0.0,
+          "amount0_usd": 230.83078589007465,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 230.83078589007465
+        }
+      ]
+    },
+    {
+      "owner": "0xcde771cb4b774d9e78192d111ab45a34cf60e583",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 192.16473200000001,
+      "positions": [
+        {
+          "id": "1658",
+          "chain": "fantom",
+          "pool_id": "0x8dcf5fed6ae6bf0befb5e4f0c9414c2cb9a4ed01",
+          "liquidity": "192220685495",
+          "amount0": 106.952711,
+          "amount1": 85.212021,
+          "amount0_usd": 106.95271100000001,
+          "amount1_usd": 85.21202100000001,
+          "liquidity_usd": 192.16473200000001
+        }
+      ]
+    },
+    {
+      "owner": "0x626e4c4bf9b150403d41f0841457d3bdf961b32f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 176.45822475587886,
+      "positions": [
+        {
+          "id": "2216",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "46330502374509057181",
+          "amount0": 307.78696403085837,
+          "amount1": 0.02820311769697871,
+          "amount0_usd": 125.22443018259183,
+          "amount1_usd": 51.23379457328703,
+          "liquidity_usd": 176.45822475587886
+        }
+      ]
+    },
+    {
+      "owner": "0xc8732f994157eb7c37125b09c16ba094fb1d88a6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 167.07066449582783,
+      "positions": [
+        {
+          "id": "2228",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "28507740981078859754",
+          "amount0": 248.386846357536,
+          "amount1": 0.03633899025382939,
+          "amount0_usd": 101.05724067265879,
+          "amount1_usd": 66.01342382316902,
+          "liquidity_usd": 167.07066449582783
+        }
+      ]
+    },
+    {
+      "owner": "0x396932cf21d7a37eb8db923d669fcd5bc0c751d2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 156.48387074183862,
+      "positions": [
+        {
+          "id": "841",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "10169708504545160115",
+          "amount0": 268.50991785375584,
+          "amount1": 0.026004328456574733,
+          "amount0_usd": 109.24439755752623,
+          "amount1_usd": 47.23947318431239,
+          "liquidity_usd": 156.48387074183862
+        }
+      ]
+    },
+    {
+      "owner": "0x8643c722031a05fcbb12212804693b81ccf5a4d5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 155.27625085847075,
+      "positions": [
+        {
+          "id": "2073",
+          "chain": "fantom",
+          "pool_id": "0x9c29247a73fe3bb6ebe34285646b458906b575d7",
+          "liquidity": "155331007644583693",
+          "amount0": 94.301864,
+          "amount1": 60.97438685847074,
+          "amount0_usd": 94.30186400000001,
+          "amount1_usd": 60.97438685847075,
+          "liquidity_usd": 155.27625085847075
+        }
+      ]
+    },
+    {
+      "owner": "0x13d75321294c41bd55fca695c2a0d966ae5a3572",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 118.02691683639102,
+      "positions": [
+        {
+          "id": "1652",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "501526376804146",
+          "amount0": 2.87876,
+          "amount1": 102.89912114401406,
+          "amount0_usd": 2.8787600000000007,
+          "amount1_usd": 41.864943345218364,
+          "liquidity_usd": 44.743703345218364
+        },
+        {
+          "id": "1654",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "2641081845926515822719",
+          "amount0": 69.90352940170418,
+          "amount1": 4963.595957542276,
+          "amount0_usd": 28.440547066843386,
+          "amount1_usd": 22.410747975246007,
+          "liquidity_usd": 50.85129504208939
+        },
+        {
+          "id": "2377",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "117828130602258150076",
+          "amount0": 16.934650134963853,
+          "amount1": 55.135024904996065,
+          "amount0_usd": 0.0,
+          "amount1_usd": 22.431918449083273,
+          "liquidity_usd": 22.431918449083273
+        }
+      ]
+    },
+    {
+      "owner": "0xbb9a5f66066379852243adc58fab07d264a47d01",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 95.44210630854477,
+      "positions": [
+        {
+          "id": "847",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "180437108098149",
+          "amount0": 17.000364,
+          "amount1": 55.81684432156784,
+          "amount0_usd": 17.000364000000005,
+          "amount1_usd": 22.70931956708211,
+          "liquidity_usd": 39.709683567082116
+        },
+        {
+          "id": "878",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "143415517729862",
+          "amount0": 20.973815,
+          "amount1": 85.43258160636061,
+          "amount0_usd": 20.973815,
+          "amount1_usd": 34.75860774146266,
+          "liquidity_usd": 55.732422741462656
+        }
+      ]
+    },
+    {
+      "owner": "0x03d28e9424bc1d6567ea85715639324df29e5449",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 83.03268484274246,
+      "positions": [
+        {
+          "id": "2388",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "1310858862160685946",
+          "amount0": 18.150900154908378,
+          "amount1": 0.00248204980893887,
+          "amount0_usd": 7.384770620017674,
+          "amount1_usd": 4.508892647902648,
+          "liquidity_usd": 11.893663267920322
+        },
+        {
+          "id": "484",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "243573370818273",
+          "amount0": 36.82035,
+          "amount1": 84.35127010108785,
+          "amount0_usd": 36.820350000000005,
+          "amount1_usd": 34.31867157482213,
+          "liquidity_usd": 71.13902157482214
+        }
+      ]
+    },
+    {
+      "owner": "0x2ee8d0812f3c11c54ff2171f13401dbfdbd2710c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 76.87450755768404,
+      "positions": [
+        {
+          "id": "1489",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "214133505780354",
+          "amount0": 22.493324,
+          "amount1": 133.6625717778768,
+          "amount0_usd": 22.493324,
+          "amount1_usd": 54.38118355768403,
+          "liquidity_usd": 76.87450755768404
+        }
+      ]
+    },
+    {
+      "owner": "0x6dd91bdab368282dc4ea4f4befc831b78a7c38c0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 70.64333440752384,
+      "positions": [
+        {
+          "id": "338",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "101349502369194432442",
+          "amount0": 18.079409949818572,
+          "amount1": 173.63303146681895,
+          "amount0_usd": 0.0,
+          "amount1_usd": 70.64333440752384,
+          "liquidity_usd": 70.64333440752384
+        }
+      ]
+    },
+    {
+      "owner": "0x205844900cef35cfbf153630c915b7509e5d192c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 62.4190577883993,
+      "positions": [
+        {
+          "id": "1384",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "168220844042408",
+          "amount0": 27.864501,
+          "amount1": 84.93104829325709,
+          "amount0_usd": 27.864501000000004,
+          "amount1_usd": 34.554556788399296,
+          "liquidity_usd": 62.4190577883993
+        }
+      ]
+    },
+    {
+      "owner": "0x54ba3ff9ddbd2dee95cda54e863b07b0cdad2ee4",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 58.48584456146728,
+      "positions": [
+        {
+          "id": "366",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "162534434104315036209",
+          "amount0": 15.982390340240428,
+          "amount1": 143.75134716210633,
+          "amount0_usd": 0.0,
+          "amount1_usd": 58.48584456146728,
+          "liquidity_usd": 58.48584456146728
+        }
+      ]
+    },
+    {
+      "owner": "0xc2280f7c7eb261ca7f45d13768d6d62c543e3d90",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 58.363366,
+      "positions": [
+        {
+          "id": "97",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "40986826143105",
+          "amount0": 58.363366,
+          "amount1": 2.5511231786343105,
+          "amount0_usd": 58.363366,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 58.363366
+        }
+      ]
+    },
+    {
+      "owner": "0x37c14240884086a671ac959e66c9fdc84d63331e",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 38.61310857187863,
+      "positions": [
+        {
+          "id": "2063",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "3026560233176",
+          "amount0": 24.90944036870437,
+          "amount1": 0.00031202,
+          "amount0_usd": 10.13451133695682,
+          "amount1_usd": 8.525041352068428,
+          "liquidity_usd": 18.659552689025247
+        },
+        {
+          "id": "2064",
+          "chain": "fantom",
+          "pool_id": "0x9c29247a73fe3bb6ebe34285646b458906b575d7",
+          "liquidity": "19960592817359355",
+          "amount0": 12.118128,
+          "amount1": 7.835427882853374,
+          "amount0_usd": 12.118128000000002,
+          "amount1_usd": 7.8354278828533745,
+          "liquidity_usd": 19.953555882853376
+        }
+      ]
+    },
+    {
+      "owner": "0x6db01e2d475f6b9e42aaf9a00e518baadc3e3632",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 34.942223507668324,
+      "positions": [
+        {
+          "id": "1523",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "23394907188366313789",
+          "amount0": 3.4437066447249514,
+          "amount1": 5.755970419453586,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.341840948961256,
+          "liquidity_usd": 2.341840948961256
+        },
+        {
+          "id": "1524",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "2136626840269338767",
+          "amount0": 58.12401545875821,
+          "amount1": 0.00492809574188247,
+          "amount0_usd": 23.648001918032556,
+          "amount1_usd": 8.952380640674514,
+          "liquidity_usd": 32.60038255870707
+        }
+      ]
+    },
+    {
+      "owner": "0x859614487dfbd9391b71c332ab4eec1140da4bd1",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 34.718995449934916,
+      "positions": [
+        {
+          "id": "831",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "70634892532390",
+          "amount0": 11.700132,
+          "amount1": 36.40365905032054,
+          "amount0_usd": 11.700132,
+          "amount1_usd": 14.810982900109764,
+          "liquidity_usd": 26.511114900109764
+        },
+        {
+          "id": "832",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "14074569157155771616",
+          "amount0": 4.479384879729585,
+          "amount1": 20.17400783437391,
+          "amount0_usd": 0.0,
+          "amount1_usd": 8.207880549825154,
+          "liquidity_usd": 8.207880549825154
+        }
+      ]
+    },
+    {
+      "owner": "0x064fff9d848174c41a8e4603ed35f7ed3e8a6473",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 34.2976131214276,
+      "positions": [
+        {
+          "id": "613",
+          "chain": "fantom",
+          "pool_id": "0xb4fbf5e3f326848225efeba4c5ab5be718694196",
+          "liquidity": "151987940798646392694",
+          "amount0": 44.7077447955335,
+          "amount1": 43.757100960505525,
+          "amount0_usd": 18.189535363843802,
+          "amount1_usd": 16.108077757583796,
+          "liquidity_usd": 34.2976131214276
+        }
+      ]
+    },
+    {
+      "owner": "0xea84e1b96bbc06af9da27572f65f3a5740f32998",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 22.781461078991917,
+      "positions": [
+        {
+          "id": "2074",
+          "chain": "fantom",
+          "pool_id": "0x9c29247a73fe3bb6ebe34285646b458906b575d7",
+          "liquidity": "22789495554124190",
+          "amount0": 13.835562,
+          "amount1": 8.945899078991914,
+          "amount0_usd": 13.835562,
+          "amount1_usd": 8.945899078991916,
+          "liquidity_usd": 22.781461078991917
+        }
+      ]
+    },
+    {
+      "owner": "0x5df1880449e8492da558e513b1ba756eade55f1c",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 22.35380747698577,
+      "positions": [
+        {
+          "id": "100",
+          "chain": "fantom",
+          "pool_id": "0xeba24ca833c015f0028477d72bbebe1d03084e75",
+          "liquidity": "4755094471481565169",
+          "amount0": 22.180104,
+          "amount1": 4999974.751125227,
+          "amount0_usd": 22.180104000000004,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 22.180104000000004
+        },
+        {
+          "id": "99",
+          "chain": "fantom",
+          "pool_id": "0x2467cb081617ca0ea6720b678345429557f0d80d",
+          "liquidity": "10222375958893492552749876",
+          "amount0": 0.42694277582335827,
+          "amount1": 4999999.895757442,
+          "amount0_usd": 0.17370347698576954,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.17370347698576954
+        }
+      ]
+    },
+    {
+      "owner": "0xb29bffb810a2ff47b457033e45e6ca45e57bcf81",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 20.342711813167618,
+      "positions": [
+        {
+          "id": "1964",
+          "chain": "fantom",
+          "pool_id": "0x4b21ed7b8ad7159487a00cb3d4eb978440fa3908",
+          "liquidity": "106604744631055",
+          "amount0": 0.0,
+          "amount1": 49.99999999999958,
+          "amount0_usd": 0.0,
+          "amount1_usd": 20.342711813167618,
+          "liquidity_usd": 20.342711813167618
+        }
+      ]
+    },
+    {
+      "owner": "0xbe61359a90eea3be6b8169ac2a098b0945e1d556",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 18.53598168494952,
+      "positions": [
+        {
+          "id": "2051",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "5105554860766377857",
+          "amount0": 36.32631770915689,
+          "amount1": 0.002067854581734651,
+          "amount0_usd": 14.779516247819041,
+          "amount1_usd": 3.7564654371304784,
+          "liquidity_usd": 18.53598168494952
+        }
+      ]
+    },
+    {
+      "owner": "0xa7eef766b1f3f3d31a0c7c6ebd0b3f31e9a87634",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 17.797578000000005,
+      "positions": [
+        {
+          "id": "386",
+          "chain": "fantom",
+          "pool_id": "0x2d94fffa669bd94173553813b757bceb5c1ec29d",
+          "liquidity": "18545417221450",
+          "amount0": 0.0,
+          "amount1": 17.797578,
+          "amount0_usd": 0.0,
+          "amount1_usd": 17.797578000000005,
+          "liquidity_usd": 17.797578000000005
+        }
+      ]
+    },
+    {
+      "owner": "0x6eec08d9ad527891c782f9f310c6047e4fc3551b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 16.299005,
+      "positions": [
+        {
+          "id": "156",
+          "chain": "fantom",
+          "pool_id": "0xe41cbdd5eb78e3892150c7e0005077f4cfdb7729",
+          "liquidity": "31973973973601",
+          "amount0": 16.299005,
+          "amount1": 28.472754116538525,
+          "amount0_usd": 16.299005,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 16.299005
+        }
+      ]
+    },
+    {
+      "owner": "0xaf121f34b00170a77ef472c80e5bd7c927f4f27a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 10.016290353410188,
+      "positions": [
+        {
+          "id": "721",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "26588023815421",
+          "amount0": 5.140041,
+          "amount1": 11.985249061665913,
+          "amount0_usd": 5.140041000000001,
+          "amount1_usd": 4.876249353410186,
+          "liquidity_usd": 10.016290353410188
+        }
+      ]
+    },
+    {
+      "owner": "0x937bc8870b5fc65f23fcdeea13cae472acf92f2f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 8.609686944292172,
+      "positions": [
+        {
+          "id": "2012",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "23582993694082",
+          "amount0": 3.564979,
+          "amount1": 12.399300522526069,
+          "amount0_usd": 3.564979000000001,
+          "amount1_usd": 5.044707944292171,
+          "liquidity_usd": 8.609686944292172
+        }
+      ]
+    },
+    {
+      "owner": "0x2756c78ec5856c867485707d1e456f5d3735136a",
+      "number_of_positions": 19,
+      "total_liquidity_usd": 8.544789046255648,
+      "positions": [
+        {
+          "id": "134",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "390624090789",
+          "amount0": 0.390556,
+          "amount1": 0.0,
+          "amount0_usd": 0.39055600000000007,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.39055600000000007
+        },
+        {
+          "id": "135",
+          "chain": "fantom",
+          "pool_id": "0x8dcf5fed6ae6bf0befb5e4f0c9414c2cb9a4ed01",
+          "liquidity": "45418",
+          "amount0": 0.045422,
+          "amount1": 0.045413,
+          "amount0_usd": 0.045422000000000004,
+          "amount1_usd": 0.045413,
+          "liquidity_usd": 0.090835
+        },
+        {
+          "id": "136",
+          "chain": "fantom",
+          "pool_id": "0x36232ec88ccd3ed03c2c03e42f0c4ec2de463be7",
+          "liquidity": "45427761078",
+          "amount0": 0.045418,
+          "amount1": 0.045437492580279695,
+          "amount0_usd": 0.045418,
+          "amount1_usd": 0.0454374925802797,
+          "liquidity_usd": 0.0908554925802797
+        },
+        {
+          "id": "137",
+          "chain": "fantom",
+          "pool_id": "0x9c29247a73fe3bb6ebe34285646b458906b575d7",
+          "liquidity": "23484346260",
+          "amount0": 0.023479,
+          "amount1": 0.02348883771627723,
+          "amount0_usd": 0.023479,
+          "amount1_usd": 0.023488837716277234,
+          "liquidity_usd": 0.04696783771627723
+        },
+        {
+          "id": "138",
+          "chain": "fantom",
+          "pool_id": "0x901347369cb530b511037dac96f7d0d1793dc4f7",
+          "liquidity": "600534621756291",
+          "amount0": 0.008680936364742133,
+          "amount1": 4.1544116530185e-5,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.07546905824047283,
+          "liquidity_usd": 0.07546905824047283
+        },
+        {
+          "id": "139",
+          "chain": "fantom",
+          "pool_id": "0x7fe55b652e3f81c4fe2b508c0f1bfdf20a2342f8",
+          "liquidity": "100855040863630739",
+          "amount0": 0.10052569196146313,
+          "amount1": 0.10118546880039381,
+          "amount0_usd": 0.10052569196146313,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.10052569196146313
+        },
+        {
+          "id": "144",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "43337646650",
+          "amount0": 0.114972,
+          "amount1": 0.016335691898587284,
+          "amount0_usd": 0.11497200000000002,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.11497200000000002
+        },
+        {
+          "id": "145",
+          "chain": "fantom",
+          "pool_id": "0x8dcf5fed6ae6bf0befb5e4f0c9414c2cb9a4ed01",
+          "liquidity": "85244",
+          "amount0": 0.085253,
+          "amount1": 0.085234,
+          "amount0_usd": 0.08525300000000001,
+          "amount1_usd": 0.085234,
+          "liquidity_usd": 0.170487
+        },
+        {
+          "id": "146",
+          "chain": "fantom",
+          "pool_id": "0x36232ec88ccd3ed03c2c03e42f0c4ec2de463be7",
+          "liquidity": "85449261743",
+          "amount0": 0.08543,
+          "amount1": 0.08546756662234509,
+          "amount0_usd": 0.08543000000000002,
+          "amount1_usd": 0.0854675666223451,
+          "liquidity_usd": 0.17089756662234512
+        },
+        {
+          "id": "147",
+          "chain": "fantom",
+          "pool_id": "0x901347369cb530b511037dac96f7d0d1793dc4f7",
+          "liquidity": "4948692288",
+          "amount0": 7.1535064398e-8,
+          "amount1": 3.42343374e-10,
+          "amount0_usd": 0.0,
+          "amount1_usd": 6.219011063064462e-7,
+          "liquidity_usd": 6.219011063064462e-7
+        },
+        {
+          "id": "391",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "3224203032564",
+          "amount0": 0.986622,
+          "amount1": 0.25011662233186255,
+          "amount0_usd": 0.986622,
+          "amount1_usd": 0.10176100735560013,
+          "liquidity_usd": 1.0883830073556002
+        },
+        {
+          "id": "392",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "727860855858174421",
+          "amount0": 0.0,
+          "amount1": 1.078920612284733,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.4389634216998972,
+          "liquidity_usd": 0.4389634216998972
+        },
+        {
+          "id": "393",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "131859482048",
+          "amount0": 0.349815,
+          "amount1": 0.04970311124735309,
+          "amount0_usd": 0.34981500000000004,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.34981500000000004
+        },
+        {
+          "id": "395",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "4956135796",
+          "amount0": 0.003163,
+          "amount1": 0.007763508472504104,
+          "amount0_usd": 0.0031630000000000004,
+          "amount1_usd": 0.003158616310304749,
+          "liquidity_usd": 0.006321616310304749
+        },
+        {
+          "id": "397",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "7034018064339898657",
+          "amount0": 0.5109845927113017,
+          "amount1": 7.725702301968144,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.1432347096652986,
+          "liquidity_usd": 3.1432347096652986
+        },
+        {
+          "id": "398",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "133739857918",
+          "amount0": 0.354804,
+          "amount1": 0.050411900100470426,
+          "amount0_usd": 0.35480400000000006,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.35480400000000006
+        },
+        {
+          "id": "399",
+          "chain": "fantom",
+          "pool_id": "0x1b2bfd0339454d37af70a708abc60d523a06b1b8",
+          "liquidity": "386073317980",
+          "amount0": 0.246257,
+          "amount1": 0.6052716975945863,
+          "amount0_usd": 0.24625700000000003,
+          "amount1_usd": 0.24625735425667025,
+          "liquidity_usd": 0.4925143542566703
+        },
+        {
+          "id": "400",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "133059782825",
+          "amount0": 0.352999,
+          "amount1": 0.05015555260479599,
+          "amount0_usd": 0.35299900000000006,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.35299900000000006
+        },
+        {
+          "id": "402",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "2385944420010143812",
+          "amount0": 0.17332637285529906,
+          "amount1": 2.6205642535224642,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.0661876679459332,
+          "liquidity_usd": 1.0661876679459332
+        }
+      ]
+    },
+    {
+      "owner": "0x26384bac62582eca0062cef1028a1610ae500620",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 7.133609980782436,
+      "positions": [
+        {
+          "id": "938",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "14641515462679163728",
+          "amount0": 0.9162771850107707,
+          "amount1": 17.533576757856018,
+          "amount0_usd": 0.0,
+          "amount1_usd": 7.133609980782436,
+          "liquidity_usd": 7.133609980782436
+        }
+      ]
+    },
+    {
+      "owner": "0xd874387ebb001a6b0bea98072f8de05f8965e51e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.053945094135759,
+      "positions": [
+        {
+          "id": "85",
+          "chain": "fantom",
+          "pool_id": "0x5486951d27d5cd686e4d47ed6c308b56efa1ce42",
+          "liquidity": "4055322156910769",
+          "amount0": 2.431074,
+          "amount1": 1.6228710941357587,
+          "amount0_usd": 2.431074,
+          "amount1_usd": 1.622871094135759,
+          "liquidity_usd": 4.053945094135759
+        }
+      ]
+    },
+    {
+      "owner": "0x38430336153468dcf36af5cea7d6bc472425633a",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 3.4963633891640433,
+      "positions": [
+        {
+          "id": "1215",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "11528197982265706635",
+          "amount0": 1.2819065324378633,
+          "amount1": 8.593651183960773,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.4963633891640433,
+          "liquidity_usd": 3.4963633891640433
+        },
+        {
+          "id": "1216",
+          "chain": "fantom",
+          "pool_id": "0x4053ed6ab54a59a80971b540770d60472e13a844",
+          "liquidity": "6351558236047",
+          "amount0": 1.3181162648185298,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xbe2f0354d970265bfc36d383af77f72736b81b54",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 2.725597079961374,
+      "positions": [
+        {
+          "id": "1860",
+          "chain": "fantom",
+          "pool_id": "0x5486951d27d5cd686e4d47ed6c308b56efa1ce42",
+          "liquidity": "2315535687536066",
+          "amount0": 0.346717,
+          "amount1": 0.9266380793787911,
+          "amount0_usd": 0.346717,
+          "amount1_usd": 0.9266380793787911,
+          "liquidity_usd": 1.273355079378791
+        },
+        {
+          "id": "1861",
+          "chain": "fantom",
+          "pool_id": "0x36232ec88ccd3ed03c2c03e42f0c4ec2de463be7",
+          "liquidity": "1928602041935902",
+          "amount0": 0.259255,
+          "amount1": 0.8977586946152137,
+          "amount0_usd": 0.25925500000000007,
+          "amount1_usd": 0.8977586946152137,
+          "liquidity_usd": 1.1570136946152139
+        },
+        {
+          "id": "1920",
+          "chain": "fantom",
+          "pool_id": "0x850de152b5f89df6112b4f5c44029805a229d562",
+          "liquidity": "324470994444903513",
+          "amount0": 0.29522830596736915,
+          "amount1": 0.057183768333237205,
+          "amount0_usd": 0.2952283059673692,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.2952283059673692
+        }
+      ]
+    },
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 6,
+      "total_liquidity_usd": 2.609292169515828,
+      "positions": [
+        {
+          "id": "3",
+          "chain": "fantom",
+          "pool_id": "0x31a1b84245ac12d40a1ade5921f891290043b0d6",
+          "liquidity": "2434752525",
+          "amount0": 2.432684,
+          "amount1": 0.0,
+          "amount0_usd": 2.4326840000000005,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 2.4326840000000005
+        },
+        {
+          "id": "542",
+          "chain": "fantom",
+          "pool_id": "0x9132c33b43c7b4ce3f28ff72303f554bf98a26ea",
+          "liquidity": "204064051477484614",
+          "amount0": 0.1166357943578412,
+          "amount1": 0.357027080191579,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.14525798003668075,
+          "liquidity_usd": 0.14525798003668075
+        },
+        {
+          "id": "543",
+          "chain": "fantom",
+          "pool_id": "0x9132c33b43c7b4ce3f28ff72303f554bf98a26ea",
+          "liquidity": "137485840791865479",
+          "amount0": 0.030468032498012075,
+          "amount1": 0.04407425560866061,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.017931797604537537,
+          "liquidity_usd": 0.017931797604537537
+        },
+        {
+          "id": "544",
+          "chain": "fantom",
+          "pool_id": "0x9132c33b43c7b4ce3f28ff72303f554bf98a26ea",
+          "liquidity": "121175243173613660",
+          "amount0": 0.03922616013540031,
+          "amount1": 0.02703194330108507,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.010998060646477303,
+          "liquidity_usd": 0.010998060646477303
+        },
+        {
+          "id": "545",
+          "chain": "fantom",
+          "pool_id": "0x9132c33b43c7b4ce3f28ff72303f554bf98a26ea",
+          "liquidity": "27497168158373094",
+          "amount0": 0.006093606499602414,
+          "amount1": 0.002729202210931456,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0011103874811367795,
+          "liquidity_usd": 0.0011103874811367795
+        },
+        {
+          "id": "546",
+          "chain": "fantom",
+          "pool_id": "0x9132c33b43c7b4ce3f28ff72303f554bf98a26ea",
+          "liquidity": "6067635393860231",
+          "amount0": 0.003461983605898529,
+          "amount1": 0.003219688109987916,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0013099437469953408,
+          "liquidity_usd": 0.0013099437469953408
+        }
+      ]
+    },
+    {
+      "owner": "0xb4fb773bc10398ee70889e6ac1f3829a82f8233a",
+      "number_of_positions": 6,
+      "total_liquidity_usd": 2.3121130151485962,
+      "positions": [
+        {
+          "id": "2263",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "352004118603267832",
+          "amount0": 0.11238047961657908,
+          "amount1": 1.1025660322540918,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.448583660982657,
+          "liquidity_usd": 0.448583660982657
+        },
+        {
+          "id": "2264",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "77281167266",
+          "amount0": 5.165684562048e-6,
+          "amount1": 1.156164055e-9,
+          "amount0_usd": 2.101680647269446e-6,
+          "amount1_usd": 2.1002880718125037e-6,
+          "liquidity_usd": 4.20196871908195e-6
+        },
+        {
+          "id": "2265",
+          "chain": "fantom",
+          "pool_id": "0x80307275ab308f7cf42e9038d0785436bcef5f0f",
+          "liquidity": "441027275114",
+          "amount0": 4.713764820201e-6,
+          "amount1": 4.126320782e-8,
+          "amount0_usd": 1.917815185847952e-6,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1.917815185847952e-6
+        },
+        {
+          "id": "2267",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "16804025705483799",
+          "amount0": 1.1228548454697203,
+          "amount1": 0.000251479771450276,
+          "amount0_usd": 0.4568382505881914,
+          "amount1_usd": 0.4568382505881912,
+          "liquidity_usd": 0.9136765011763825
+        },
+        {
+          "id": "2269",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "50087656",
+          "amount0": 0.001297980947790778,
+          "amount1": 1e-8,
+          "amount0_usd": 0.0005280890471978036,
+          "amount1_usd": 0.0002732209907079171,
+          "liquidity_usd": 0.0008013100379057207
+        },
+        {
+          "id": "2270",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "11071529397417101854",
+          "amount0": 1.166321176699548,
+          "amount1": 105.09863461859115,
+          "amount0_usd": 0.47452271158387305,
+          "amount1_usd": 0.47452271158387305,
+          "liquidity_usd": 0.9490454231677461
+        }
+      ]
+    },
+    {
+      "owner": "0xa2dfeb674d997b68ec5adb0a6fb9136bd45c2d2d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.194775611124926,
+      "positions": [
+        {
+          "id": "1",
+          "chain": "fantom",
+          "pool_id": "0x1b2bfd0339454d37af70a708abc60d523a06b1b8",
+          "liquidity": "1735780212580",
+          "amount0": 1.089836,
+          "amount1": 2.71581198532661,
+          "amount0_usd": 1.0898360000000002,
+          "amount1_usd": 1.104939611124926,
+          "liquidity_usd": 2.194775611124926
+        }
+      ]
+    },
+    {
+      "owner": "0x4f2604aac91114ae3b3d0be485d407d02b24480b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.0253490000000003,
+      "positions": [
+        {
+          "id": "1923",
+          "chain": "fantom",
+          "pool_id": "0x8dcf5fed6ae6bf0befb5e4f0c9414c2cb9a4ed01",
+          "liquidity": "477258361",
+          "amount0": 0.289399,
+          "amount1": 0.73595,
+          "amount0_usd": 0.2893990000000001,
+          "amount1_usd": 0.7359500000000001,
+          "liquidity_usd": 1.0253490000000003
+        }
+      ]
+    },
+    {
+      "owner": "0x1df0c07b865eb0f63861aea166a257184606b008",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.8963294779936388,
+      "positions": [
+        {
+          "id": "1627",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "36525094606946355682",
+          "amount0": 1.441297245870754,
+          "amount1": 68.64452618895946,
+          "amount0_usd": 0.5863978901972238,
+          "amount1_usd": 0.3099315877964151,
+          "liquidity_usd": 0.8963294779936388
+        }
+      ]
+    },
+    {
+      "owner": "0x32a3a53fa84e39c2dded1bd7ee50f7b88c2f7512",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.8500315408206911,
+      "positions": [
+        {
+          "id": "380",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "73722956056540009103",
+          "amount0": 0.0723887877316254,
+          "amount1": 181.7043129014636,
+          "amount0_usd": 0.02945168494658063,
+          "amount1_usd": 0.8203990810860152,
+          "liquidity_usd": 0.8498507660325959
+        },
+        {
+          "id": "382",
+          "chain": "fantom",
+          "pool_id": "0x668fc55ba4ae6c9c42afcbd6e1d5808cc9382ed7",
+          "liquidity": "16783025695",
+          "amount0": 9.4e-5,
+          "amount1": 0.019219125924832523,
+          "amount0_usd": 9.400000000000001e-5,
+          "amount1_usd": 8.677478809520327e-5,
+          "liquidity_usd": 0.00018077478809520327
+        }
+      ]
+    },
+    {
+      "owner": "0x0d3d08675e4d6c0e13075d25dbfb8a081bda728f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.7699873934076118,
+      "positions": [
+        {
+          "id": "1945",
+          "chain": "fantom",
+          "pool_id": "0x57c107bf8bab567daffb324f908e1876ff226f08",
+          "liquidity": "2533542288904",
+          "amount0": 0.19652,
+          "amount1": 1.4095156011510905,
+          "amount0_usd": 0.19652000000000003,
+          "amount1_usd": 0.5734673934076118,
+          "liquidity_usd": 0.7699873934076118
+        }
+      ]
+    },
+    {
+      "owner": "0x0193a8a52d77e27bdd4f12e0cdd52d8ff1d97d68",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 0.4999990000000001,
+      "positions": [
+        {
+          "id": "1931",
+          "chain": "fantom",
+          "pool_id": "0x21e29020be4751853224b835b9e4b6782f9d65ac",
+          "liquidity": "25250140610331120581",
+          "amount0": 3.400248551376077,
+          "amount1": 0.039844725520621516,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "1932",
+          "chain": "fantom",
+          "pool_id": "0xe03acbeb0e6b965e6822c3573f25a749aee1c0ff",
+          "liquidity": "17486375293057269839",
+          "amount0": 4.4091700860917085,
+          "amount1": 0.02641306708561534,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "1947",
+          "chain": "fantom",
+          "pool_id": "0x49dfca41dafcdc7d0c0214fe9a542c94a1929f58",
+          "liquidity": "1418358972699670177",
+          "amount0": 0.735032107222624,
+          "amount1": 0.008536749976360681,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "1972",
+          "chain": "fantom",
+          "pool_id": "0xeb246148e31f9bc641ec3e5aad4a201b530e1bf2",
+          "liquidity": "1536579062466812",
+          "amount0": 0.499999,
+          "amount1": 0.0,
+          "amount0_usd": 0.4999990000000001,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.4999990000000001
+        }
+      ]
+    },
+    {
+      "owner": "0x2436142680c2c3b24ffc21332ee1a257e3a78a98",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.40685423626332456,
+      "positions": [
+        {
+          "id": "2326",
+          "chain": "fantom",
+          "pool_id": "0x71d8ae3439358472bcd939246fd6be52a88439db",
+          "liquidity": "29857570212142393",
+          "amount0": 0.9999999999999233,
+          "amount1": 9097.320610306,
+          "amount0_usd": 0.40685423626332456,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.40685423626332456
+        }
+      ]
+    },
+    {
+      "owner": "0x2e5d207a4c0f7e7c52f6622dcc6eb44bc0fe1a13",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.396106,
+      "positions": [
+        {
+          "id": "35",
+          "chain": "fantom",
+          "pool_id": "0xc54814bb49e4e141a1991eaceaebd6b2c7922dbf",
+          "liquidity": "923366441473323",
+          "amount0": 0.396106,
+          "amount1": 0.0,
+          "amount0_usd": 0.396106,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.396106
+        }
+      ]
+    },
+    {
+      "owner": "0x9971d1f0f2ccc3dc3dbe2a31a4f2dcb4fa336194",
+      "number_of_positions": 27,
+      "total_liquidity_usd": 0.13638658349036062,
+      "positions": [
+        {
+          "id": "101",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "1726650213880",
+          "amount0": 0.001551,
+          "amount1": 0.0,
+          "amount0_usd": 0.0015510000000000003,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0015510000000000003
+        },
+        {
+          "id": "102",
+          "chain": "fantom",
+          "pool_id": "0xeb19e0ef96c3af37c5684343b1cdcbd73c665693",
+          "liquidity": "2943824883839140850",
+          "amount0": 0.0,
+          "amount1": 0.002641912107408681,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.002641912107408681,
+          "liquidity_usd": 0.002641912107408681
+        },
+        {
+          "id": "103",
+          "chain": "fantom",
+          "pool_id": "0x299bcbbe938570c64c38bf92c5e68ddd33e54a52",
+          "liquidity": "2943824883839140850",
+          "amount0": 0.0,
+          "amount1": 0.002641912107408681,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "104",
+          "chain": "fantom",
+          "pool_id": "0x647c3908654aa2512400be8ab8b524e3eeb5a3d1",
+          "liquidity": "2943824883839140850",
+          "amount0": 0.0,
+          "amount1": 0.002641912107408681,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "105",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "1480739480",
+          "amount0": 0.003928,
+          "amount1": 0.000558149918077158,
+          "amount0_usd": 0.003928000000000001,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.003928000000000001
+        },
+        {
+          "id": "106",
+          "chain": "fantom",
+          "pool_id": "0x901347369cb530b511037dac96f7d0d1793dc4f7",
+          "liquidity": "69290366573525",
+          "amount0": 0.001001616295086028,
+          "amount1": 4.793407339165e-6,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.008707705635933096,
+          "liquidity_usd": 0.008707705635933096
+        },
+        {
+          "id": "107",
+          "chain": "fantom",
+          "pool_id": "0x5486951d27d5cd686e4d47ed6c308b56efa1ce42",
+          "liquidity": "134015339",
+          "amount0": 0.000133,
+          "amount1": 0.00013403529457918,
+          "amount0_usd": 0.00013300000000000003,
+          "amount1_usd": 0.00013403529457918,
+          "liquidity_usd": 0.00026703529457918005
+        },
+        {
+          "id": "108",
+          "chain": "fantom",
+          "pool_id": "0x31a1b84245ac12d40a1ade5921f891290043b0d6",
+          "liquidity": "23872",
+          "amount0": 0.023873,
+          "amount1": 0.02387,
+          "amount0_usd": 0.023873000000000002,
+          "amount1_usd": 0.023870000000000002,
+          "liquidity_usd": 0.04774300000000001
+        },
+        {
+          "id": "109",
+          "chain": "fantom",
+          "pool_id": "0x7fe55b652e3f81c4fe2b508c0f1bfdf20a2342f8",
+          "liquidity": "709269593744",
+          "amount0": 7.06953426301e-7,
+          "amount1": 7.11593349566e-7,
+          "amount0_usd": 7.06953426301e-7,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 7.06953426301e-7
+        },
+        {
+          "id": "110",
+          "chain": "fantom",
+          "pool_id": "0x502b6594e8514f6cc65c36c98db810b4e3c02ac5",
+          "liquidity": "1003546148",
+          "amount0": 0.001,
+          "amount1": 0.001006643368230666,
+          "amount0_usd": 0.001,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.001
+        },
+        {
+          "id": "112",
+          "chain": "fantom",
+          "pool_id": "0x5560c6870b448e99cfed38d9af12a045caae88c0",
+          "liquidity": "2593525313",
+          "amount0": 0.00688,
+          "amount1": 0.000977603393800229,
+          "amount0_usd": 0.006880000000000001,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.006880000000000001
+        },
+        {
+          "id": "113",
+          "chain": "fantom",
+          "pool_id": "0x647c3908654aa2512400be8ab8b524e3eeb5a3d1",
+          "liquidity": "17201729959780588",
+          "amount0": 0.00102595975036396,
+          "amount1": 0.28841239971084864,
+          "amount0_usd": 0.0004174160706712721,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0004174160706712721
+        },
+        {
+          "id": "114",
+          "chain": "fantom",
+          "pool_id": "0x647c3908654aa2512400be8ab8b524e3eeb5a3d1",
+          "liquidity": "17201729959780588",
+          "amount0": 0.00102595975036396,
+          "amount1": 0.28841239971084864,
+          "amount0_usd": 0.0004174160706712721,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0004174160706712721
+        },
+        {
+          "id": "115",
+          "chain": "fantom",
+          "pool_id": "0x647c3908654aa2512400be8ab8b524e3eeb5a3d1",
+          "liquidity": "17201729959780588",
+          "amount0": 0.00102595975036396,
+          "amount1": 0.28841239971084864,
+          "amount0_usd": 0.0004174160706712721,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0004174160706712721
+        },
+        {
+          "id": "116",
+          "chain": "fantom",
+          "pool_id": "0x299bcbbe938570c64c38bf92c5e68ddd33e54a52",
+          "liquidity": "2000000440637955",
+          "amount0": 1.6121985395503e-5,
+          "amount1": 0.2481085092452473,
+          "amount0_usd": 6.55929805513635e-6,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 6.55929805513635e-6
+        },
+        {
+          "id": "117",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "9999984577",
+          "amount0": 0.006383,
+          "amount1": 0.015664414411547707,
+          "amount0_usd": 0.006383000000000001,
+          "amount1_usd": 0.006373133361922946,
+          "liquidity_usd": 0.012756133361922946
+        },
+        {
+          "id": "118",
+          "chain": "fantom",
+          "pool_id": "0xed725c198c5e00a083887d4cbf6c42c4f1391e35",
+          "liquidity": "10000002203189785",
+          "amount0": 0.01319101838290366,
+          "amount1": 0.00758091916492259,
+          "amount0_usd": 0.005366821709712155,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.005366821709712155
+        },
+        {
+          "id": "119",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "1999996915",
+          "amount0": 0.001276,
+          "amount1": 0.003132882881682963,
+          "amount0_usd": 0.0012760000000000002,
+          "amount1_usd": 0.0012746266721296632,
+          "liquidity_usd": 0.0025506266721296634
+        },
+        {
+          "id": "120",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "1999996915",
+          "amount0": 0.001276,
+          "amount1": 0.003132882881682963,
+          "amount0_usd": 0.0012760000000000002,
+          "amount1_usd": 0.0012746266721296632,
+          "liquidity_usd": 0.0025506266721296634
+        },
+        {
+          "id": "121",
+          "chain": "fantom",
+          "pool_id": "0xbd640443eb279f3ebca6c043b9cd6b00e19ddfd4",
+          "liquidity": "1999996915",
+          "amount0": 0.001276,
+          "amount1": 0.003132882881682963,
+          "amount0_usd": 0.0012760000000000002,
+          "amount1_usd": 0.0012746266721296632,
+          "liquidity_usd": 0.0025506266721296634
+        },
+        {
+          "id": "122",
+          "chain": "fantom",
+          "pool_id": "0x31a1b84245ac12d40a1ade5921f891290043b0d6",
+          "liquidity": "9145",
+          "amount0": 0.009145,
+          "amount1": 0.009144,
+          "amount0_usd": 0.009145,
+          "amount1_usd": 0.009144,
+          "liquidity_usd": 0.018289
+        },
+        {
+          "id": "123",
+          "chain": "fantom",
+          "pool_id": "0x5486951d27d5cd686e4d47ed6c308b56efa1ce42",
+          "liquidity": "9003030527",
+          "amount0": 0.009001,
+          "amount1": 0.009004371124948623,
+          "amount0_usd": 0.009001,
+          "amount1_usd": 0.009004371124948625,
+          "liquidity_usd": 0.018005371124948627
+        },
+        {
+          "id": "124",
+          "chain": "fantom",
+          "pool_id": "0x502b6594e8514f6cc65c36c98db810b4e3c02ac5",
+          "liquidity": "271961006",
+          "amount0": 0.000271,
+          "amount1": 0.000272800352682177,
+          "amount0_usd": 0.000271,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.000271
+        },
+        {
+          "id": "125",
+          "chain": "fantom",
+          "pool_id": "0x647c3908654aa2512400be8ab8b524e3eeb5a3d1",
+          "liquidity": "2000000440637955",
+          "amount0": 0.000119285674034084,
+          "amount1": 0.033532960222944046,
+          "amount0_usd": 4.853188180629685e-5,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 4.853188180629685e-5
+        },
+        {
+          "id": "126",
+          "chain": "fantom",
+          "pool_id": "0x299bcbbe938570c64c38bf92c5e68ddd33e54a52",
+          "liquidity": "2000000440637955",
+          "amount0": 1.6121985395503e-5,
+          "amount1": 0.2481085092452473,
+          "amount0_usd": 6.55929805513635e-6,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 6.55929805513635e-6
+        },
+        {
+          "id": "127",
+          "chain": "fantom",
+          "pool_id": "0x299bcbbe938570c64c38bf92c5e68ddd33e54a52",
+          "liquidity": "2000000440637955",
+          "amount0": 1.6121985395503e-5,
+          "amount1": 0.2481085092452473,
+          "amount0_usd": 6.55929805513635e-6,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 6.55929805513635e-6
+        },
+        {
+          "id": "128",
+          "chain": "fantom",
+          "pool_id": "0x299bcbbe938570c64c38bf92c5e68ddd33e54a52",
+          "liquidity": "2000000440637955",
+          "amount0": 1.6121985395503e-5,
+          "amount1": 0.2481085092452473,
+          "amount0_usd": 6.55929805513635e-6,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 6.55929805513635e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x179d5de78f307ad1ecca99eb25a3db895ff68df5",
+      "number_of_positions": 9,
+      "total_liquidity_usd": 0.1264242513232739,
+      "positions": [
+        {
+          "id": "1429",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "100000000",
+          "amount0": 1.1119747e-11,
+          "amount1": 7.2145957e-11,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.9352888234723905e-11,
+          "liquidity_usd": 2.9352888234723905e-11
+        },
+        {
+          "id": "1662",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "25734382453707397",
+          "amount0": 0.008215932967658369,
+          "amount1": 0.08060660218147253,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.03279513756832715,
+          "liquidity_usd": 0.03279513756832715
+        },
+        {
+          "id": "2077",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "7954976471262",
+          "amount0": 0.000531732381934889,
+          "amount1": 1.19010338298e-7,
+          "amount0_usd": 0.00021633757214861425,
+          "amount1_usd": 0.0002161942268216081,
+          "liquidity_usd": 0.00043253179897022234
+        },
+        {
+          "id": "2079",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "1053003459853231289",
+          "amount0": 0.11092778515777876,
+          "amount1": 9.995839048672472,
+          "amount0_usd": 0.04513143931075369,
+          "amount1_usd": 0.045131439310753696,
+          "liquidity_usd": 0.09026287862150739
+        },
+        {
+          "id": "2081",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "50274923",
+          "amount0": 0.001302833820086298,
+          "amount1": 1e-8,
+          "amount0_usd": 0.0005300634588492809,
+          "amount1_usd": 0.0002732209907079171,
+          "liquidity_usd": 0.000803284449557198
+        },
+        {
+          "id": "2082",
+          "chain": "fantom",
+          "pool_id": "0x80307275ab308f7cf42e9038d0785436bcef5f0f",
+          "liquidity": "84354291444201",
+          "amount0": 0.000901591157462734,
+          "amount1": 7.89232062244e-6,
+          "amount0_usd": 0.00036681618179129556,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.00036681618179129556
+        },
+        {
+          "id": "2262",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "326877393584341",
+          "amount0": 0.000104358546748221,
+          "amount1": 0.001023862767026442,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0004165629041170292,
+          "liquidity_usd": 0.0004165629041170292
+        },
+        {
+          "id": "2266",
+          "chain": "fantom",
+          "pool_id": "0x67d1e5dec3500e99b97e699d3fa4c9d4a8afdf00",
+          "liquidity": "155670798226",
+          "amount0": 1.0402013966758e-5,
+          "amount1": 2.329683222e-9,
+          "amount0_usd": 4.232103448046086e-6,
+          "amount1_usd": 4.232103446831619e-6,
+          "liquidity_usd": 8.464206894877704e-6
+        },
+        {
+          "id": "2268",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "75131485",
+          "amount0": 0.001946971447600355,
+          "amount1": 2e-8,
+          "amount0_usd": 0.0007921335813400026,
+          "amount1_usd": 0.0005464419814158342,
+          "liquidity_usd": 0.0013385755627558368
+        }
+      ]
+    },
+    {
+      "owner": "0x0fe1aa632a2837239f218e3efad21e8018a9f4ef",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.013441,
+      "positions": [
+        {
+          "id": "320",
+          "chain": "fantom",
+          "pool_id": "0x2d94fffa669bd94173553813b757bceb5c1ec29d",
+          "liquidity": "6129828180",
+          "amount0": 0.0027953978504607,
+          "amount1": 0.013441,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.013441,
+          "liquidity_usd": 0.013441
+        }
+      ]
+    },
+    {
+      "owner": "0x26e5931a41fe5de8c94749d3cfe302a7a9976f3b",
+      "number_of_positions": 5,
+      "total_liquidity_usd": 0.010745898444493855,
+      "positions": [
+        {
+          "id": "1589",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "3587859495028310",
+          "amount0": 0.001145456401044608,
+          "amount1": 0.01123808443894102,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.004572262261468452,
+          "liquidity_usd": 0.004572262261468452
+        },
+        {
+          "id": "2078",
+          "chain": "fantom",
+          "pool_id": "0x363f41f702881a872cad812f8e6cb480f6e9c2bc",
+          "liquidity": "3935741462",
+          "amount0": 2.63075722452e-7,
+          "amount1": 5.8880616e-11,
+          "amount0_usd": 1.0703347213763902e-7,
+          "amount1_usd": 1.0696254991751363e-7,
+          "liquidity_usd": 2.1399602205515265e-7
+        },
+        {
+          "id": "2080",
+          "chain": "fantom",
+          "pool_id": "0x1b52770b19c8777802e9720c4ad9c112f47e1ec2",
+          "liquidity": "4932610082041",
+          "amount0": 5.19621760334e-7,
+          "amount1": 4.6823755428888e-5,
+          "amount0_usd": 2.1141031444651007e-7,
+          "amount1_usd": 2.1141031444689833e-7,
+          "liquidity_usd": 4.228206288934084e-7
+        },
+        {
+          "id": "2083",
+          "chain": "fantom",
+          "pool_id": "0x80307275ab308f7cf42e9038d0785436bcef5f0f",
+          "liquidity": "42045462930",
+          "amount0": 4.4938813355e-7,
+          "amount1": 3.933839861e-9,
+          "amount0_usd": 1.8283546586130019e-7,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1.8283546586130019e-7
+        },
+        {
+          "id": "2084",
+          "chain": "fantom",
+          "pool_id": "0x1e474aa711eac35b2e88ef6ddfaa91b687c1af44",
+          "liquidity": "300416990",
+          "amount0": 0.007785062439588962,
+          "amount1": 1.1e-7,
+          "amount0_usd": 0.0031673856331215044,
+          "amount1_usd": 0.0030054308977870876,
+          "liquidity_usd": 0.0061728165309085925
+        }
+      ]
+    },
+    {
+      "owner": "0x28c974c18c6553b445c4b77f35d83f3499acf58f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0014410000000000002,
+      "positions": [
+        {
+          "id": "347",
+          "chain": "fantom",
+          "pool_id": "0x2d94fffa669bd94173553813b757bceb5c1ec29d",
+          "liquidity": "773249465",
+          "amount0": 6.1298673519371e-5,
+          "amount1": 0.001441,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0014410000000000002,
+          "liquidity_usd": 0.0014410000000000002
+        }
+      ]
+    },
+    {
+      "owner": "0x1ea800367b42a91b35ea79d1a3b0e5bf10c4bae8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3.1893974458908804e-9,
+      "positions": [
+        {
+          "id": "1580",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "2502723872",
+          "amount0": 7.99017097e-10,
+          "amount1": 7.839164894e-9,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.1893974458908804e-9,
+          "liquidity_usd": 3.1893974458908804e-9
+        }
+      ]
+    },
+    {
+      "owner": "0x6572b78dc12236025ffba9b8ccaf0308ad09a1fb",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.5830725059261953e-9,
+      "positions": [
+        {
+          "id": "1585",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "1242238830",
+          "amount0": 3.96595915e-10,
+          "amount1": 3.891006569e-9,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.5830725059261953e-9,
+          "liquidity_usd": 1.5830725059261953e-9
+        }
+      ]
+    },
+    {
+      "owner": "0x69ba476b6143aecd96deb26915a40772d46eece3",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.5292445874867188e-9,
+      "positions": [
+        {
+          "id": "1586",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "1200000000",
+          "amount0": 3.83110788e-10,
+          "amount1": 3.758703858e-9,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.5292445874867188e-9,
+          "liquidity_usd": 1.5292445874867188e-9
+        }
+      ]
+    },
+    {
+      "owner": "0x963f9c36e847b653cd8dc72ff126b867e09de1c2",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 2.1622919475050332e-10,
+      "positions": [
+        {
+          "id": "1361",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "169656371",
+          "amount0": 5.4164321e-11,
+          "amount1": 5.31406713e-10,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.1620507236283527e-10,
+          "liquidity_usd": 2.1620507236283527e-10
+        },
+        {
+          "id": "1569",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "18929",
+          "amount0": 6.043e-15,
+          "amount1": 5.929e-14,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.4122387668054366e-14,
+          "liquidity_usd": 2.4122387668054366e-14
+        }
+      ]
+    },
+    {
+      "owner": "0x01721d1c7666cd5df42350e13f882a1ce55e5e35",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 5.1494726975380406e-14,
+      "positions": [
+        {
+          "id": "1579",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "40408",
+          "amount0": 1.29e-14,
+          "amount1": 1.26568e-13,
+          "amount0_usd": 0.0,
+          "amount1_usd": 5.1494726975380406e-14,
+          "liquidity_usd": 5.1494726975380406e-14
+        }
+      ]
+    },
+    {
+      "owner": "0x68977a1f7ea1724974e27b97cb2545074f9004de",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "1545",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "283502866352214532696",
+          "amount0": 16.689294847652707,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x4fa39d0da2c97d07d586c9183d680f0a8dc2ba34",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "1612",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "92943705055084717859",
+          "amount0": 4.5916618519333925,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xfb3ec192ece8fe8a7973e8cc8bee44a4e3225de0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "1624",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "1304690086962154338644",
+          "amount0": 156.1877182650929,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x8bb9e4652a58c744db8da84bfa24761d1a6f5a36",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "1716",
+          "chain": "fantom",
+          "pool_id": "0x458d017116700c0838fde594b941e0a302e233da",
+          "liquidity": "5816165271114429551891839",
+          "amount0": 0.0,
+          "amount1": 67764868490.00108,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x22f705d72951ed309abdd39b65787f6622f3ee97",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "1751",
+          "chain": "fantom",
+          "pool_id": "0xddb25b9264f54b55db1ed313943e0095c2cfd546",
+          "liquidity": "13509704500387537871198",
+          "amount0": 99.45083526478803,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x57b86fc15d6c893a88a5f9685253c15152c3ca29",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "179",
+          "chain": "fantom",
+          "pool_id": "0x711a520d7391e5a5adc40235bd9aaaef3a3ab7b6",
+          "liquidity": "49949904681538276554483",
+          "amount0": 4992.806065999406,
+          "amount1": 499717.58260058484,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "180",
+          "chain": "fantom",
+          "pool_id": "0x711a520d7391e5a5adc40235bd9aaaef3a3ab7b6",
+          "liquidity": "49899904776952152153527",
+          "amount0": 4987.808262129537,
+          "amount1": 499217.36480018386,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xd54c82c9fe252acafbbd2375e6678f4848e78afe",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "4",
+          "chain": "fantom",
+          "pool_id": "0x01a21658a53c5da436fb3ca53a7e7c80f464a6a7",
+          "liquidity": "2000754253355997203548",
+          "amount0": 0.0,
+          "amount1": 1368.4712327722182,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4594 @@
+{
+  "number_of_positions": 303,
+  "total_liquidity_usd": 728559.8019638669,
+  "number_distinct_owners": 179,
+  "number_owner_less_than_1_liquidity_usd": 30,
+  "details": [
+    {
+      "owner": "0x88bbe6de858b179841c8f49a56b99fb0522a263a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 250823.06462308546,
+      "positions": [
+        {
+          "id": "12723",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "566061796328916710009",
+          "amount0": 206499999.9999992,
+          "amount1": 0.0,
+          "amount0_usd": 250823.06462308546,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 250823.06462308546
+        }
+      ]
+    },
+    {
+      "owner": "0x9ebf6b6b50f1c869fa3811ab6d27e7cfae4c92d8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 136190.06787799997,
+      "positions": [
+        {
+          "id": "11502",
+          "chain": "avalanche",
+          "pool_id": "0x0551827bbd26054b80ed8099fa04f551632e9380",
+          "liquidity": "340526102418642",
+          "amount0": 63737.772958,
+          "amount1": 72452.29492,
+          "amount0_usd": 63737.772958,
+          "amount1_usd": 72452.29491999999,
+          "liquidity_usd": 136190.06787799997
+        }
+      ]
+    },
+    {
+      "owner": "0x13fefdd563a930f07b1ac8a2227acc27c3c12946",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 133981.64069126127,
+      "positions": [
+        {
+          "id": "16545",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "11739604094217369",
+          "amount0": 0.0,
+          "amount1": 8109.486367193372,
+          "amount0_usd": 0.0,
+          "amount1_usd": 133981.64069126127,
+          "liquidity_usd": 133981.64069126127
+        }
+      ]
+    },
+    {
+      "owner": "0xcaa674419d07df8c76dd21ba0edd071f01465e3f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 40979.728028723366,
+      "positions": [
+        {
+          "id": "17782",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "159903607033802366280696",
+          "amount0": 78.88803623781921,
+          "amount1": 2395.377999991247,
+          "amount0_usd": 1404.2654183024565,
+          "amount1_usd": 39575.46261042091,
+          "liquidity_usd": 40979.728028723366
+        }
+      ]
+    },
+    {
+      "owner": "0x5dd596c901987a2b28c38a9c1dfbf86fffc15d77",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 32550.708618596003,
+      "positions": [
+        {
+          "id": "12621",
+          "chain": "avalanche",
+          "pool_id": "0x14d81c57d8ec56f2f4829dedfbb9f12fa6a98aac",
+          "liquidity": "23280046540812560",
+          "amount0": 164.07245301992157,
+          "amount1": 17009.29669,
+          "amount0_usd": 9528.946214870692,
+          "amount1_usd": 17009.29669,
+          "liquidity_usd": 26538.24290487069
+        },
+        {
+          "id": "12981",
+          "chain": "avalanche",
+          "pool_id": "0xcb178a279f9cd423e03ccaba921f80e82568fa32",
+          "liquidity": "9092704849749929128",
+          "amount0": 4949999.999999996,
+          "amount1": 0.0,
+          "amount0_usd": 6012.465713725312,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 6012.465713725312
+        }
+      ]
+    },
+    {
+      "owner": "0x0056d1fd2ca3c0f3a7b6ed6cdd1f1f104b4bf9a9",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 20696.1219793082,
+      "positions": [
+        {
+          "id": "12106",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "60267218908104",
+          "amount0": 0.14749025872198057,
+          "amount1": 10103.287802,
+          "amount0_usd": 4145.068073570054,
+          "amount1_usd": 10103.287801999999,
+          "liquidity_usd": 14248.355875570054
+        },
+        {
+          "id": "16832",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "65915457629181",
+          "amount0": 0.11549706817354803,
+          "amount1": 3201.835057,
+          "amount0_usd": 3245.931046738144,
+          "amount1_usd": 3201.835057,
+          "liquidity_usd": 6447.766103738144
+        }
+      ]
+    },
+    {
+      "owner": "0xa1efa0adecb7f5691605899d13285928ae025844",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 17928.34209133668,
+      "positions": [
+        {
+          "id": "20821",
+          "chain": "avalanche",
+          "pool_id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+          "liquidity": "7277384488013604",
+          "amount0": 8214.899698,
+          "amount1": 587.9240488538044,
+          "amount0_usd": 8214.899698,
+          "amount1_usd": 9713.44239333668,
+          "liquidity_usd": 17928.34209133668
+        }
+      ]
+    },
+    {
+      "owner": "0x41c8557b677485270ba3f198a87bf3545e9427fa",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13747.597750383371,
+      "positions": [
+        {
+          "id": "10739",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "27303696652635020436177",
+          "amount0": 268.5484901350029,
+          "amount1": 542.7585228476411,
+          "amount0_usd": 4780.361837085932,
+          "amount1_usd": 8967.235913297438,
+          "liquidity_usd": 13747.597750383371
+        }
+      ]
+    },
+    {
+      "owner": "0x694bcd969abc4435dd73b7d1080512f1a2613ba0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 9760.05327824506,
+      "positions": [
+        {
+          "id": "15752",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "11464879302948978695895307",
+          "amount0": 0.0,
+          "amount1": 590.7452587880695,
+          "amount0_usd": 0.0,
+          "amount1_usd": 9760.05327824506,
+          "liquidity_usd": 9760.05327824506
+        }
+      ]
+    },
+    {
+      "owner": "0xf944aa03af729a12da3373631588f50e3c8738cf",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 8318.714013867875,
+      "positions": [
+        {
+          "id": "19911",
+          "chain": "avalanche",
+          "pool_id": "0xaf8b78849aa2567da02f49c7cbf755c672de1956",
+          "liquidity": "1077192326665109",
+          "amount0": 0.14046016,
+          "amount1": 277.1168836039546,
+          "amount0_usd": 3740.3013934694495,
+          "amount1_usd": 4578.412620398426,
+          "liquidity_usd": 8318.714013867875
+        }
+      ]
+    },
+    {
+      "owner": "0x56c1d2227ad3f391e5b77e41d00ac64916913288",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 7215.3109475825095,
+      "positions": [
+        {
+          "id": "19757",
+          "chain": "avalanche",
+          "pool_id": "0xaf8b78849aa2567da02f49c7cbf755c672de1956",
+          "liquidity": "461938772270387",
+          "amount0": 0.08182447,
+          "amount1": 136.10729956201575,
+          "amount0_usd": 2178.896700394611,
+          "amount1_usd": 2248.7095334605206,
+          "liquidity_usd": 4427.606233855131
+        },
+        {
+          "id": "20010",
+          "chain": "avalanche",
+          "pool_id": "0xebd012e3f1d594201d2a8acd338c1a2b438f6615",
+          "liquidity": "113273689404758709342",
+          "amount0": 0.5216867861388311,
+          "amount1": 113.01812352143334,
+          "amount0_usd": 920.4651708499039,
+          "amount1_usd": 1867.239542877475,
+          "liquidity_usd": 2787.704713727379
+        }
+      ]
+    },
+    {
+      "owner": "0x97e931494a837ecde1d2f152fcef1c2f5e093356",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4374.251306409091,
+      "positions": [
+        {
+          "id": "17240",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "54818895585995",
+          "amount0": 0.05956951872569689,
+          "amount1": 2700.108808,
+          "amount0_usd": 1674.1424984090906,
+          "amount1_usd": 2700.108808,
+          "liquidity_usd": 4374.251306409091
+        }
+      ]
+    },
+    {
+      "owner": "0x5fce877719adc1bf9a472ca4d27f130ca60bda6d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4358.499924,
+      "positions": [
+        {
+          "id": "19042",
+          "chain": "avalanche",
+          "pool_id": "0x43530d87538762ece313c10254a2e875b36e29e8",
+          "liquidity": "2813129305725",
+          "amount0": 1704.03526,
+          "amount1": 2654.464664,
+          "amount0_usd": 1704.03526,
+          "amount1_usd": 2654.464664,
+          "liquidity_usd": 4358.499924
+        }
+      ]
+    },
+    {
+      "owner": "0xe9a59bea87f061067a01f5417f70c3862c16ec30",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3995.9076012213272,
+      "positions": [
+        {
+          "id": "20134",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "11499209869940859244",
+          "amount0": 995911.4537695196,
+          "amount1": 2786.234173,
+          "amount0_usd": 1209.6734282213279,
+          "amount1_usd": 2786.2341729999994,
+          "liquidity_usd": 3995.9076012213272
+        }
+      ]
+    },
+    {
+      "owner": "0xc149701eb565de8f94b9b7ef35e7017029cf1cb7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2903.7982236452663,
+      "positions": [
+        {
+          "id": "20752",
+          "chain": "avalanche",
+          "pool_id": "0x7377840ac8a6a7db55e28cc3d9e22f7701a5788f",
+          "liquidity": "2904096250600",
+          "amount0": 1769.210372,
+          "amount1": 1134.113035,
+          "amount0_usd": 1769.2103719999998,
+          "amount1_usd": 1134.5878516452665,
+          "liquidity_usd": 2903.7982236452663
+        }
+      ]
+    },
+    {
+      "owner": "0x8f2ee71b68dcc6506f44563e4817ea64cb220b45",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 2376.9234133273912,
+      "positions": [
+        {
+          "id": "14620",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "116640889360995671",
+          "amount0": 1219172.1118376656,
+          "amount1": 825.43195,
+          "amount0_usd": 1480.8546508190004,
+          "amount1_usd": 825.43195,
+          "liquidity_usd": 2306.2866008190003
+        },
+        {
+          "id": "15366",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "31676186652356",
+          "amount0": 20.676357,
+          "amount1": 1.3774157659480704,
+          "amount0_usd": 20.676356999999996,
+          "amount1_usd": 22.75710394955674,
+          "liquidity_usd": 43.43346094955673
+        },
+        {
+          "id": "15471",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "58696855519629997346",
+          "amount0": 23.700149837911326,
+          "amount1": 11.972071766116173,
+          "amount0_usd": 15.927336974987988,
+          "amount1_usd": 11.276014583846255,
+          "liquidity_usd": 27.203351558834242
+        }
+      ]
+    },
+    {
+      "owner": "0xb18dc481e431ba5f4f30958369291be193ba2162",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 2315.6247024440004,
+      "positions": [
+        {
+          "id": "13227",
+          "chain": "avalanche",
+          "pool_id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+          "liquidity": "59280093665025484258",
+          "amount0": 1038.7778330196838,
+          "amount1": 0.2784526208334861,
+          "amount0_usd": 698.0953581224447,
+          "amount1_usd": 491.30234082810404,
+          "liquidity_usd": 1189.3976989505488
+        },
+        {
+          "id": "13228",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "599221890464586",
+          "amount0": 0.5886130925482053,
+          "amount1": 1116.502177,
+          "amount0_usd": 9.724826493451488,
+          "amount1_usd": 1116.502177,
+          "liquidity_usd": 1126.2270034934515
+        }
+      ]
+    },
+    {
+      "owner": "0x9abfe54fc1d9be2988d28575d88b9589bfa8cad1",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 2093.246924274691,
+      "positions": [
+        {
+          "id": "15310",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "37929757566057692217",
+          "amount0": 0.07135660788969304,
+          "amount1": 63.5057661655756,
+          "amount0_usd": 125.90173647790424,
+          "amount1_usd": 1049.2164804223191,
+          "liquidity_usd": 1175.1182169002234
+        },
+        {
+          "id": "18351",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "810597044525780",
+          "amount0": 472.178459,
+          "amount1": 26.99196278669784,
+          "amount0_usd": 472.1784589999999,
+          "amount1_usd": 445.9502483744679,
+          "liquidity_usd": 918.1287073744678
+        }
+      ]
+    },
+    {
+      "owner": "0x091087a0e5e65d539ae4fac6112f29a894760be5",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 1638.8459741063457,
+      "positions": [
+        {
+          "id": "11800",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "18633993169263",
+          "amount0": 0.03186652669740743,
+          "amount1": 743.266047,
+          "amount0_usd": 895.5772643804172,
+          "amount1_usd": 743.266047,
+          "liquidity_usd": 1638.8433113804172
+        },
+        {
+          "id": "14835",
+          "chain": "avalanche",
+          "pool_id": "0x647070672228a512f5dbf2a5a807e46a942c7353",
+          "liquidity": "5458",
+          "amount0": 5e-8,
+          "amount1": 5e-8,
+          "amount0_usd": 0.0013314456545790098,
+          "amount1_usd": 0.0013312802739905696,
+          "liquidity_usd": 0.002662725928569579
+        }
+      ]
+    },
+    {
+      "owner": "0xd56e8adda44ab01242f7f4b8d0080cf370d35730",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1614.3250840227308,
+      "positions": [
+        {
+          "id": "10605",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "49148701707507261056980",
+          "amount0": 0.0,
+          "amount1": 97.7100085769773,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1614.3250840227308,
+          "liquidity_usd": 1614.3250840227308
+        }
+      ]
+    },
+    {
+      "owner": "0xd4ccf92d178534b008037efcf2b9906875626223",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 1572.9544884766046,
+      "positions": [
+        {
+          "id": "4526",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "464557461050124759",
+          "amount0": 43.65926978309059,
+          "amount1": 0.0,
+          "amount0_usd": 721.3207263760854,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 721.3207263760854
+        },
+        {
+          "id": "4579",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "273858302670360779",
+          "amount0": 51.546707056007975,
+          "amount1": 0.0,
+          "amount0_usd": 851.6337621005191,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 851.6337621005191
+        }
+      ]
+    },
+    {
+      "owner": "0x31326a58489928a4f7a5b22e41f0cb6c03613ddd",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1548.8298883970015,
+      "positions": [
+        {
+          "id": "18437",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "5100298721183996626200",
+          "amount0": 26.276274342713602,
+          "amount1": 65.43513700409616,
+          "amount0_usd": 467.73712645177216,
+          "amount1_usd": 1081.0927619452293,
+          "liquidity_usd": 1548.8298883970015
+        }
+      ]
+    },
+    {
+      "owner": "0x3a08ca9e3a394c7b947b9ca56493e38176f3428c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1378.393866026064,
+      "positions": [
+        {
+          "id": "12970",
+          "chain": "avalanche",
+          "pool_id": "0xb30e61451231415a2c69fbdf0ea966e2fc15c64f",
+          "liquidity": "347687230747959906374",
+          "amount0": 939.4394143904012,
+          "amount1": 11.122821426228898,
+          "amount0_usd": 631.3364355463483,
+          "amount1_usd": 747.0574304797157,
+          "liquidity_usd": 1378.393866026064
+        }
+      ]
+    },
+    {
+      "owner": "0x2130fd01026867a6c8dde24ad5e64f2e2dfce196",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1151.0167540314362,
+      "positions": [
+        {
+          "id": "16341",
+          "chain": "avalanche",
+          "pool_id": "0x7cc5be39ce2edde09998cf1431121541edfff4ca",
+          "liquidity": "4580039522662594",
+          "amount0": 0.0,
+          "amount1": 69.66741582705446,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1151.0167540314362,
+          "liquidity_usd": 1151.0167540314362
+        }
+      ]
+    },
+    {
+      "owner": "0xc54eb8d67f80fd02139d8b210f674a6fa7f9d186",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1076.009551,
+      "positions": [
+        {
+          "id": "14244",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1076321915965",
+          "amount0": 431.915413,
+          "amount1": 644.094138,
+          "amount0_usd": 431.915413,
+          "amount1_usd": 644.094138,
+          "liquidity_usd": 1076.009551
+        }
+      ]
+    },
+    {
+      "owner": "0x76c1f2f66902b861abc5e949e03ce0899c279454",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 997.87236,
+      "positions": [
+        {
+          "id": "18278",
+          "chain": "avalanche",
+          "pool_id": "0x86bfa2715a437380722cdedc470b004bbc59f25b",
+          "liquidity": "1996092515122",
+          "amount0": 460.613748,
+          "amount1": 537.258612,
+          "amount0_usd": 460.613748,
+          "amount1_usd": 537.258612,
+          "liquidity_usd": 997.87236
+        }
+      ]
+    },
+    {
+      "owner": "0xe648ceb2c911e4d73f766d903710f6e1bd22ace3",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 950.5030831864615,
+      "positions": [
+        {
+          "id": "4505",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "16440903139744302648301",
+          "amount0": 0.0,
+          "amount1": 57.530955400359,
+          "amount0_usd": 0.0,
+          "amount1_usd": 950.5030831864615,
+          "liquidity_usd": 950.5030831864615
+        }
+      ]
+    },
+    {
+      "owner": "0x15fe3e93a81a0c5c166432e4f1e29ed18992388a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 949.5426881498175,
+      "positions": [
+        {
+          "id": "4681",
+          "chain": "avalanche",
+          "pool_id": "0x7cc5be39ce2edde09998cf1431121541edfff4ca",
+          "liquidity": "606911055909174495",
+          "amount0": 0.0,
+          "amount1": 57.47282571619778,
+          "amount0_usd": 0.0,
+          "amount1_usd": 949.5426881498175,
+          "liquidity_usd": 949.5426881498175
+        }
+      ]
+    },
+    {
+      "owner": "0x6fe4bd0edd713fef7479baf5d89c6040938eb486",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 875.7821195254182,
+      "positions": [
+        {
+          "id": "17589",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "16870787879075340913820",
+          "amount0": 0.0,
+          "amount1": 53.00833100923745,
+          "amount0_usd": 0.0,
+          "amount1_usd": 875.7821195254182,
+          "liquidity_usd": 875.7821195254182
+        }
+      ]
+    },
+    {
+      "owner": "0x42181f98a4c0bc89b6b2d9df86aa8a9debc7ffcc",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 847.3251222328568,
+      "positions": [
+        {
+          "id": "19198",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "12023881344026979624",
+          "amount0": 0.10484170515588002,
+          "amount1": 40.089486441318265,
+          "amount0_usd": 184.98290662631612,
+          "amount1_usd": 662.3422156065407,
+          "liquidity_usd": 847.3251222328568
+        }
+      ]
+    },
+    {
+      "owner": "0x48da18adaeed306ed997cbc1943f9fac594d881a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 805.9958303006783,
+      "positions": [
+        {
+          "id": "19887",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "47085356594830695007484",
+          "amount0": 0.0,
+          "amount1": 48.78438690640968,
+          "amount0_usd": 0.0,
+          "amount1_usd": 805.9958303006783,
+          "liquidity_usd": 805.9958303006783
+        }
+      ]
+    },
+    {
+      "owner": "0x889b021dc2c33cc8fdc42d676db4cf89342899f5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 662.7518597552855,
+      "positions": [
+        {
+          "id": "4426",
+          "chain": "avalanche",
+          "pool_id": "0x8146cb2342c48c88c128f7c45009677962b1193e",
+          "liquidity": "57031127624975372392852",
+          "amount0": 0.0,
+          "amount1": 40.11428091034034,
+          "amount0_usd": 0.0,
+          "amount1_usd": 662.7518597552855,
+          "liquidity_usd": 662.7518597552855
+        }
+      ]
+    },
+    {
+      "owner": "0x886e46dbb064cd33a575f2c52507f2cef223d19f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 644.8670877065261,
+      "positions": [
+        {
+          "id": "4503",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "29217806149571143",
+          "amount0": 0.0,
+          "amount1": 39.03177203553124,
+          "amount0_usd": 0.0,
+          "amount1_usd": 644.8670877065261,
+          "liquidity_usd": 644.8670877065261
+        }
+      ]
+    },
+    {
+      "owner": "0x84748c7e56de0adce4f39497f78b8c016d825026",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 620.3291229189365,
+      "positions": [
+        {
+          "id": "4250",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "15865896604451377",
+          "amount0": 37.54656637677856,
+          "amount1": 0.0,
+          "amount0_usd": 620.3291229189365,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 620.3291229189365
+        }
+      ]
+    },
+    {
+      "owner": "0xde7dd0a1ec0d34f6cecd6331d627731a29082c05",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 620.3279039892707,
+      "positions": [
+        {
+          "id": "19454",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "43735764606947",
+          "amount0": 0.00128161,
+          "amount1": 35.481096100390474,
+          "amount0_usd": 34.12364223898108,
+          "amount1_usd": 586.2042617502896,
+          "liquidity_usd": 620.3279039892707
+        }
+      ]
+    },
+    {
+      "owner": "0x7fe35e8327b15912524bb850990046cdaf7fe5e3",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 606.2243994245514,
+      "positions": [
+        {
+          "id": "16561",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "326104917785837",
+          "amount0": 22.334666444485876,
+          "amount1": 237.22011,
+          "amount0_usd": 369.00428942455136,
+          "amount1_usd": 237.22010999999998,
+          "liquidity_usd": 606.2243994245514
+        }
+      ]
+    },
+    {
+      "owner": "0x1c8bf1d0c78653ec49d621a83716d11deff355ba",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 601.2500123478678,
+      "positions": [
+        {
+          "id": "19948",
+          "chain": "avalanche",
+          "pool_id": "0x7377840ac8a6a7db55e28cc3d9e22f7701a5788f",
+          "liquidity": "601319794806",
+          "amount0": 396.382965,
+          "amount1": 204.781312,
+          "amount0_usd": 396.382965,
+          "amount1_usd": 204.86704734786778,
+          "liquidity_usd": 601.2500123478678
+        }
+      ]
+    },
+    {
+      "owner": "0x9f0832a19e813eeba288b18eafce6ed8a35bb37c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 584.3025022468876,
+      "positions": [
+        {
+          "id": "19765",
+          "chain": "avalanche",
+          "pool_id": "0xaf8b78849aa2567da02f49c7cbf755c672de1956",
+          "liquidity": "60961178401302",
+          "amount0": 0.01079821,
+          "amount1": 17.961820631637416,
+          "amount0_usd": 287.54459563463223,
+          "amount1_usd": 296.7579066122553,
+          "liquidity_usd": 584.3025022468876
+        }
+      ]
+    },
+    {
+      "owner": "0xbd7671a4bbb48e878fc7146d352cb14bb56cb022",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 570.9009356805632,
+      "positions": [
+        {
+          "id": "4483",
+          "chain": "avalanche",
+          "pool_id": "0xafd37d91117a4eb2197a508463c622be0893d5b9",
+          "liquidity": "48980017954528542972208",
+          "amount0": 34.55483401332487,
+          "amount1": 0.0,
+          "amount0_usd": 570.9009356805632,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 570.9009356805632
+        }
+      ]
+    },
+    {
+      "owner": "0xde1126d382568d035a204ad5b543945cc466df43",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 540.3207701600462,
+      "positions": [
+        {
+          "id": "4304",
+          "chain": "avalanche",
+          "pool_id": "0x53cfb104bf1ccde49b7db7775d3213bf173a0e04",
+          "liquidity": "13085594396820007",
+          "amount0": 30.35383762989696,
+          "amount1": 0.0,
+          "amount0_usd": 540.3207701600462,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 540.3207701600462
+        }
+      ]
+    },
+    {
+      "owner": "0x6b534ab9abb00f4645ac36e38cbbb71a0066cd4e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 527.973559631681,
+      "positions": [
+        {
+          "id": "4439",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "13639465473394898",
+          "amount0": 0.0,
+          "amount1": 31.95657525897825,
+          "amount0_usd": 0.0,
+          "amount1_usd": 527.973559631681,
+          "liquidity_usd": 527.973559631681
+        }
+      ]
+    },
+    {
+      "owner": "0x4ffd0a59a26cb2aa76d403215e4cc2845c053994",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 526.2525735515248,
+      "positions": [
+        {
+          "id": "19795",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "445972199609219766380",
+          "amount0": 64.42796095569504,
+          "amount1": 15.358686945120079,
+          "amount0_usd": 43.297863168411055,
+          "amount1_usd": 14.465731693327921,
+          "liquidity_usd": 57.76359486173898
+        },
+        {
+          "id": "20808",
+          "chain": "avalanche",
+          "pool_id": "0xa610b43d31907eaf041b39b9cb1837250057c0e2",
+          "liquidity": "753407074533967914960",
+          "amount0": 57.2666473705664,
+          "amount1": 20.333453048358038,
+          "amount0_usd": 55.85548212852751,
+          "amount1_usd": 361.9505100165896,
+          "liquidity_usd": 417.8059921451171
+        },
+        {
+          "id": "20854",
+          "chain": "avalanche",
+          "pool_id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+          "liquidity": "85490969247535",
+          "amount0": 10.437332,
+          "amount1": 2.4359426051576385,
+          "amount0_usd": 10.437332,
+          "amount1_usd": 40.24565454466881,
+          "liquidity_usd": 50.68298654466881
+        }
+      ]
+    },
+    {
+      "owner": "0x0f54a957efb8280de75a78f351dae7b146c15029",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 521.9119291075983,
+      "positions": [
+        {
+          "id": "16649",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "1141456552492790394489",
+          "amount0": 522.8159354153072,
+          "amount1": 181.08974420831063,
+          "amount0_usd": 351.3507566915455,
+          "amount1_usd": 170.5611724160528,
+          "liquidity_usd": 521.9119291075983
+        }
+      ]
+    },
+    {
+      "owner": "0x2908136745426d05d58fdc43e6db17b37d3bfe1e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 511.5970808795605,
+      "positions": [
+        {
+          "id": "19031",
+          "chain": "avalanche",
+          "pool_id": "0xd0a06776de66a53e94601c7200f00b6584c1861e",
+          "liquidity": "511753120976646680",
+          "amount0": 270.997227,
+          "amount1": 240.59985387956053,
+          "amount0_usd": 270.997227,
+          "amount1_usd": 240.59985387956053,
+          "liquidity_usd": 511.5970808795605
+        }
+      ]
+    },
+    {
+      "owner": "0xab951ec23283ee00ae0a575b89ddf40df28e23ab",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 473.2270541665083,
+      "positions": [
+        {
+          "id": "19933",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "326180349081497",
+          "amount0": 18.811625052373635,
+          "amount1": 162.429024,
+          "amount0_usd": 310.79803016650834,
+          "amount1_usd": 162.429024,
+          "liquidity_usd": 473.2270541665083
+        }
+      ]
+    },
+    {
+      "owner": "0xb725e133780aa831d50dfd906499f9041c93c543",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 461.71340897607524,
+      "positions": [
+        {
+          "id": "19479",
+          "chain": "avalanche",
+          "pool_id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+          "liquidity": "67400061696537723958",
+          "amount0": 426.5861923295718,
+          "amount1": 0.09920213331545803,
+          "amount0_usd": 286.68097377349363,
+          "amount1_usd": 175.0324352025816,
+          "liquidity_usd": 461.71340897607524
+        }
+      ]
+    },
+    {
+      "owner": "0x6771dea372ea6194bf77be6a6d3ce973fe940dc0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 459.93437731903555,
+      "positions": [
+        {
+          "id": "17195",
+          "chain": "avalanche",
+          "pool_id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+          "liquidity": "826424637362076399766",
+          "amount0": 193.2189839330909,
+          "amount1": 15.250865867588148,
+          "amount0_usd": 188.4576799848421,
+          "amount1_usd": 271.47669733419343,
+          "liquidity_usd": 459.93437731903555
+        }
+      ]
+    },
+    {
+      "owner": "0x1ba704c1a8946f106db271e677a74984e40b1de3",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 438.8073325596332,
+      "positions": [
+        {
+          "id": "19185",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "88323975311938",
+          "amount0": 0.001636648025712888,
+          "amount1": 392.810956,
+          "amount0_usd": 45.996376559633276,
+          "amount1_usd": 392.8109559999999,
+          "liquidity_usd": 438.8073325596332
+        }
+      ]
+    },
+    {
+      "owner": "0xf8dbf1a81650ca44944e433f7b91656a8b10e64e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 427.80761307671884,
+      "positions": [
+        {
+          "id": "10242",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "19592401939070467994778",
+          "amount0": 0.0,
+          "amount1": 25.89384626227724,
+          "amount0_usd": 0.0,
+          "amount1_usd": 427.80761307671884,
+          "liquidity_usd": 427.80761307671884
+        }
+      ]
+    },
+    {
+      "owner": "0xd944a760a56397ec80b9ac49883f054c5fe6f8ad",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 409.64898928014725,
+      "positions": [
+        {
+          "id": "19664",
+          "chain": "avalanche",
+          "pool_id": "0x4ded804a5724e1ead4efe3dd2702ec56abe018f7",
+          "liquidity": "100296651964847985258",
+          "amount0": 81.91202150441454,
+          "amount1": 0.3709423244012216,
+          "amount0_usd": 0.0,
+          "amount1_usd": 6.128558452994396,
+          "liquidity_usd": 6.128558452994396
+        },
+        {
+          "id": "20461",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "1569495473948235347445",
+          "amount0": 10.039686986411256,
+          "amount1": 13.606833252759392,
+          "amount0_usd": 178.71385723301495,
+          "amount1_usd": 224.80657359413792,
+          "liquidity_usd": 403.52043082715284
+        }
+      ]
+    },
+    {
+      "owner": "0x2fbf5b33d17d5e1c0514f48206def8baa93dfe6c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 391.04895135778065,
+      "positions": [
+        {
+          "id": "19413",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "10599157495519762728",
+          "amount0": 0.09017655944044711,
+          "amount1": 14.038673094174156,
+          "amount0_usd": 159.10769526356864,
+          "amount1_usd": 231.94125609421204,
+          "liquidity_usd": 391.04895135778065
+        }
+      ]
+    },
+    {
+      "owner": "0xacbfd406e9e1b086c2431b6e77581c84c3690191",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 390.34691654416326,
+      "positions": [
+        {
+          "id": "19010",
+          "chain": "avalanche",
+          "pool_id": "0x53cfb104bf1ccde49b7db7775d3213bf173a0e04",
+          "liquidity": "605070262263927",
+          "amount0": 4.595472310142278,
+          "amount1": 308.544109,
+          "amount0_usd": 81.80280754416327,
+          "amount1_usd": 308.544109,
+          "liquidity_usd": 390.34691654416326
+        }
+      ]
+    },
+    {
+      "owner": "0x25bd0fc0e4597b4c9535d94876a8ca1f531fa92e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 346.0677858714869,
+      "positions": [
+        {
+          "id": "20309",
+          "chain": "avalanche",
+          "pool_id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+          "liquidity": "19246048785209287966",
+          "amount0": 411.1309331097785,
+          "amount1": 0.03954500988309244,
+          "amount0_usd": 276.2944942232389,
+          "amount1_usd": 69.77329164824795,
+          "liquidity_usd": 346.0677858714869
+        }
+      ]
+    },
+    {
+      "owner": "0x53da01a5e7b4bb9fd42e8ca75d1b76a5b32bc58c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 342.6680630491007,
+      "positions": [
+        {
+          "id": "20219",
+          "chain": "avalanche",
+          "pool_id": "0x7377840ac8a6a7db55e28cc3d9e22f7701a5788f",
+          "liquidity": "719087793",
+          "amount0": 132.109873,
+          "amount1": 210.470073,
+          "amount0_usd": 132.109873,
+          "amount1_usd": 210.5581900491007,
+          "liquidity_usd": 342.6680630491007
+        }
+      ]
+    },
+    {
+      "owner": "0x2ed56d17d8216b8dfddb579580d230e42c9f710a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 328.33879929650914,
+      "positions": [
+        {
+          "id": "18263",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "18336876214967486136672",
+          "amount0": 0.0,
+          "amount1": 19.873312514894057,
+          "amount0_usd": 0.0,
+          "amount1_usd": 328.33879929650914,
+          "liquidity_usd": 328.33879929650914
+        }
+      ]
+    },
+    {
+      "owner": "0x57d1764ad5069f6f3c777dcf50a19f3b4560dadc",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 300.98677815546114,
+      "positions": [
+        {
+          "id": "17600",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "1174734028634467866677",
+          "amount0": 0.2967408243558781,
+          "amount1": 17.898065602383188,
+          "amount0_usd": 5.282206247159111,
+          "amount1_usd": 295.704571908302,
+          "liquidity_usd": 300.98677815546114
+        }
+      ]
+    },
+    {
+      "owner": "0xd2aeb4a9fcae61a98214c03e8b45ffdf62463325",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 284.8105157548166,
+      "positions": [
+        {
+          "id": "15655",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "10453675390901211687315",
+          "amount0": 0.0,
+          "amount1": 17.238682724219263,
+          "amount0_usd": 0.0,
+          "amount1_usd": 284.8105157548166,
+          "liquidity_usd": 284.8105157548166
+        }
+      ]
+    },
+    {
+      "owner": "0x23805ab80051ae7aa60441e1b2044d8669d011ca",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 274.89181390204203,
+      "positions": [
+        {
+          "id": "18258",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "36945852526962075211",
+          "amount0": 0.0,
+          "amount1": 16.638334967315153,
+          "amount0_usd": 0.0,
+          "amount1_usd": 274.89181390204203,
+          "liquidity_usd": 274.89181390204203
+        }
+      ]
+    },
+    {
+      "owner": "0xb29ef671a28b1d1e62fe7bee51e70ba397243654",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 266.95074506920673,
+      "positions": [
+        {
+          "id": "16709",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "52104183198592",
+          "amount0": 49.602093,
+          "amount1": 4.392488778426195,
+          "amount0_usd": 49.602093,
+          "amount1_usd": 72.57091591303522,
+          "liquidity_usd": 122.17300891303523
+        },
+        {
+          "id": "20503",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "2442078862982",
+          "amount0": 0.002859790828055793,
+          "amount1": 64.406139,
+          "amount0_usd": 80.37159715617153,
+          "amount1_usd": 64.406139,
+          "liquidity_usd": 144.77773615617153
+        }
+      ]
+    },
+    {
+      "owner": "0xd8db972e92f820d7ee512917a8d29db6398517fe",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 249.51932267617593,
+      "positions": [
+        {
+          "id": "20278",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "10303996432605",
+          "amount0": 0.004684777154638666,
+          "amount1": 117.858287,
+          "amount0_usd": 131.6610356761759,
+          "amount1_usd": 117.858287,
+          "liquidity_usd": 249.51932267617593
+        }
+      ]
+    },
+    {
+      "owner": "0x89fa1f3aedfb95a84a5bc95648c23a41269cef95",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 249.438330930266,
+      "positions": [
+        {
+          "id": "19463",
+          "chain": "avalanche",
+          "pool_id": "0x49851f828916b9aad959044ebadb45b8d7ad8d7e",
+          "liquidity": "4811995250214201753",
+          "amount0": 88324.29255552465,
+          "amount1": 14.097715878817388,
+          "amount0_usd": 0.0,
+          "amount1_usd": 232.9167370062317,
+          "liquidity_usd": 232.9167370062317
+        },
+        {
+          "id": "19477",
+          "chain": "avalanche",
+          "pool_id": "0x00ce95e8277216311ee6cb3e6ab8e235b8ff6ce7",
+          "liquidity": "63190740810292344",
+          "amount0": 481.859504819694,
+          "amount1": 0.9999999999999989,
+          "amount0_usd": 0.0,
+          "amount1_usd": 16.521593924034317,
+          "liquidity_usd": 16.521593924034317
+        }
+      ]
+    },
+    {
+      "owner": "0xb6b32953fc9137b2deda017dbd3b6ac5b72dfa74",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 231.52976846306342,
+      "positions": [
+        {
+          "id": "19611",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "1118661229420575752659",
+          "amount0": 149.6715589205382,
+          "amount1": 139.02831668456065,
+          "amount0_usd": 100.58456890790988,
+          "amount1_usd": 130.94519955515352,
+          "liquidity_usd": 231.52976846306342
+        }
+      ]
+    },
+    {
+      "owner": "0x7918f1052b3a62aa8e7260ef600048683d5b636c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 223.40658303581637,
+      "positions": [
+        {
+          "id": "19286",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "1300584030611981207506",
+          "amount0": 2.768706147702366,
+          "amount1": 10.539029448421143,
+          "amount0_usd": 49.28501813556268,
+          "amount1_usd": 174.12156490025367,
+          "liquidity_usd": 223.40658303581637
+        }
+      ]
+    },
+    {
+      "owner": "0x1bcf7f6501472850f0fcbd30372067b5e2c801aa",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 220.70196687478006,
+      "positions": [
+        {
+          "id": "9508",
+          "chain": "avalanche",
+          "pool_id": "0xfd52a99ce53553f73f6dc217e9b8b5785c387037",
+          "liquidity": "2239802323410",
+          "amount0": 0.003806225033000198,
+          "amount1": 113.731771,
+          "amount0_usd": 106.97019587478006,
+          "amount1_usd": 113.731771,
+          "liquidity_usd": 220.70196687478006
+        }
+      ]
+    },
+    {
+      "owner": "0xc1f7b5133ba11d8a4e7268c438b142c7a10a6fa2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 197.9633676283596,
+      "positions": [
+        {
+          "id": "537",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "11782490250431779800151",
+          "amount0": 0.0,
+          "amount1": 11.982098612191276,
+          "amount0_usd": 0.0,
+          "amount1_usd": 197.9633676283596,
+          "liquidity_usd": 197.9633676283596
+        }
+      ]
+    },
+    {
+      "owner": "0x16031806c1b5740f30fcc8003e0f8eba288eb1be",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 186.60521695492127,
+      "positions": [
+        {
+          "id": "10269",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "11109802000272982757815",
+          "amount0": 0.0,
+          "amount1": 11.294625555677317,
+          "amount0_usd": 0.0,
+          "amount1_usd": 186.60521695492127,
+          "liquidity_usd": 186.60521695492127
+        }
+      ]
+    },
+    {
+      "owner": "0xfadfa867d3f598372aab943031eecd45bcec670f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 183.24027299999997,
+      "positions": [
+        {
+          "id": "12999",
+          "chain": "avalanche",
+          "pool_id": "0xb99555dcc805031f33156e67604e3de3367546b9",
+          "liquidity": "4431341278349566",
+          "amount0": 0.0,
+          "amount1": 183.240273,
+          "amount0_usd": 0.0,
+          "amount1_usd": 183.24027299999997,
+          "liquidity_usd": 183.24027299999997
+        }
+      ]
+    },
+    {
+      "owner": "0x1fd40fdd4cd4e1785778550b05e82ad5d256d266",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 173.69673003703875,
+      "positions": [
+        {
+          "id": "1977",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "10369753443160837871660",
+          "amount0": 0.0,
+          "amount1": 10.513315533337144,
+          "amount0_usd": 0.0,
+          "amount1_usd": 173.69673003703875,
+          "liquidity_usd": 173.69673003703875
+        }
+      ]
+    },
+    {
+      "owner": "0xe4f05e07b6596365f9389faf9f302c59bd5fd516",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 169.1846351060112,
+      "positions": [
+        {
+          "id": "15857",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "4382886523516384008",
+          "amount0": 0.0,
+          "amount1": 10.240212650420762,
+          "amount0_usd": 0.0,
+          "amount1_usd": 169.1846351060112,
+          "liquidity_usd": 169.1846351060112
+        }
+      ]
+    },
+    {
+      "owner": "0xe124ac1d71ab774f31b884fefafd126a66e5b935",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 167.88532210369783,
+      "positions": [
+        {
+          "id": "15883",
+          "chain": "avalanche",
+          "pool_id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+          "liquidity": "106959279133644749619",
+          "amount0": 53.23121094349676,
+          "amount1": 6.514663742156033,
+          "amount0_usd": 51.919486962362996,
+          "amount1_usd": 115.96583514133482,
+          "liquidity_usd": 167.88532210369783
+        }
+      ]
+    },
+    {
+      "owner": "0xd5da422aa15c6f80afc15884f70602446ec282e9",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 165.21476264511884,
+      "positions": [
+        {
+          "id": "19382",
+          "chain": "avalanche",
+          "pool_id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+          "liquidity": "267733793473416928399",
+          "amount0": 72.49438094312144,
+          "amount1": 5.309149459702568,
+          "amount0_usd": 70.70797375277071,
+          "amount1_usd": 94.50678889234813,
+          "liquidity_usd": 165.21476264511884
+        }
+      ]
+    },
+    {
+      "owner": "0x53a2d092ef09bd9bdc6bc958dcc7a8b0a7dc9482",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 164.88700324413716,
+      "positions": [
+        {
+          "id": "16798",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "9673533790023171779404",
+          "amount0": 0.0,
+          "amount1": 9.980090541038678,
+          "amount0_usd": 0.0,
+          "amount1_usd": 164.88700324413716,
+          "liquidity_usd": 164.88700324413716
+        }
+      ]
+    },
+    {
+      "owner": "0x9401ad257d54f1d315f0198a7a23666154eb32ac",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 162.7046427232464,
+      "positions": [
+        {
+          "id": "16626",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "9546931677066279394984",
+          "amount0": 0.0,
+          "amount1": 9.847999138058725,
+          "amount0_usd": 0.0,
+          "amount1_usd": 162.7046427232464,
+          "liquidity_usd": 162.7046427232464
+        }
+      ]
+    },
+    {
+      "owner": "0x2cb44cc6cbc7dc5f2a674b92580b15d59c963863",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 142.59182258159927,
+      "positions": [
+        {
+          "id": "18679",
+          "chain": "avalanche",
+          "pool_id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+          "liquidity": "21935903483729254299",
+          "amount0": 188.06898369809338,
+          "amount1": 0.00918318501091852,
+          "amount0_usd": 126.38899325064526,
+          "amount1_usd": 16.20282933095402,
+          "liquidity_usd": 142.59182258159927
+        }
+      ]
+    },
+    {
+      "owner": "0xf714ae2c56688ec3c194723034eff896aa69ae8d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 127.76451175672082,
+      "positions": [
+        {
+          "id": "20805",
+          "chain": "avalanche",
+          "pool_id": "0xa610b43d31907eaf041b39b9cb1837250057c0e2",
+          "liquidity": "114169322365830986946",
+          "amount0": 18.123696052110795,
+          "amount1": 6.184429427680793,
+          "amount0_usd": 17.677091770206182,
+          "amount1_usd": 110.08741998651465,
+          "liquidity_usd": 127.76451175672082
+        }
+      ]
+    },
+    {
+      "owner": "0x998364bd64c0a2826f52ffb0d3f2bc32239a5149",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 118.2751817376139,
+      "positions": [
+        {
+          "id": "11941",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "284332751584598657419",
+          "amount0": 77.87947842230673,
+          "amount1": 70.00767589468187,
+          "amount0_usd": 52.33775755646031,
+          "amount1_usd": 65.93742418115359,
+          "liquidity_usd": 118.2751817376139
+        }
+      ]
+    },
+    {
+      "owner": "0xd45da880ccba56527f943862835176c84a6c2a3d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 114.64359982165135,
+      "positions": [
+        {
+          "id": "225",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "6832636846515462390596",
+          "amount0": 0.0,
+          "amount1": 6.939015711727228,
+          "amount0_usd": 0.0,
+          "amount1_usd": 114.64359982165135,
+          "liquidity_usd": 114.64359982165135
+        }
+      ]
+    },
+    {
+      "owner": "0x9531c44b548d0fc7683d675d622901a469d25fa9",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 113.90091809130756,
+      "positions": [
+        {
+          "id": "18187",
+          "chain": "avalanche",
+          "pool_id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+          "liquidity": "27680975807284484123",
+          "amount0": 88.97139900862877,
+          "amount1": 8.612165596824621,
+          "amount0_usd": 59.79191958017715,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 59.79191958017715
+        },
+        {
+          "id": "18189",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "33999590308990847393",
+          "amount0": 41.013694834741386,
+          "amount1": 28.185028094567997,
+          "amount0_usd": 27.562650138916577,
+          "amount1_usd": 26.546348372213828,
+          "liquidity_usd": 54.10899851113041
+        }
+      ]
+    },
+    {
+      "owner": "0x9f5a7d8a31b7de4f62c44fe5819aa2ef09065acf",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 112.90056028575101,
+      "positions": [
+        {
+          "id": "8473",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "86094630327660",
+          "amount0": 5.064272228845584,
+          "amount1": 29.230711,
+          "amount0_usd": 83.66984928575101,
+          "amount1_usd": 29.230711,
+          "liquidity_usd": 112.90056028575101
+        }
+      ]
+    },
+    {
+      "owner": "0x38335285fe845582e79f85363a587c570930a7f7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 108.69686499999999,
+      "positions": [
+        {
+          "id": "37",
+          "chain": "avalanche",
+          "pool_id": "0xc52fd11b4fafca932a6817ed94b44242ef282b99",
+          "liquidity": "10022393790683",
+          "amount0": 108.696865,
+          "amount1": 0.9241147570047664,
+          "amount0_usd": 108.69686499999999,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 108.69686499999999
+        }
+      ]
+    },
+    {
+      "owner": "0x9bcd1c8e4bddb3a44221e48d24471bb141bdd2c9",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 103.61213421324197,
+      "positions": [
+        {
+          "id": "19577",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "4548271836526",
+          "amount0": 0.001429002041067329,
+          "amount1": 63.451443,
+          "amount0_usd": 40.16069121324197,
+          "amount1_usd": 63.451443,
+          "liquidity_usd": 103.61213421324197
+        }
+      ]
+    },
+    {
+      "owner": "0xe4f365b10422d569362af9e51d1bd5c98cbfcece",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 102.07843599999998,
+      "positions": [
+        {
+          "id": "16444",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "92828132069",
+          "amount0": 46.52809,
+          "amount1": 55.550346,
+          "amount0_usd": 46.52808999999999,
+          "amount1_usd": 55.55034599999999,
+          "liquidity_usd": 102.07843599999998
+        }
+      ]
+    },
+    {
+      "owner": "0x13a2848b6b93ae361a42f46a0e37c72f6f1b4805",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 99.52666671866692,
+      "positions": [
+        {
+          "id": "19631",
+          "chain": "avalanche",
+          "pool_id": "0x4ded804a5724e1ead4efe3dd2702ec56abe018f7",
+          "liquidity": "866095137864237199304",
+          "amount0": 526.0558814066256,
+          "amount1": 6.02403540338098,
+          "amount0_usd": 0.0,
+          "amount1_usd": 99.52666671866692,
+          "liquidity_usd": 99.52666671866692
+        }
+      ]
+    },
+    {
+      "owner": "0x7a4759b34b1184a794e78bd61e4fa37a23b31bcd",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 96.99863099999999,
+      "positions": [
+        {
+          "id": "16074",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "88208456312",
+          "amount0": 39.80491,
+          "amount1": 57.193721,
+          "amount0_usd": 39.80490999999999,
+          "amount1_usd": 57.19372099999999,
+          "liquidity_usd": 96.99863099999999
+        }
+      ]
+    },
+    {
+      "owner": "0xcc3482f3382f428e41d8603b9fd76575a691bf37",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 93.791942,
+      "positions": [
+        {
+          "id": "14585",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "85293137807",
+          "amount0": 29.964721,
+          "amount1": 63.827221,
+          "amount0_usd": 29.964720999999997,
+          "amount1_usd": 63.827221,
+          "liquidity_usd": 93.791942
+        }
+      ]
+    },
+    {
+      "owner": "0xc1ad58134af0eb0ec44ed313391c8096ef111f2b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 92.654305,
+      "positions": [
+        {
+          "id": "15013",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "84258585849",
+          "amount0": 46.442877,
+          "amount1": 46.211428,
+          "amount0_usd": 46.442876999999996,
+          "amount1_usd": 46.21142799999999,
+          "liquidity_usd": 92.654305
+        }
+      ]
+    },
+    {
+      "owner": "0x8e0f57d0e10a0d816ad9f5e8890ce487c90ef087",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 90.567761,
+      "positions": [
+        {
+          "id": "16068",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "82360549208",
+          "amount0": 41.281441,
+          "amount1": 49.28632,
+          "amount0_usd": 41.281441,
+          "amount1_usd": 49.28632,
+          "liquidity_usd": 90.567761
+        }
+      ]
+    },
+    {
+      "owner": "0x1cf110a556049a8e446297a0d120565a2556f78c",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 90.01469715611913,
+      "positions": [
+        {
+          "id": "16264",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "1585156709243317109633",
+          "amount0": 0.0,
+          "amount1": 3.2689835219290573,
+          "amount0_usd": 0.0,
+          "amount1_usd": 54.008818293671474,
+          "liquidity_usd": 54.008818293671474
+        },
+        {
+          "id": "16265",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "1056771139495544739439",
+          "amount0": 0.0,
+          "amount1": 2.179322347952705,
+          "amount0_usd": 0.0,
+          "amount1_usd": 36.005878862447645,
+          "liquidity_usd": 36.005878862447645
+        }
+      ]
+    },
+    {
+      "owner": "0xa78751c14e57c0dc29b285972bbbbe4255d4b292",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 80.99628622975453,
+      "positions": [
+        {
+          "id": "18581",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "116846919432457",
+          "amount0": 3.236230261777218,
+          "amount1": 27.528604,
+          "amount0_usd": 53.46768222975453,
+          "amount1_usd": 27.528603999999998,
+          "liquidity_usd": 80.99628622975453
+        }
+      ]
+    },
+    {
+      "owner": "0x9db94fa0e6173b6cf65ea2594d8bdb5240372114",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 74.06896316283078,
+      "positions": [
+        {
+          "id": "18441",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "927758852319929176",
+          "amount0": 0.012073274188197805,
+          "amount1": 3.193811393765692,
+          "amount0_usd": 21.302108245079896,
+          "amount1_usd": 52.766854917750884,
+          "liquidity_usd": 74.06896316283078
+        }
+      ]
+    },
+    {
+      "owner": "0xa431da33f5d20fc9e0536f9862a1e16f5defe720",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 62.63488327917355,
+      "positions": [
+        {
+          "id": "16835",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "5682833850579734",
+          "amount0": 38155.456861835235,
+          "amount1": 0.0,
+          "amount0_usd": 46.345126499658534,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 46.345126499658534
+        },
+        {
+          "id": "16847",
+          "chain": "avalanche",
+          "pool_id": "0xdc0fad0e63ec6c698b9f178accde577015f88d7c",
+          "liquidity": "177754342459045759",
+          "amount0": 0.001235298926816953,
+          "amount1": 0.9516592857337329,
+          "amount0_usd": 0.5668285065857198,
+          "amount1_usd": 15.722928272929297,
+          "liquidity_usd": 16.289756779515017
+        }
+      ]
+    },
+    {
+      "owner": "0x4b269d2a0f2bfbdfe92a6dbb12912d93973e42b9",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 61.15227354274842,
+      "positions": [
+        {
+          "id": "17887",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "3589993096138206859392",
+          "amount0": 0.0,
+          "amount1": 3.70135435018705,
+          "amount0_usd": 0.0,
+          "amount1_usd": 61.15227354274842,
+          "liquidity_usd": 61.15227354274842
+        }
+      ]
+    },
+    {
+      "owner": "0xd03fa807537466f20ab295788d25574e748d35d6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 60.992902561861705,
+      "positions": [
+        {
+          "id": "20376",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "101962780601324717831",
+          "amount0": 35.236832664022934,
+          "amount1": 39.61577168667597,
+          "amount0_usd": 23.680394917731775,
+          "amount1_usd": 37.31250764412993,
+          "liquidity_usd": 60.992902561861705
+        }
+      ]
+    },
+    {
+      "owner": "0xe854d0df82b0867c204e67d381768e36f5c2448a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 53.58612220914061,
+      "positions": [
+        {
+          "id": "19376",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "311931586006991877548",
+          "amount0": 0.709017480298349,
+          "amount1": 2.479487548846707,
+          "amount0_usd": 12.621035787396078,
+          "amount1_usd": 40.96508642174454,
+          "liquidity_usd": 53.58612220914061
+        }
+      ]
+    },
+    {
+      "owner": "0x6ee677d43cf4b09bc3727d2ba052f804ae2c578c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 48.592394735551466,
+      "positions": [
+        {
+          "id": "17795",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "1800290468651",
+          "amount0": 0.00022481,
+          "amount1": 2.5788487819964003,
+          "amount0_usd": 5.9857023679163985,
+          "amount1_usd": 42.60669236763507,
+          "liquidity_usd": 48.592394735551466
+        }
+      ]
+    },
+    {
+      "owner": "0x792340043f912e981453d3c937f5aef348e1a2d7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 43.84192754610844,
+      "positions": [
+        {
+          "id": "19945",
+          "chain": "avalanche",
+          "pool_id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+          "liquidity": "44692292410862268641",
+          "amount0": 19.454071285409654,
+          "amount1": 1.3969780879778142,
+          "amount0_usd": 18.97468388498315,
+          "amount1_usd": 24.867243661125283,
+          "liquidity_usd": 43.84192754610844
+        }
+      ]
+    },
+    {
+      "owner": "0x10a1cdb6af76af8c6e9ac08a9f6e3570fef50311",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 43.331577150128176,
+      "positions": [
+        {
+          "id": "19323",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "6702880363816674",
+          "amount0": 30555.689968218518,
+          "amount1": 6.217428,
+          "amount0_usd": 37.11414915012818,
+          "amount1_usd": 6.217428,
+          "liquidity_usd": 43.331577150128176
+        }
+      ]
+    },
+    {
+      "owner": "0x38430336153468dcf36af5cea7d6bc472425633a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 38.716224383365386,
+      "positions": [
+        {
+          "id": "16532",
+          "chain": "avalanche",
+          "pool_id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+          "liquidity": "1966470149411108101",
+          "amount0": 39.28229811848401,
+          "amount1": 0.006980911629090032,
+          "amount0_usd": 26.39909045149609,
+          "amount1_usd": 12.317133931869295,
+          "liquidity_usd": 38.716224383365386
+        }
+      ]
+    },
+    {
+      "owner": "0xb6801492e53834da4774ebd6e504d3596481c3a0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 28.295772450816656,
+      "positions": [
+        {
+          "id": "20161",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "715369353187305644171",
+          "amount0": 40.084956464405906,
+          "amount1": 1.4410500288372678,
+          "amount0_usd": 26.938505182572367,
+          "amount1_usd": 1.3572672682442908,
+          "liquidity_usd": 28.295772450816656
+        }
+      ]
+    },
+    {
+      "owner": "0xd06d3f77ad095822659725c8a1c61d2a9077fd07",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 27.36093375934495,
+      "positions": [
+        {
+          "id": "13421",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "2513259928294",
+          "amount0": 0.15870429404602227,
+          "amount1": 10.343946,
+          "amount0_usd": 2.62204790022892,
+          "amount1_usd": 10.343945999999999,
+          "liquidity_usd": 12.96599390022892
+        },
+        {
+          "id": "15359",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "3111586663948",
+          "amount0": 3.630592,
+          "amount1": 0.2319427439644464,
+          "amount0_usd": 3.630592,
+          "amount1_usd": 3.8320638294068488,
+          "liquidity_usd": 7.462655829406849
+        },
+        {
+          "id": "17849",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "102377554547115",
+          "amount0": 0.0,
+          "amount1": 0.4195893000144877,
+          "amount0_usd": 0.0,
+          "amount1_usd": 6.932284029709179,
+          "liquidity_usd": 6.932284029709179
+        }
+      ]
+    },
+    {
+      "owner": "0x98071fc469cf2fdce21c4a9d06db0bca1a22a07a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 26.28734610495437,
+      "positions": [
+        {
+          "id": "19805",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "281948074624",
+          "amount0": 0.000338998216274925,
+          "amount1": 16.760136,
+          "amount0_usd": 9.527210104954374,
+          "amount1_usd": 16.760135999999996,
+          "liquidity_usd": 26.28734610495437
+        }
+      ]
+    },
+    {
+      "owner": "0x8c1f48a0db29aeab0e0ca7214c92cf6cce877279",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 24.84210992698006,
+      "positions": [
+        {
+          "id": "18259",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "1241657988323109",
+          "amount0": 14082.786201218678,
+          "amount1": 7.736601,
+          "amount0_usd": 17.10550892698006,
+          "amount1_usd": 7.736601,
+          "liquidity_usd": 24.84210992698006
+        }
+      ]
+    },
+    {
+      "owner": "0x952743be7e5c426fa8c4b18fd64786c773f63e15",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 24.536649947600893,
+      "positions": [
+        {
+          "id": "20514",
+          "chain": "avalanche",
+          "pool_id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+          "liquidity": "12811542290612",
+          "amount0": 8.479768,
+          "amount1": 0.9718724489555809,
+          "amount0_usd": 8.479767999999998,
+          "amount1_usd": 16.056881947600893,
+          "liquidity_usd": 24.536649947600893
+        }
+      ]
+    },
+    {
+      "owner": "0x6e1e402824dbd240ebdde6e067967bc78807d290",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 24.158822618667205,
+      "positions": [
+        {
+          "id": "18138",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "1207505946882013",
+          "amount0": 13695.436462020642,
+          "amount1": 7.523804,
+          "amount0_usd": 16.635018618667207,
+          "amount1_usd": 7.523803999999999,
+          "liquidity_usd": 24.158822618667205
+        }
+      ]
+    },
+    {
+      "owner": "0x9aa7decd8ab41791937601dcfca304a18ae8f357",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 21.22004475570778,
+      "positions": [
+        {
+          "id": "20158",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "45680965688292857027",
+          "amount0": 16.948640940808644,
+          "amount1": 10.436753661889274,
+          "amount0_usd": 11.390084762271144,
+          "amount1_usd": 9.829959993436635,
+          "liquidity_usd": 21.22004475570778
+        }
+      ]
+    },
+    {
+      "owner": "0x7d911cc4bf4e5c8d5ca4fa1d677e180f16a6425c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 18.242809340470323,
+      "positions": [
+        {
+          "id": "19065",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "26038149510053",
+          "amount0": 10.432216,
+          "amount1": 0.4727505939428809,
+          "amount0_usd": 10.432216,
+          "amount1_usd": 7.810593340470324,
+          "liquidity_usd": 18.242809340470323
+        }
+      ]
+    },
+    {
+      "owner": "0xe6277895046472574a6d53c52cb766322fa735f5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 18.15712586024269,
+      "positions": [
+        {
+          "id": "16342",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "16792832263910",
+          "amount0": 0.7429473764263413,
+          "amount1": 5.882451,
+          "amount0_usd": 12.27467486024269,
+          "amount1_usd": 5.882451,
+          "liquidity_usd": 18.15712586024269
+        }
+      ]
+    },
+    {
+      "owner": "0xad8771ab5c02c5e7bee612d67aad5f938120e1d5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 17.69373097753235,
+      "positions": [
+        {
+          "id": "17676",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "75608311764",
+          "amount0": 0.000178573788314459,
+          "amount1": 12.675091,
+          "amount0_usd": 5.018639977532352,
+          "amount1_usd": 12.675090999999998,
+          "liquidity_usd": 17.69373097753235
+        }
+      ]
+    },
+    {
+      "owner": "0xa399a2476e664abe42610dbb93c5dd88b6bffede",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 17.37700680589617,
+      "positions": [
+        {
+          "id": "11514",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "14458982655645913239",
+          "amount0": 5.364599931448616,
+          "amount1": 3.3034511837647065,
+          "amount0_usd": 3.6052004493027145,
+          "amount1_usd": 3.111388275384445,
+          "liquidity_usd": 6.71658872468716
+        },
+        {
+          "id": "9476",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "4467882907301",
+          "amount0": 4.672906,
+          "amount1": 0.362405232130711,
+          "amount0_usd": 4.672906,
+          "amount1_usd": 5.987512081209008,
+          "liquidity_usd": 10.66041808120901
+        }
+      ]
+    },
+    {
+      "owner": "0xbbf3b1c2327bc16ca1470a4039ada05a4bed2ba3",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 15.090529965090152,
+      "positions": [
+        {
+          "id": "17250",
+          "chain": "avalanche",
+          "pool_id": "0xcb2625521256176607e2ebf6bf903440909e88de",
+          "liquidity": "63153249681420",
+          "amount0": 2.491286,
+          "amount1": 0.7625925212192601,
+          "amount0_usd": 2.4912859999999997,
+          "amount1_usd": 12.599243965090153,
+          "liquidity_usd": 15.090529965090152
+        }
+      ]
+    },
+    {
+      "owner": "0x633adbd8b0c026fa785c9649141bb11338fccc86",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13.844189780621377,
+      "positions": [
+        {
+          "id": "15808",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "2326902593015391",
+          "amount0": 11397.776332867517,
+          "amount1": 0.0,
+          "amount0_usd": 13.844189780621377,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 13.844189780621377
+        }
+      ]
+    },
+    {
+      "owner": "0x4903cb9e427ded0e36598bc65c815052c98afeac",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13.292083,
+      "positions": [
+        {
+          "id": "12148",
+          "chain": "avalanche",
+          "pool_id": "0x7cc5be39ce2edde09998cf1431121541edfff4ca",
+          "liquidity": "119576492822604",
+          "amount0": 13.292083,
+          "amount1": 0.0,
+          "amount0_usd": 13.292083,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 13.292083
+        }
+      ]
+    },
+    {
+      "owner": "0x0a6bd795e8f19132c0471782dbd096e57e50d317",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 11.559209264149784,
+      "positions": [
+        {
+          "id": "17709",
+          "chain": "avalanche",
+          "pool_id": "0x8146cb2342c48c88c128f7c45009677962b1193e",
+          "liquidity": "1292341954094985473",
+          "amount0": 5.360209249394038,
+          "amount1": 0.14294391836550083,
+          "amount0_usd": 5.145361396433449,
+          "amount1_usd": 2.3616613731451186,
+          "liquidity_usd": 7.507022769578567
+        },
+        {
+          "id": "17710",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "33130304814542876154",
+          "amount0": 0.0,
+          "amount1": 0.24526607500480993,
+          "amount0_usd": 0.0,
+          "amount1_usd": 4.052186494571217,
+          "liquidity_usd": 4.052186494571217
+        }
+      ]
+    },
+    {
+      "owner": "0xca9fff2f9838d326e4e8b4c68fedc653f60fe1b5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 11.155279999999998,
+      "positions": [
+        {
+          "id": "41",
+          "chain": "avalanche",
+          "pool_id": "0x42845783dee627f47b40b5ad7f1c5147c052a21c",
+          "liquidity": "2279999926229161",
+          "amount0": 0.0,
+          "amount1": 11.15528,
+          "amount0_usd": 0.0,
+          "amount1_usd": 11.155279999999998,
+          "liquidity_usd": 11.155279999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x6bdcac1cc501fe79b0c2162895957a82f0521516",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 10.687094133403008,
+      "positions": [
+        {
+          "id": "13970",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "153322516071326",
+          "amount0": 4399.286344363394,
+          "amount1": 5.343547,
+          "amount0_usd": 5.34354713340301,
+          "amount1_usd": 5.343546999999999,
+          "liquidity_usd": 10.687094133403008
+        }
+      ]
+    },
+    {
+      "owner": "0xb633d05b9fc02180296726804e1fe1b9c2d58002",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 10.040254,
+      "positions": [
+        {
+          "id": "5759",
+          "chain": "avalanche",
+          "pool_id": "0xa83e7eebcf91097d116feacfc0d53ea5e4d03fa7",
+          "liquidity": "10043087448",
+          "amount0": 3.673736,
+          "amount1": 6.366518,
+          "amount0_usd": 3.673736,
+          "amount1_usd": 6.366517999999999,
+          "liquidity_usd": 10.040254
+        }
+      ]
+    },
+    {
+      "owner": "0x63dcc4f37c69f2f69c79e17e2f297d4ed17dd49c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 9.775288159504889,
+      "positions": [
+        {
+          "id": "12831",
+          "chain": "avalanche",
+          "pool_id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+          "liquidity": "2371682494951315283379",
+          "amount0": 10.022256699671912,
+          "amount1": 0.0,
+          "amount0_usd": 9.775288159504889,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 9.775288159504889
+        }
+      ]
+    },
+    {
+      "owner": "0x166e7ac3e0f5e0a187c9b4ecbc7680b3b4430237",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 8.770597546150121,
+      "positions": [
+        {
+          "id": "11571",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "91908034712",
+          "amount0": 0.000149324212951639,
+          "amount1": 4.573988,
+          "amount0_usd": 4.196609546150122,
+          "amount1_usd": 4.573987999999999,
+          "liquidity_usd": 8.770597546150121
+        }
+      ]
+    },
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 18,
+      "total_liquidity_usd": 8.655103148926667,
+      "positions": [
+        {
+          "id": "11504",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "2516376609752257064",
+          "amount0": 1.262212637140481,
+          "amount1": 0.9553032933057896,
+          "amount0_usd": 0.8482514306161196,
+          "amount1_usd": 0.8997618856411985,
+          "liquidity_usd": 1.7480133162573182
+        },
+        {
+          "id": "15965",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "103000987",
+          "amount0": 1.76144945008e-7,
+          "amount1": 0.005126,
+          "amount0_usd": 0.00495037973490653,
+          "amount1_usd": 0.005126,
+          "liquidity_usd": 0.010076379734906531
+        },
+        {
+          "id": "15970",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "23928071",
+          "amount0": 1.42097898611e-7,
+          "amount1": 0.004029,
+          "amount0_usd": 0.003993521117649723,
+          "amount1_usd": 0.004029,
+          "liquidity_usd": 0.008022521117649723
+        },
+        {
+          "id": "15971",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "478623648",
+          "amount0": 6.71772168828e-7,
+          "amount1": 0.040585,
+          "amount0_usd": 0.018879493424516405,
+          "amount1_usd": 0.040585,
+          "liquidity_usd": 0.05946449342451641
+        },
+        {
+          "id": "15972",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "23928215",
+          "amount0": 9.3823332577e-8,
+          "amount1": 0.004029,
+          "amount0_usd": 0.0026368121107845704,
+          "amount1_usd": 0.004029,
+          "liquidity_usd": 0.00666581211078457
+        },
+        {
+          "id": "15973",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "300253905",
+          "amount0": 1.03251325862e-7,
+          "amount1": 0.004367,
+          "amount0_usd": 0.0029017765518406513,
+          "amount1_usd": 0.004367,
+          "liquidity_usd": 0.0072687765518406515
+        },
+        {
+          "id": "15974",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "49999933903",
+          "amount0": 0.04999986780744466,
+          "amount1": 0.049999,
+          "amount0_usd": 0.047995773611316565,
+          "amount1_usd": 0.049998999999999995,
+          "liquidity_usd": 0.09799477361131656
+        },
+        {
+          "id": "15976",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "55608274776896",
+          "amount0": 0.06668648735793177,
+          "amount1": 0.099999,
+          "amount0_usd": 0.06401356024562645,
+          "amount1_usd": 0.099999,
+          "liquidity_usd": 0.16401256024562644
+        },
+        {
+          "id": "15979",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "102374604135",
+          "amount0": 0.029956485098072676,
+          "amount1": 0.029999,
+          "amount0_usd": 0.02875576956513068,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.05875476956513068
+        },
+        {
+          "id": "15980",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "30029999370",
+          "amount0": 0.011301970585011156,
+          "amount1": 0.029999,
+          "amount0_usd": 0.010848965114247513,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.040847965114247514
+        },
+        {
+          "id": "15981",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "30029999370",
+          "amount0": 0.011301970585011156,
+          "amount1": 0.029999,
+          "amount0_usd": 0.010848965114247513,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.040847965114247514
+        },
+        {
+          "id": "15982",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "30029999370",
+          "amount0": 0.011301970585011156,
+          "amount1": 0.029999,
+          "amount0_usd": 0.010848965114247513,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.040847965114247514
+        },
+        {
+          "id": "15984",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "30029999370",
+          "amount0": 0.011301970585011156,
+          "amount1": 0.029999,
+          "amount0_usd": 0.010848965114247513,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.040847965114247514
+        },
+        {
+          "id": "15985",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "30029999370",
+          "amount0": 0.011301970585011156,
+          "amount1": 0.029999,
+          "amount0_usd": 0.010848965114247513,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.040847965114247514
+        },
+        {
+          "id": "36",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "204085326106036624116",
+          "amount0": 0.0,
+          "amount1": 0.2072938668046177,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.4248250902887545,
+          "liquidity_usd": 3.4248250902887545
+        },
+        {
+          "id": "6521",
+          "chain": "avalanche",
+          "pool_id": "0xa83e7eebcf91097d116feacfc0d53ea5e4d03fa7",
+          "liquidity": "21482861",
+          "amount0": 0.996723,
+          "amount1": 0.218754,
+          "amount0_usd": 0.9967229999999999,
+          "amount1_usd": 0.218754,
+          "liquidity_usd": 1.215477
+        },
+        {
+          "id": "6522",
+          "chain": "avalanche",
+          "pool_id": "0x8146cb2342c48c88c128f7c45009677962b1193e",
+          "liquidity": "220593503837427066",
+          "amount0": 0.18501104404313345,
+          "amount1": 0.008183859125435657,
+          "amount0_usd": 0.17759543324563376,
+          "amount1_usd": 0.1352103972019507,
+          "liquidity_usd": 0.3128058304475845
+        },
+        {
+          "id": "6523",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "838280973025146",
+          "amount0": 0.0,
+          "amount1": 1.337482,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.3374819999999998,
+          "liquidity_usd": 1.3374819999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x686dca56e7287511179f63fc36dc633a146192cf",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 8.418718775006601,
+      "positions": [
+        {
+          "id": "19886",
+          "chain": "avalanche",
+          "pool_id": "0x7377840ac8a6a7db55e28cc3d9e22f7701a5788f",
+          "liquidity": "7016656516",
+          "amount0": 4.975946,
+          "amount1": 3.441332,
+          "amount0_usd": 4.975946,
+          "amount1_usd": 3.4427727750066004,
+          "liquidity_usd": 8.418718775006601
+        }
+      ]
+    },
+    {
+      "owner": "0x678f22794a005fc595e44ba0213fd1cbb341c564",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 8.207678999999999,
+      "positions": [
+        {
+          "id": "18913",
+          "chain": "avalanche",
+          "pool_id": "0x0551827bbd26054b80ed8099fa04f551632e9380",
+          "liquidity": "8210141108",
+          "amount0": 3.998785,
+          "amount1": 4.208894,
+          "amount0_usd": 3.9987849999999994,
+          "amount1_usd": 4.208894,
+          "liquidity_usd": 8.207678999999999
+        }
+      ]
+    },
+    {
+      "owner": "0xe44b88dadbac54ba75beaa07aae99b243b0b9f87",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 7.803509388302235,
+      "positions": [
+        {
+          "id": "3900",
+          "chain": "avalanche",
+          "pool_id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+          "liquidity": "22851941696026008",
+          "amount0": 0.002211313500761069,
+          "amount1": 0.2361543214468876,
+          "amount0_usd": 3.9016458023513483,
+          "amount1_usd": 3.9016458023513496,
+          "liquidity_usd": 7.803291604702698
+        },
+        {
+          "id": "3907",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "3283594",
+          "amount0": 0.0,
+          "amount1": 1.3181754771212e-5,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.00021778359953616676,
+          "liquidity_usd": 0.00021778359953616676
+        }
+      ]
+    },
+    {
+      "owner": "0x37c14240884086a671ac959e66c9fdc84d63331e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 7.320952108522153,
+      "positions": [
+        {
+          "id": "19883",
+          "chain": "avalanche",
+          "pool_id": "0x4ded804a5724e1ead4efe3dd2702ec56abe018f7",
+          "liquidity": "10881803371335618953",
+          "amount0": 22.09311149278444,
+          "amount1": 0.4431141536454421,
+          "amount0_usd": 0.0,
+          "amount1_usd": 7.320952108522153,
+          "liquidity_usd": 7.320952108522153
+        }
+      ]
+    },
+    {
+      "owner": "0x0193a8a52d77e27bdd4f12e0cdd52d8ff1d97d68",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 6.266479656373395,
+      "positions": [
+        {
+          "id": "19398",
+          "chain": "avalanche",
+          "pool_id": "0x3fea9e8a20b45455583cb0819a304b401d96ac74",
+          "liquidity": "494710728",
+          "amount0": 2.568226,
+          "amount1": 2.366307,
+          "amount0_usd": 2.568226,
+          "amount1_usd": 2.366307,
+          "liquidity_usd": 4.934533
+        },
+        {
+          "id": "19469",
+          "chain": "avalanche",
+          "pool_id": "0xf8cdf29b1b7995b002982580e92a99748047aa58",
+          "liquidity": "2490134664117247765095",
+          "amount0": 0.0,
+          "amount1": 1.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "20868",
+          "chain": "avalanche",
+          "pool_id": "0x369e73f90034a28d6c52bebea139216415cabf5b",
+          "liquidity": "13475266078433",
+          "amount0": 0.002288401069033483,
+          "amount1": 0.000594,
+          "amount0_usd": 0.0015378862669516008,
+          "amount1_usd": 0.000594,
+          "liquidity_usd": 0.002131886266951601
+        },
+        {
+          "id": "20870",
+          "chain": "avalanche",
+          "pool_id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+          "liquidity": "65945870814882628",
+          "amount0": 0.9812321879133586,
+          "amount1": 0.000379954309572748,
+          "amount0_usd": 0.6594226540543305,
+          "amount1_usd": 0.6703921160521122,
+          "liquidity_usd": 1.329814770106443
+        }
+      ]
+    },
+    {
+      "owner": "0x58b0bac1f132753fcfb9800d6e1d21278d80e5a7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 5.895024952981246,
+      "positions": [
+        {
+          "id": "19547",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "1188104945602127",
+          "amount0": 3946.0002762422514,
+          "amount1": 1.102057,
+          "amount0_usd": 4.792967952981246,
+          "amount1_usd": 1.102057,
+          "liquidity_usd": 5.895024952981246
+        }
+      ]
+    },
+    {
+      "owner": "0x9c0afb4e9ce42c7be12ceeef2c06549dfd36c585",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 5.368062201592961,
+      "positions": [
+        {
+          "id": "14603",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "935844345610",
+          "amount0": 1.639483,
+          "amount1": 0.22567914565246108,
+          "amount0_usd": 1.6394829999999998,
+          "amount1_usd": 3.728579201592961,
+          "liquidity_usd": 5.368062201592961
+        }
+      ]
+    },
+    {
+      "owner": "0xafba571fab099c0408cb0dab17093cb20f4fdb93",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 5.130166148217558,
+      "positions": [
+        {
+          "id": "17467",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "2342640662184",
+          "amount0": 0.09424157147986154,
+          "amount1": 0.180876,
+          "amount0_usd": 1.5570209747531278,
+          "amount1_usd": 0.180876,
+          "liquidity_usd": 1.7378969747531279
+        },
+        {
+          "id": "17469",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "6351514233710",
+          "amount0": 0.0,
+          "amount1": 0.20532335978368407,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.3922691734644306,
+          "liquidity_usd": 3.3922691734644306
+        }
+      ]
+    },
+    {
+      "owner": "0x5df1880449e8492da558e513b1ba756eade55f1c",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 5.098354312337183,
+      "positions": [
+        {
+          "id": "10957",
+          "chain": "avalanche",
+          "pool_id": "0x274312e1c6fbc637316b9d882c0176cc292e176a",
+          "liquidity": "90006039402478637",
+          "amount0": 1.70326,
+          "amount1": 99997.89753519723,
+          "amount0_usd": 1.7032599999999998,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1.7032599999999998
+        },
+        {
+          "id": "10960",
+          "chain": "avalanche",
+          "pool_id": "0x2e98bd0c5204573c6db6436c383fd42658b23f38",
+          "liquidity": "90005920422338200397636",
+          "amount0": 0.0,
+          "amount1": 100000.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "9053",
+          "chain": "avalanche",
+          "pool_id": "0x94e4f053e632c8262d8e0040f2ca52475ad701ba",
+          "liquidity": "945692710482207906767961",
+          "amount0": 0.14505835958422886,
+          "amount1": 3666660.8158108173,
+          "amount0_usd": 2.3965953123371833,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 2.3965953123371833
+        },
+        {
+          "id": "9587",
+          "chain": "avalanche",
+          "pool_id": "0xddd070f7a63bb2325a19c096e6b685dfe2a6d202",
+          "liquidity": "1067701724190875298",
+          "amount0": 0.998499,
+          "amount1": 999999.0896262455,
+          "amount0_usd": 0.9984989999999999,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.9984989999999999
+        }
+      ]
+    },
+    {
+      "owner": "0x7d238e6c81f296b47441e6b834432ac1464448aa",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.844207377855137,
+      "positions": [
+        {
+          "id": "9715",
+          "chain": "avalanche",
+          "pool_id": "0x541c1f01d180633db6cb5df2e1da58bebbcb5ede",
+          "liquidity": "4944635896155992649",
+          "amount0": 0.2932046024208451,
+          "amount1": 2.9477804204623808,
+          "amount0_usd": 4.844207377855137,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 4.844207377855137
+        }
+      ]
+    },
+    {
+      "owner": "0xe10bf888009efad7220395a9b7a18a7dc30ce734",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.776750456570956,
+      "positions": [
+        {
+          "id": "19959",
+          "chain": "avalanche",
+          "pool_id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+          "liquidity": "2014108762365",
+          "amount0": 2.392923,
+          "amount1": 0.1442855615221936,
+          "amount0_usd": 2.392923,
+          "amount1_usd": 2.383827456570956,
+          "liquidity_usd": 4.776750456570956
+        }
+      ]
+    },
+    {
+      "owner": "0x93728c58cd4bf1fd01e763b33a2c5334372e9e88",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 4.423683104654917,
+      "positions": [
+        {
+          "id": "12516",
+          "chain": "avalanche",
+          "pool_id": "0x7cc5be39ce2edde09998cf1431121541edfff4ca",
+          "liquidity": "272173142250",
+          "amount0": 1.115703,
+          "amount1": 0.06639600254491616,
+          "amount0_usd": 1.115703,
+          "amount1_usd": 1.096967792226255,
+          "liquidity_usd": 2.212670792226255
+        },
+        {
+          "id": "12517",
+          "chain": "avalanche",
+          "pool_id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+          "liquidity": "271930312215",
+          "amount0": 0.06564707481709006,
+          "amount1": 1.126418,
+          "amount0_usd": 1.0845943124286626,
+          "amount1_usd": 1.1264179999999997,
+          "liquidity_usd": 2.2110123124286623
+        }
+      ]
+    },
+    {
+      "owner": "0xfda16932cd56b9dcab6877df96c3a6bbc6cb33c0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.3906765838578075,
+      "positions": [
+        {
+          "id": "14149",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "1097895742482",
+          "amount0": 7.8835703068696e-5,
+          "amount1": 2.175077,
+          "amount0_usd": 2.215599583857808,
+          "amount1_usd": 2.175077,
+          "liquidity_usd": 4.3906765838578075
+        }
+      ]
+    },
+    {
+      "owner": "0xe4f3c7ca8a58c4bbf5bc9eac040fd621caec458b",
+      "number_of_positions": 19,
+      "total_liquidity_usd": 4.2157496823482035,
+      "positions": [
+        {
+          "id": "14240",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "109692672",
+          "amount0": 0.049499,
+          "amount1": 0.071123,
+          "amount0_usd": 0.049498999999999994,
+          "amount1_usd": 0.071123,
+          "liquidity_usd": 0.12062200000000001
+        },
+        {
+          "id": "14243",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "194357451",
+          "amount0": 0.087705,
+          "amount1": 0.126019,
+          "amount0_usd": 0.08770499999999999,
+          "amount1_usd": 0.126019,
+          "liquidity_usd": 0.21372399999999997
+        },
+        {
+          "id": "14245",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "19435061",
+          "amount0": 0.00877,
+          "amount1": 0.012601,
+          "amount0_usd": 0.00877,
+          "amount1_usd": 0.012601,
+          "liquidity_usd": 0.021371
+        },
+        {
+          "id": "14253",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "195958651",
+          "amount0": 0.088428,
+          "amount1": 0.127058,
+          "amount0_usd": 0.088428,
+          "amount1_usd": 0.127058,
+          "liquidity_usd": 0.215486
+        },
+        {
+          "id": "14868",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "25698746",
+          "amount0": 0.016732,
+          "amount1": 0.011525,
+          "amount0_usd": 0.016732,
+          "amount1_usd": 0.011525,
+          "liquidity_usd": 0.028257
+        },
+        {
+          "id": "14913",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "19811305",
+          "amount0": 0.00795,
+          "amount1": 0.013835,
+          "amount0_usd": 0.00795,
+          "amount1_usd": 0.013834999999999998,
+          "liquidity_usd": 0.021785
+        },
+        {
+          "id": "14920",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "81093140",
+          "amount0": 0.032541,
+          "amount1": 0.056632,
+          "amount0_usd": 0.032541,
+          "amount1_usd": 0.056632,
+          "liquidity_usd": 0.089173
+        },
+        {
+          "id": "16199",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1911111862",
+          "amount0": 0.957903,
+          "amount1": 1.14365,
+          "amount0_usd": 0.957903,
+          "amount1_usd": 1.14365,
+          "liquidity_usd": 2.101553
+        },
+        {
+          "id": "17220",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "1112410694",
+          "amount0": 0.000987,
+          "amount1": 4.1642243272747e-5,
+          "amount0_usd": 0.000987,
+          "amount1_usd": 0.0006879962334381764,
+          "liquidity_usd": 0.0016749962334381766
+        },
+        {
+          "id": "17224",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "111241069489",
+          "amount0": 0.098758,
+          "amount1": 0.004164224330606433,
+          "amount0_usd": 0.098758,
+          "amount1_usd": 0.06879962339886318,
+          "liquidity_usd": 0.16755762339886318
+        },
+        {
+          "id": "17226",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "1112410694",
+          "amount0": 0.000987,
+          "amount1": 4.1642243272747e-5,
+          "amount0_usd": 0.000987,
+          "amount1_usd": 0.0006879962334381764,
+          "liquidity_usd": 0.0016749962334381766
+        },
+        {
+          "id": "17364",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "207844719049",
+          "amount0": 0.0,
+          "amount1": 0.006119966292744475,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.10111159791750204,
+          "liquidity_usd": 0.10111159791750204
+        },
+        {
+          "id": "17369",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "63535501388",
+          "amount0": 0.0,
+          "amount1": 0.002051428669535795,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.03389287144219243,
+          "liquidity_usd": 0.03389287144219243
+        },
+        {
+          "id": "17370",
+          "chain": "avalanche",
+          "pool_id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+          "liquidity": "135047503464",
+          "amount0": 0.0,
+          "amount1": 0.004362146312727446,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.07206961001610655,
+          "liquidity_usd": 0.07206961001610655
+        },
+        {
+          "id": "17386",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "26482087993",
+          "amount0": 0.00658,
+          "amount1": 0.000826240114438362,
+          "amount0_usd": 0.006579999999999999,
+          "amount1_usd": 0.013650803654498275,
+          "liquidity_usd": 0.020230803654498274
+        },
+        {
+          "id": "17388",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "46892121135",
+          "amount0": 0.001399149716331932,
+          "amount1": 0.012858,
+          "amount0_usd": 0.023116183452164013,
+          "amount1_usd": 0.012858,
+          "liquidity_usd": 0.035974183452164014
+        },
+        {
+          "id": "17977",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "490794257",
+          "amount0": 0.221475,
+          "amount1": 0.293701,
+          "amount0_usd": 0.221475,
+          "amount1_usd": 0.293701,
+          "liquidity_usd": 0.515176
+        },
+        {
+          "id": "18252",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "203008268",
+          "amount0": 0.091609,
+          "amount1": 0.121484,
+          "amount0_usd": 0.091609,
+          "amount1_usd": 0.12148399999999998,
+          "liquidity_usd": 0.21309299999999998
+        },
+        {
+          "id": "20304",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "229902088",
+          "amount0": 0.103745,
+          "amount1": 0.137578,
+          "amount0_usd": 0.103745,
+          "amount1_usd": 0.137578,
+          "liquidity_usd": 0.241323
+        }
+      ]
+    },
+    {
+      "owner": "0xbe61359a90eea3be6b8169ac2a098b0945e1d556",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3.444615621899315,
+      "positions": [
+        {
+          "id": "20370",
+          "chain": "avalanche",
+          "pool_id": "0x67e5f1dd0c17945213d2a6b084dcc8f7192b3671",
+          "liquidity": "83371116027371922386",
+          "amount0": 62.17800018874935,
+          "amount1": 0.2084917252982689,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.444615621899315,
+          "liquidity_usd": 3.444615621899315
+        }
+      ]
+    },
+    {
+      "owner": "0x616b3ad0b7ad9b56e955627a96123681dd10e669",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3.3841852359111293,
+      "positions": [
+        {
+          "id": "19412",
+          "chain": "avalanche",
+          "pool_id": "0x614c3d17411eb94bcf95fec59c17e067dd5dbdd0",
+          "liquidity": "1295525474556590338",
+          "amount0": 999999.9999996838,
+          "amount1": 0.2048340645261883,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.3841852359111293,
+          "liquidity_usd": 3.3841852359111293
+        }
+      ]
+    },
+    {
+      "owner": "0x4f2604aac91114ae3b3d0be485d407d02b24480b",
+      "number_of_positions": 10,
+      "total_liquidity_usd": 3.253831286978004,
+      "positions": [
+        {
+          "id": "10373",
+          "chain": "avalanche",
+          "pool_id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+          "liquidity": "279693836498949463",
+          "amount0": 0.06714311967774843,
+          "amount1": 0.005261496715880006,
+          "amount0_usd": 0.04512254563677021,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.04512254563677021
+        },
+        {
+          "id": "10443",
+          "chain": "avalanche",
+          "pool_id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+          "liquidity": "69006235071019129",
+          "amount0": 0.0246124698220177,
+          "amount1": 0.001697517455373625,
+          "amount0_usd": 0.016540448196446768,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.016540448196446768
+        },
+        {
+          "id": "14719",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "423104791476137801",
+          "amount0": 0.07440157685648732,
+          "amount1": 0.03729756372662969,
+          "amount0_usd": 0.05000048498293275,
+          "amount1_usd": 0.0351290804749199,
+          "liquidity_usd": 0.08512956545785265
+        },
+        {
+          "id": "18179",
+          "chain": "avalanche",
+          "pool_id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+          "liquidity": "523867713585113477",
+          "amount0": 0.4208636390305134,
+          "amount1": 0.00676148850970066,
+          "amount0_usd": 0.2828352160304082,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.2828352160304082
+        },
+        {
+          "id": "19210",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1168394864",
+          "amount0": 1.869325,
+          "amount1": 0.11517,
+          "amount0_usd": 1.8693249999999997,
+          "amount1_usd": 0.11517,
+          "liquidity_usd": 1.9844949999999997
+        },
+        {
+          "id": "19676",
+          "chain": "avalanche",
+          "pool_id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+          "liquidity": "15819348145",
+          "amount0": 0.012616,
+          "amount1": 0.000615954774039548,
+          "amount0_usd": 0.012615999999999999,
+          "amount1_usd": 0.010176554652251738,
+          "liquidity_usd": 0.02279255465225174
+        },
+        {
+          "id": "19677",
+          "chain": "avalanche",
+          "pool_id": "0x894399ccdd943ff5648ff30fd768bdeddb0a6f3b",
+          "liquidity": "5606068029",
+          "amount0": 1.7327197026368e-5,
+          "amount1": 0.061101,
+          "amount0_usd": 0.030572139826024653,
+          "amount1_usd": 0.061100999999999996,
+          "liquidity_usd": 0.09167313982602465
+        },
+        {
+          "id": "19678",
+          "chain": "avalanche",
+          "pool_id": "0xebd012e3f1d594201d2a8acd338c1a2b438f6615",
+          "liquidity": "483739633307588",
+          "amount0": 2.227883420716e-6,
+          "amount1": 0.000482648229404921,
+          "amount0_usd": 0.003930881801053117,
+          "amount1_usd": 0.007974118054382274,
+          "liquidity_usd": 0.01190499985543539
+        },
+        {
+          "id": "19849",
+          "chain": "avalanche",
+          "pool_id": "0xe9147826213a50dc180e157e0e715fd4bbe01a27",
+          "liquidity": "1226311685972",
+          "amount0": 0.032449582031120534,
+          "amount1": 0.177219,
+          "amount0_usd": 0.5361188173228147,
+          "amount1_usd": 0.17721899999999996,
+          "liquidity_usd": 0.7133378173228146
+        },
+        {
+          "id": "9745",
+          "chain": "avalanche",
+          "pool_id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+          "liquidity": "115195100664565464",
+          "amount0": 0.0,
+          "amount1": 0.000707958272671884,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x257b600b084b0b82fb1a0a3caad51b87fe16b15f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.9597454730522825,
+      "positions": [
+        {
+          "id": "6068",
+          "chain": "avalanche",
+          "pool_id": "0x95ed9aedb832e3f839634ef9de35325cfe0af11a",
+          "liquidity": "233015206278951",
+          "amount0": 2436.7274241853793,
+          "amount1": 0.0,
+          "amount0_usd": 2.9597454730522825,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 2.9597454730522825
+        }
+      ]
+    },
+    {
+      "owner": "0x1c71f3103e18df24ecde46b653e016fbc0ea248a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.480591562838977,
+      "positions": [
+        {
+          "id": "16460",
+          "chain": "avalanche",
+          "pool_id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+          "liquidity": "126769954244509",
+          "amount0": 1545.0851910633191,
+          "amount1": 0.60387,
+          "amount0_usd": 1.876721562838977,
+          "amount1_usd": 0.60387,
+          "liquidity_usd": 2.480591562838977
+        }
+      ]
+    },
+    {
+      "owner": "0xc375f84824574f3f63ddba0ce2b2fc0ef6f51865",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.177597164802035,
+      "positions": [
+        {
+          "id": "20480",
+          "chain": "avalanche",
+          "pool_id": "0x4ded804a5724e1ead4efe3dd2702ec56abe018f7",
+          "liquidity": "29167690025879207770",
+          "amount0": 31.117008726215996,
+          "amount1": 0.13180309205119947,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.177597164802035,
+          "liquidity_usd": 2.177597164802035
+        }
+      ]
+    },
+    {
+      "owner": "0x57551569787f6a00c7e6b9f5e4d6b6f81eace87c",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 2.1547026748278704,
+      "positions": [
+        {
+          "id": "9234",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "19427253685778895098",
+          "amount0": 0.0,
+          "amount1": 0.019879236612279045,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.32843667482787037,
+          "liquidity_usd": 0.32843667482787037
+        },
+        {
+          "id": "9239",
+          "chain": "avalanche",
+          "pool_id": "0xf22369517804d2c12670cb4b1f1605ceb616cc36",
+          "liquidity": "1526230027905299",
+          "amount0": 0.0,
+          "amount1": 1.826266,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.826266,
+          "liquidity_usd": 1.826266
+        }
+      ]
+    },
+    {
+      "owner": "0x7d8d83200a76008702c9cd4a018e12a3636b66af",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.083588,
+      "positions": [
+        {
+          "id": "13574",
+          "chain": "avalanche",
+          "pool_id": "0xf22369517804d2c12670cb4b1f1605ceb616cc36",
+          "liquidity": "2615574148626722",
+          "amount0": 0.0,
+          "amount1": 2.083588,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.083588,
+          "liquidity_usd": 2.083588
+        }
+      ]
+    },
+    {
+      "owner": "0x9d49033a19238f9fb6e8229eaa913c48b6758998",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.9985019999999998,
+      "positions": [
+        {
+          "id": "16318",
+          "chain": "avalanche",
+          "pool_id": "0x0551827bbd26054b80ed8099fa04f551632e9380",
+          "liquidity": "3404805",
+          "amount0": 0.999989,
+          "amount1": 0.998513,
+          "amount0_usd": 0.9999889999999999,
+          "amount1_usd": 0.9985129999999999,
+          "liquidity_usd": 1.9985019999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x63c993ca8367d9dd783a9aceb005a9be164e5adc",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.8315206714868544,
+      "positions": [
+        {
+          "id": "15128",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "5800329702959158010",
+          "amount0": 0.05760282009028999,
+          "amount1": 0.04879358821738287,
+          "amount0_usd": 1.0253728208627082,
+          "amount1_usd": 0.8061478506241461,
+          "liquidity_usd": 1.8315206714868544
+        }
+      ]
+    },
+    {
+      "owner": "0xb8b962cf0c728fb349ae1081b581955e506f194d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.771933804143258,
+      "positions": [
+        {
+          "id": "10176",
+          "chain": "avalanche",
+          "pool_id": "0xcb178a279f9cd423e03ccaba921f80e82568fa32",
+          "liquidity": "104279663298536",
+          "amount0": 1458.8145277047377,
+          "amount1": 0.0,
+          "amount0_usd": 1.771933804143258,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1.771933804143258
+        }
+      ]
+    },
+    {
+      "owner": "0xedf1d6cf7e1aacc5703c2eab860dee6c352dac9e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.7103749999999998,
+      "positions": [
+        {
+          "id": "7430",
+          "chain": "avalanche",
+          "pool_id": "0xde7a30e6c50cbe00af1fcf594ad5582354e6006c",
+          "liquidity": "2062120260711064",
+          "amount0": 0.7607469587513932,
+          "amount1": 1.710375,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.7103749999999998,
+          "liquidity_usd": 1.7103749999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x6c44bf72f14164767d92809759a81df549f4e2fd",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.537544307020673,
+      "positions": [
+        {
+          "id": "14987",
+          "chain": "avalanche",
+          "pool_id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+          "liquidity": "462303960334868500867",
+          "amount0": 0.0,
+          "amount1": 0.08637530300797785,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.537544307020673,
+          "liquidity_usd": 1.537544307020673
+        }
+      ]
+    },
+    {
+      "owner": "0x09986e6acf22bdbaaed0fdb1c9c307ddae35feab",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.3047909999999998,
+      "positions": [
+        {
+          "id": "19372",
+          "chain": "avalanche",
+          "pool_id": "0x3481ce7a08fd6280fe3f7c0779afaf766569c687",
+          "liquidity": "182673290",
+          "amount0": 1.161876343,
+          "amount1": 1.304791,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.3047909999999998,
+          "liquidity_usd": 1.3047909999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x39b4188844138158fa85ef5a2907357293da2e1d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.138464805580131,
+      "positions": [
+        {
+          "id": "16151",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "3332751953064",
+          "amount0": 0.0,
+          "amount1": 0.06890768595419723,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.138464805580131,
+          "liquidity_usd": 1.138464805580131
+        }
+      ]
+    },
+    {
+      "owner": "0xce32205c0d0fd2f99c2aae792d5243f64335caa6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.0992959533262712,
+      "positions": [
+        {
+          "id": "6281",
+          "chain": "avalanche",
+          "pool_id": "0xcb178a279f9cd423e03ccaba921f80e82568fa32",
+          "liquidity": "110036921513121",
+          "amount0": 905.0388356549123,
+          "amount1": 0.0,
+          "amount0_usd": 1.0992959533262712,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1.0992959533262712
+        }
+      ]
+    },
+    {
+      "owner": "0x000a95909233fd1ae707870aa6cb21aeb2136181",
+      "number_of_positions": 9,
+      "total_liquidity_usd": 0.9440366701595551,
+      "positions": [
+        {
+          "id": "13262",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "203405653",
+          "amount0": 0.071459,
+          "amount1": 0.131886,
+          "amount0_usd": 0.071459,
+          "amount1_usd": 0.13188599999999998,
+          "liquidity_usd": 0.20334499999999997
+        },
+        {
+          "id": "13758",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "7243896",
+          "amount0": 0.001458,
+          "amount1": 0.005782,
+          "amount0_usd": 0.0014579999999999999,
+          "amount1_usd": 0.005782,
+          "liquidity_usd": 0.00724
+        },
+        {
+          "id": "13774",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "18366295",
+          "amount0": 0.004616,
+          "amount1": 0.014661,
+          "amount0_usd": 0.0046159999999999994,
+          "amount1_usd": 0.014661,
+          "liquidity_usd": 0.019277
+        },
+        {
+          "id": "15004",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "24508783",
+          "amount0": 0.011059,
+          "amount1": 0.013441,
+          "amount0_usd": 0.011059,
+          "amount1_usd": 0.013441,
+          "liquidity_usd": 0.0245
+        },
+        {
+          "id": "15809",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "399918039",
+          "amount0": 0.160482,
+          "amount1": 0.239319,
+          "amount0_usd": 0.16048199999999999,
+          "amount1_usd": 0.239319,
+          "liquidity_usd": 0.39980099999999996
+        },
+        {
+          "id": "16960",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "5731600471",
+          "amount0": 0.008303,
+          "amount1": 0.001382177178912584,
+          "amount0_usd": 0.008303,
+          "amount1_usd": 0.022835770081061066,
+          "liquidity_usd": 0.031138770081061064
+        },
+        {
+          "id": "17297",
+          "chain": "avalanche",
+          "pool_id": "0x2304fa3abcb57fe2957cf449f67e03ed5c7205e2",
+          "liquidity": "200082932560588",
+          "amount0": 0.100301,
+          "amount1": 0.09972178754676858,
+          "amount0_usd": 0.100301,
+          "amount1_usd": 0.09972178754676857,
+          "liquidity_usd": 0.20002278754676855
+        },
+        {
+          "id": "17298",
+          "chain": "avalanche",
+          "pool_id": "0xafd37d91117a4eb2197a508463c622be0893d5b9",
+          "liquidity": "8204500114371175",
+          "amount0": 0.000603260027053645,
+          "amount1": 0.009552352135570813,
+          "amount0_usd": 0.00996681719758229,
+          "amount1_usd": 0.009552352135570812,
+          "liquidity_usd": 0.019519169333153102
+        },
+        {
+          "id": "17303",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "16533738161",
+          "amount0": 0.019291,
+          "amount1": 0.001204601885876194,
+          "amount0_usd": 0.019291,
+          "amount1_usd": 0.019901943198572428,
+          "liquidity_usd": 0.03919294319857243
+        }
+      ]
+    },
+    {
+      "owner": "0x960107f1c1d39b8f51f06ad4c70e38113015c591",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.8359624220800441,
+      "positions": [
+        {
+          "id": "16878",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "8524777090",
+          "amount0": 1.6009543911504e-5,
+          "amount1": 0.38603,
+          "amount0_usd": 0.44993242208004425,
+          "amount1_usd": 0.38602999999999993,
+          "liquidity_usd": 0.8359624220800441
+        }
+      ]
+    },
+    {
+      "owner": "0xb01024b4c31f15bf13ca461f0ee666072a134fcd",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.6649119999999998,
+      "positions": [
+        {
+          "id": "11291",
+          "chain": "avalanche",
+          "pool_id": "0x7cc5be39ce2edde09998cf1431121541edfff4ca",
+          "liquidity": "3430619099768",
+          "amount0": 0.664912,
+          "amount1": 0.0,
+          "amount0_usd": 0.6649119999999998,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.6649119999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x3b691bae102ba59157240b183a3b09e839cd407f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.6545938750049274,
+      "positions": [
+        {
+          "id": "3356",
+          "chain": "avalanche",
+          "pool_id": "0xe9147826213a50dc180e157e0e715fd4bbe01a27",
+          "liquidity": "274987984673",
+          "amount0": 0.01958526982885159,
+          "amount1": 0.331014,
+          "amount0_usd": 0.3235798750049274,
+          "amount1_usd": 0.331014,
+          "liquidity_usd": 0.6545938750049274
+        }
+      ]
+    },
+    {
+      "owner": "0x0683d1a4cf7a363380d50e32399f03175420ed98",
+      "number_of_positions": 14,
+      "total_liquidity_usd": 0.5918685220119912,
+      "positions": [
+        {
+          "id": "13777",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "81357964",
+          "amount0": 0.016383,
+          "amount1": 0.064947,
+          "amount0_usd": 0.016383,
+          "amount1_usd": 0.064947,
+          "liquidity_usd": 0.08133000000000001
+        },
+        {
+          "id": "13778",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "18760820",
+          "amount0": 0.004715,
+          "amount1": 0.015913,
+          "amount0_usd": 0.004715,
+          "amount1_usd": 0.015913,
+          "liquidity_usd": 0.020628
+        },
+        {
+          "id": "13942",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "18339226",
+          "amount0": 0.004609,
+          "amount1": 0.015556,
+          "amount0_usd": 0.004609,
+          "amount1_usd": 0.015556,
+          "liquidity_usd": 0.020165000000000002
+        },
+        {
+          "id": "14921",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "18708623",
+          "amount0": 0.008442,
+          "amount1": 0.01213,
+          "amount0_usd": 0.008442,
+          "amount1_usd": 0.01213,
+          "liquidity_usd": 0.020572
+        },
+        {
+          "id": "14923",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1863108",
+          "amount0": 0.00084,
+          "amount1": 0.001208,
+          "amount0_usd": 0.00084,
+          "amount1_usd": 0.001208,
+          "liquidity_usd": 0.0020480000000000003
+        },
+        {
+          "id": "14930",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "9340670",
+          "amount0": 0.004215,
+          "amount1": 0.006056,
+          "amount0_usd": 0.004215,
+          "amount1_usd": 0.006056,
+          "liquidity_usd": 0.010270999999999999
+        },
+        {
+          "id": "15001",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "92257666",
+          "amount0": 0.050851,
+          "amount1": 0.050598,
+          "amount0_usd": 0.05085099999999999,
+          "amount1_usd": 0.050598,
+          "liquidity_usd": 0.10144899999999998
+        },
+        {
+          "id": "16740",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "113561062",
+          "amount0": 0.062594,
+          "amount1": 0.062282,
+          "amount0_usd": 0.062594,
+          "amount1_usd": 0.062282,
+          "liquidity_usd": 0.12487599999999999
+        },
+        {
+          "id": "16966",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "18366990156",
+          "amount0": 0.004563,
+          "amount1": 0.000834980782453771,
+          "amount0_usd": 0.004562999999999999,
+          "amount1_usd": 0.013795213422073656,
+          "liquidity_usd": 0.018358213422073656
+        },
+        {
+          "id": "16967",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "16153337",
+          "amount0": 0.00971,
+          "amount1": 0.009666,
+          "amount0_usd": 0.00971,
+          "amount1_usd": 0.009666,
+          "liquidity_usd": 0.019375999999999997
+        },
+        {
+          "id": "16969",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "9183495077",
+          "amount0": 0.002281,
+          "amount1": 0.000417490391181424,
+          "amount0_usd": 0.002281,
+          "amount1_usd": 0.006897606710285733,
+          "liquidity_usd": 0.009178606710285732
+        },
+        {
+          "id": "16973",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "100938556",
+          "amount0": 0.045549,
+          "amount1": 0.065447,
+          "amount0_usd": 0.045549,
+          "amount1_usd": 0.065447,
+          "liquidity_usd": 0.11099600000000001
+        },
+        {
+          "id": "17208",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "26250378359",
+          "amount0": 0.018941,
+          "amount1": 0.000982662830843977,
+          "amount0_usd": 0.018941,
+          "amount1_usd": 0.01623515625544623,
+          "liquidity_usd": 0.035176156255446234
+        },
+        {
+          "id": "17214",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "12699309270",
+          "amount0": 0.009163,
+          "amount1": 0.000501255851116052,
+          "amount0_usd": 0.009162999999999998,
+          "amount1_usd": 0.008281545624185625,
+          "liquidity_usd": 0.017444545624185622
+        }
+      ]
+    },
+    {
+      "owner": "0x54962fb1ba5229413777fbadd4d826319e68c065",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.3567452550938576,
+      "positions": [
+        {
+          "id": "184",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "21262701546863727113",
+          "amount0": 0.0,
+          "amount1": 0.021592665740010248,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.3567452550938576,
+          "liquidity_usd": 0.3567452550938576
+        }
+      ]
+    },
+    {
+      "owner": "0x91e2fcecf3583b90ab49abba842a35898ba453f0",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.3500225391283101,
+      "positions": [
+        {
+          "id": "20826",
+          "chain": "avalanche",
+          "pool_id": "0x4ded804a5724e1ead4efe3dd2702ec56abe018f7",
+          "liquidity": "56387814592257250150",
+          "amount0": 46.051785288772436,
+          "amount1": 0.021185760934308188,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.3500225391283101,
+          "liquidity_usd": 0.3500225391283101
+        }
+      ]
+    },
+    {
+      "owner": "0x5d1aef79aefe7769855b602acd3efd2939d99b65",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.3432346156592105,
+      "positions": [
+        {
+          "id": "7677",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "20353379354479947136",
+          "amount0": 0.0,
+          "amount1": 0.02077490932396658,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.3432346156592105,
+          "liquidity_usd": 0.3432346156592105
+        }
+      ]
+    },
+    {
+      "owner": "0x1b53417ce962f4d09cc68e6b308089aa3948b148",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.28740026407357455,
+      "positions": [
+        {
+          "id": "11294",
+          "chain": "avalanche",
+          "pool_id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+          "liquidity": "1304016439540395744",
+          "amount0": 0.4276565085987412,
+          "amount1": 0.08731914121782708,
+          "amount0_usd": 0.28740026407357455,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.28740026407357455
+        }
+      ]
+    },
+    {
+      "owner": "0x094032956ef03c2c5d27968fcb0e2ee89cd05f80",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.26989107584147765,
+      "positions": [
+        {
+          "id": "20515",
+          "chain": "avalanche",
+          "pool_id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+          "liquidity": "138866482340",
+          "amount0": 0.006143721744293533,
+          "amount1": 0.168387,
+          "amount0_usd": 0.10150407584147765,
+          "amount1_usd": 0.168387,
+          "liquidity_usd": 0.26989107584147765
+        }
+      ]
+    },
+    {
+      "owner": "0xedad9aaff8932605729c0331eb3b84adcc9435b8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.2684194439631284,
+      "positions": [
+        {
+          "id": "19605",
+          "chain": "avalanche",
+          "pool_id": "0xd2059441535634085fe09921f8439e9ba3dfffeb",
+          "liquidity": "94248330895",
+          "amount0": 1.008e-5,
+          "amount1": 0.0,
+          "amount0_usd": 0.2684194439631284,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.2684194439631284
+        }
+      ]
+    },
+    {
+      "owner": "0xe23eab1848658af52bdcf9f226b21b96b80acc2b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.26744083505365335,
+      "positions": [
+        {
+          "id": "3394",
+          "chain": "avalanche",
+          "pool_id": "0x9f2b29a55b3af786ecd3d44f06c744d1b1b86534",
+          "liquidity": "32681832321462",
+          "amount0": 3.04043241373e-7,
+          "amount1": 0.258896,
+          "amount0_usd": 0.008544835053653315,
+          "amount1_usd": 0.258896,
+          "liquidity_usd": 0.26744083505365335
+        }
+      ]
+    },
+    {
+      "owner": "0x3494dd37af313bead4c6dd14c01d9094ff63a12f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.21715999999999996,
+      "positions": [
+        {
+          "id": "14259",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "197480883",
+          "amount0": 0.089115,
+          "amount1": 0.128045,
+          "amount0_usd": 0.08911499999999999,
+          "amount1_usd": 0.128045,
+          "liquidity_usd": 0.21715999999999996
+        }
+      ]
+    },
+    {
+      "owner": "0xa2dfeb674d997b68ec5adb0a6fb9136bd45c2d2d",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 0.17001921174079554,
+      "positions": [
+        {
+          "id": "15983",
+          "chain": "avalanche",
+          "pool_id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+          "liquidity": "30029999370",
+          "amount0": 0.011301970585011156,
+          "amount1": 0.029999,
+          "amount0_usd": 0.010848965114247513,
+          "amount1_usd": 0.029998999999999998,
+          "liquidity_usd": 0.040847965114247514
+        },
+        {
+          "id": "16066",
+          "chain": "avalanche",
+          "pool_id": "0x877459bc84610b1bde88ca2179c9712b62de7f4c",
+          "liquidity": "17999673097395825",
+          "amount0": 0.01903610373609951,
+          "amount1": 0.000925769430670416,
+          "amount0_usd": 0.018273098818539925,
+          "amount1_usd": 0.01529518660082107,
+          "liquidity_usd": 0.033568285419360994
+        },
+        {
+          "id": "16069",
+          "chain": "avalanche",
+          "pool_id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+          "liquidity": "170294652",
+          "amount0": 2.94302194719e-7,
+          "amount1": 0.008448,
+          "amount0_usd": 0.008271072556804197,
+          "amount1_usd": 0.008447999999999999,
+          "liquidity_usd": 0.016719072556804195
+        },
+        {
+          "id": "6",
+          "chain": "avalanche",
+          "pool_id": "0xe9147826213a50dc180e157e0e715fd4bbe01a27",
+          "liquidity": "33148947792",
+          "amount0": 0.002290994974481264,
+          "amount1": 0.041033,
+          "amount0_usd": 0.03785088865038285,
+          "amount1_usd": 0.041033,
+          "liquidity_usd": 0.07888388865038284
+        }
+      ]
+    },
+    {
+      "owner": "0x21f7180d235a7c90d1bbe866922d1116ebde310a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.16720199999999996,
+      "positions": [
+        {
+          "id": "2493",
+          "chain": "avalanche",
+          "pool_id": "0xa83e7eebcf91097d116feacfc0d53ea5e4d03fa7",
+          "liquidity": "238932458",
+          "amount0": 0.0,
+          "amount1": 0.167202,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.16720199999999996,
+          "liquidity_usd": 0.16720199999999996
+        }
+      ]
+    },
+    {
+      "owner": "0x64956fcf67b80f2051aeb84552d1fae66339585a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.16529218735905676,
+      "positions": [
+        {
+          "id": "10311",
+          "chain": "avalanche",
+          "pool_id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+          "liquidity": "359866687541395227",
+          "amount0": 0.1019069187298464,
+          "amount1": 0.10278295082674811,
+          "amount0_usd": 0.06848504527581592,
+          "amount1_usd": 0.09680714208324083,
+          "liquidity_usd": 0.16529218735905676
+        }
+      ]
+    },
+    {
+      "owner": "0x4c566cd29d4adcc59047865ac3ab8ba45b22da33",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.1652159392403433,
+      "positions": [
+        {
+          "id": "19809",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "64352889987953851208",
+          "amount0": 0.0,
+          "amount1": 0.009999999999999998,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.1652159392403433,
+          "liquidity_usd": 0.1652159392403433
+        }
+      ]
+    },
+    {
+      "owner": "0xb533c4da86afb2fa8fc5bf4ec2a854875c09c848",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.1602174466215527,
+      "positions": [
+        {
+          "id": "20694",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "81979431230",
+          "amount0": 0.080634,
+          "amount1": 0.004816935156951224,
+          "amount0_usd": 0.080634,
+          "amount1_usd": 0.07958344662155271,
+          "liquidity_usd": 0.1602174466215527
+        }
+      ]
+    },
+    {
+      "owner": "0x91ab0ebd3b546e13ddb2b53456ab33c7864d0f96",
+      "number_of_positions": 23,
+      "total_liquidity_usd": 0.07994244733328566,
+      "positions": [
+        {
+          "id": "14941",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "2020542",
+          "amount0": 0.00081,
+          "amount1": 0.001209,
+          "amount0_usd": 0.00081,
+          "amount1_usd": 0.001209,
+          "liquidity_usd": 0.002019
+        },
+        {
+          "id": "14942",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1177206",
+          "amount0": 0.0,
+          "amount1": 0.000999,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.000999,
+          "liquidity_usd": 0.000999
+        },
+        {
+          "id": "15067",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "25008750",
+          "amount0": 0.0,
+          "amount1": 0.009999,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.009999,
+          "liquidity_usd": 0.009999
+        },
+        {
+          "id": "15068",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "11158580",
+          "amount0": 0.008937,
+          "amount1": 0.009465,
+          "amount0_usd": 0.008936999999999999,
+          "amount1_usd": 0.009465,
+          "liquidity_usd": 0.018401999999999998
+        },
+        {
+          "id": "15069",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "2012671",
+          "amount0": 0.000807,
+          "amount1": 0.001204,
+          "amount0_usd": 0.000807,
+          "amount1_usd": 0.001204,
+          "liquidity_usd": 0.0020109999999999998
+        },
+        {
+          "id": "15070",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1003079",
+          "amount0": 0.000903,
+          "amount1": 0.001101,
+          "amount0_usd": 0.000903,
+          "amount1_usd": 0.001101,
+          "liquidity_usd": 0.002004
+        },
+        {
+          "id": "15071",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1003079",
+          "amount0": 0.000903,
+          "amount1": 0.001101,
+          "amount0_usd": 0.000903,
+          "amount1_usd": 0.001101,
+          "liquidity_usd": 0.002004
+        },
+        {
+          "id": "15072",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "134666",
+          "amount0": 0.000986,
+          "amount1": 0.001032,
+          "amount0_usd": 0.000986,
+          "amount1_usd": 0.001032,
+          "liquidity_usd": 0.002018
+        },
+        {
+          "id": "15073",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1003079",
+          "amount0": 0.000903,
+          "amount1": 0.001101,
+          "amount0_usd": 0.000903,
+          "amount1_usd": 0.001101,
+          "liquidity_usd": 0.002004
+        },
+        {
+          "id": "15074",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1003079",
+          "amount0": 0.000903,
+          "amount1": 0.001101,
+          "amount0_usd": 0.000903,
+          "amount1_usd": 0.001101,
+          "liquidity_usd": 0.002004
+        },
+        {
+          "id": "16225",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "2092189",
+          "amount0": 0.000944,
+          "amount1": 0.001147,
+          "amount0_usd": 0.000944,
+          "amount1_usd": 0.0011469999999999998,
+          "liquidity_usd": 0.002091
+        },
+        {
+          "id": "16226",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "19159",
+          "amount0": 8e-6,
+          "amount1": 1e-5,
+          "amount0_usd": 8e-6,
+          "amount1_usd": 1e-5,
+          "liquidity_usd": 1.8e-5
+        },
+        {
+          "id": "16227",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1022938",
+          "amount0": 0.000972,
+          "amount1": 0.001072,
+          "amount0_usd": 0.0009719999999999999,
+          "amount1_usd": 0.001072,
+          "liquidity_usd": 0.002044
+        },
+        {
+          "id": "16228",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "2092189",
+          "amount0": 0.000944,
+          "amount1": 0.001147,
+          "amount0_usd": 0.000944,
+          "amount1_usd": 0.0011469999999999998,
+          "liquidity_usd": 0.002091
+        },
+        {
+          "id": "16229",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "2092189",
+          "amount0": 0.000944,
+          "amount1": 0.001147,
+          "amount0_usd": 0.000944,
+          "amount1_usd": 0.0011469999999999998,
+          "liquidity_usd": 0.002091
+        },
+        {
+          "id": "16851",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "997",
+          "amount0": 0.000291,
+          "amount1": 0.000997,
+          "amount0_usd": 0.00029099999999999997,
+          "amount1_usd": 0.000997,
+          "liquidity_usd": 0.001288
+        },
+        {
+          "id": "16852",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "972",
+          "amount0": 0.0,
+          "amount1": 0.000874,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0008739999999999999,
+          "liquidity_usd": 0.0008739999999999999
+        },
+        {
+          "id": "16853",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "1918138",
+          "amount0": 0.000769,
+          "amount1": 0.001147,
+          "amount0_usd": 0.000769,
+          "amount1_usd": 0.0011469999999999998,
+          "liquidity_usd": 0.0019159999999999997
+        },
+        {
+          "id": "16854",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "979360",
+          "amount0": 0.000882,
+          "amount1": 0.001075,
+          "amount0_usd": 0.0008819999999999999,
+          "amount1_usd": 0.001075,
+          "liquidity_usd": 0.001957
+        },
+        {
+          "id": "19011",
+          "chain": "avalanche",
+          "pool_id": "0xaf560bab0b47544465563f81846fafa90a0487ec",
+          "liquidity": "99963",
+          "amount0": 0.000751,
+          "amount1": 0.009175,
+          "amount0_usd": 0.000751,
+          "amount1_usd": 0.009175,
+          "liquidity_usd": 0.009926
+        },
+        {
+          "id": "19013",
+          "chain": "avalanche",
+          "pool_id": "0x32bec71ca89824504a321f3b7060c7e2e397f742",
+          "liquidity": "34828053132",
+          "amount0": 0.009999,
+          "amount1": 0.0,
+          "amount0_usd": 0.009999,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.009999
+        },
+        {
+          "id": "19423",
+          "chain": "avalanche",
+          "pool_id": "0xc0686cc5f2f77ed2b058a46eb1167fb46fe3a927",
+          "liquidity": "67743",
+          "amount0": 0.000122,
+          "amount1": 9.9e-5,
+          "amount0_usd": 0.00012199999999999998,
+          "amount1_usd": 9.9e-5,
+          "liquidity_usd": 0.00022099999999999998
+        },
+        {
+          "id": "20119",
+          "chain": "avalanche",
+          "pool_id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+          "liquidity": "822814633",
+          "amount0": 0.000977,
+          "amount1": 5.9646020705795e-5,
+          "amount0_usd": 0.000977,
+          "amount1_usd": 0.0009854473332856887,
+          "liquidity_usd": 0.001962447333285689
+        }
+      ]
+    },
+    {
+      "owner": "0x1fd34612dac9c1cd44b7bf1b65b65e49eb5b3768",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.060001,
+      "positions": [
+        {
+          "id": "18349",
+          "chain": "avalanche",
+          "pool_id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+          "liquidity": "57161968",
+          "amount0": 0.022938,
+          "amount1": 0.037063,
+          "amount0_usd": 0.022938,
+          "amount1_usd": 0.037063,
+          "liquidity_usd": 0.060001
+        }
+      ]
+    },
+    {
+      "owner": "0xbc4f1ee9f6deb455342e7984c300d820b535c98f",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 0.025983,
+      "positions": [
+        {
+          "id": "1177",
+          "chain": "avalanche",
+          "pool_id": "0x42845783dee627f47b40b5ad7f1c5147c052a21c",
+          "liquidity": "190744115245",
+          "amount0": 0.0,
+          "amount1": 0.00019,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.00019,
+          "liquidity_usd": 0.00019
+        },
+        {
+          "id": "458",
+          "chain": "avalanche",
+          "pool_id": "0x42845783dee627f47b40b5ad7f1c5147c052a21c",
+          "liquidity": "23934471340901",
+          "amount0": 0.0,
+          "amount1": 0.023866,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.023866,
+          "liquidity_usd": 0.023866
+        },
+        {
+          "id": "593",
+          "chain": "avalanche",
+          "pool_id": "0x42845783dee627f47b40b5ad7f1c5147c052a21c",
+          "liquidity": "1933748070348",
+          "amount0": 0.0,
+          "amount1": 0.001927,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.001927,
+          "liquidity_usd": 0.001927
+        }
+      ]
+    },
+    {
+      "owner": "0x04e0e61845b0fdd58fc49591534bffaf26b5bd2e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.025075,
+      "positions": [
+        {
+          "id": "20160",
+          "chain": "avalanche",
+          "pool_id": "0x0e08653622f18f7c00d8c52d14af56245a8b6d4e",
+          "liquidity": "601603325016632",
+          "amount0": 235872.70517187277,
+          "amount1": 0.025075,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.025075,
+          "liquidity_usd": 0.025075
+        }
+      ]
+    },
+    {
+      "owner": "0x4e5dc6c15da31efe64fa16ffb94d2f66e85cf163",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.017297758897160426,
+      "positions": [
+        {
+          "id": "18752",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "29581820878936822",
+          "amount0": 0.0,
+          "amount1": 0.001046978819156001,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.017297758897160426,
+          "liquidity_usd": 0.017297758897160426
+        }
+      ]
+    },
+    {
+      "owner": "0xce8ddc6c9b5dcad7a1044f87a840c781d381b831",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.011315679803031975,
+      "positions": [
+        {
+          "id": "16194",
+          "chain": "avalanche",
+          "pool_id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+          "liquidity": "115678501",
+          "amount0": 1.97825125669e-7,
+          "amount1": 0.005756,
+          "amount0_usd": 0.005559679803031975,
+          "amount1_usd": 0.005756,
+          "liquidity_usd": 0.011315679803031975
+        }
+      ]
+    },
+    {
+      "owner": "0xede2b432fb9f918b00487e2afeebd42b67f80e2c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.002020677057080933,
+      "positions": [
+        {
+          "id": "18423",
+          "chain": "avalanche",
+          "pool_id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+          "liquidity": "2609207949",
+          "amount0": 0.001238,
+          "amount1": 4.737297507006e-5,
+          "amount0_usd": 0.001238,
+          "amount1_usd": 0.0007826770570809333,
+          "liquidity_usd": 0.002020677057080933
+        }
+      ]
+    },
+    {
+      "owner": "0xec4088504351019c7439fdd757c0fb5f5d35a9e4",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.00021354830657295575,
+      "positions": [
+        {
+          "id": "15",
+          "chain": "avalanche",
+          "pool_id": "0xe9147826213a50dc180e157e0e715fd4bbe01a27",
+          "liquidity": "190059542",
+          "amount0": 1.0625385624421e-5,
+          "amount1": 3.8e-5,
+          "amount0_usd": 0.00017554830657295575,
+          "amount1_usd": 3.8e-5,
+          "liquidity_usd": 0.00021354830657295575
+        }
+      ]
+    },
+    {
+      "owner": "0xcb51e0fd0a55714b99037db1c977dce1a18d9197",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1e-6,
+      "positions": [
+        {
+          "id": "19906",
+          "chain": "avalanche",
+          "pool_id": "0x7377840ac8a6a7db55e28cc3d9e22f7701a5788f",
+          "liquidity": "1929",
+          "amount0": 1e-6,
+          "amount1": 0.0,
+          "amount0_usd": 1e-6,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x379f29c017ec33e145d1fe721971cc1b50a31253",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 6.393445409695637e-8,
+      "positions": [
+        {
+          "id": "3452",
+          "chain": "avalanche",
+          "pool_id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+          "liquidity": "3802432494521",
+          "amount0": 0.0,
+          "amount1": 3.869750969e-9,
+          "amount0_usd": 0.0,
+          "amount1_usd": 6.393445409695637e-8,
+          "liquidity_usd": 6.393445409695637e-8
+        }
+      ]
+    },
+    {
+      "owner": "0x10a9217d02afe1db02334613530f6f808c092d88",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "5440",
+          "chain": "avalanche",
+          "pool_id": "0xe431f026f58223306fbd18f09ab628fffb19cdce",
+          "liquidity": "220904978796254256293",
+          "amount0": 0.19720934075992255,
+          "amount1": 36.20167017310896,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "5447",
+          "chain": "avalanche",
+          "pool_id": "0xd76ed896d7523082d50713140fc5a53e0227eda6",
+          "liquidity": "2999268382875244843",
+          "amount0": 1.5010292791403381,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xfc9393e97ee34d7ea42eecddcff9966115cd2081",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "7130",
+          "chain": "avalanche",
+          "pool_id": "0xb777b5f9e0b3c00cd3cfc0c4ef6c0f81e9d6bbf6",
+          "liquidity": "1798682406256154478068",
+          "amount0": 0.0,
+          "amount1": 16139.641203703697,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    }
+  ]
+}

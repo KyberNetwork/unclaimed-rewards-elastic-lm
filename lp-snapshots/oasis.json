@@ -1,0 +1,44 @@
+{
+  "number_of_positions": 2,
+  "total_liquidity_usd": 0.8175985390893888,
+  "number_distinct_owners": 2,
+  "number_owner_less_than_1_liquidity_usd": 2,
+  "details": [
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.5537075390893889,
+      "positions": [
+        {
+          "id": "1",
+          "chain": "oasis",
+          "pool_id": "0x057a89492a0dbec7390c76c31c01e85c57f5bc04",
+          "liquidity": "1168666850085",
+          "amount0": 4.894947461353401,
+          "amount1": 0.275109,
+          "amount0_usd": 0.278598539089389,
+          "amount1_usd": 0.27510899999999994,
+          "liquidity_usd": 0.5537075390893889
+        }
+      ]
+    },
+    {
+      "owner": "0x69291b9d84ff584d92cdc82d2a0a5af74f4170f6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.263891,
+      "positions": [
+        {
+          "id": "2",
+          "chain": "oasis",
+          "pool_id": "0xd612d578ab19fa9ade01cdabdcc2de65453b1acf",
+          "liquidity": "5278228857333716",
+          "amount0": 0.263891,
+          "amount1": 0.2638913023160072,
+          "amount0_usd": 0.263891,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.263891
+        }
+      ]
+    }
+  ]
+}

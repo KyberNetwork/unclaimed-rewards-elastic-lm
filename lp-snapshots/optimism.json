@@ -1,0 +1,3539 @@
+{
+  "number_of_positions": 237,
+  "total_liquidity_usd": 257715.8192234317,
+  "number_distinct_owners": 132,
+  "number_owner_less_than_1_liquidity_usd": 21,
+  "details": [
+    {
+      "owner": "0x13f210c8baf5f5dbaff3e917e2e5a49e73bbaf12",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 138294.4995929093,
+      "positions": [
+        {
+          "id": "9994",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "7719825699053402",
+          "amount0": 46.907393578761564,
+          "amount1": 48575.827947,
+          "amount0_usd": 89718.67164590931,
+          "amount1_usd": 48575.827947,
+          "liquidity_usd": 138294.4995929093
+        }
+      ]
+    },
+    {
+      "owner": "0x67d0e4d1957de64dbec2a815871bc36579615790",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 22593.475343381226,
+      "positions": [
+        {
+          "id": "10344",
+          "chain": "optimism",
+          "pool_id": "0x427464d9434f99a3d942c60210ee2376166975ce",
+          "liquidity": "14127039084363223798",
+          "amount0": 8958.343438,
+          "amount1": 13635.131905381226,
+          "amount0_usd": 8958.343438,
+          "amount1_usd": 13635.131905381226,
+          "liquidity_usd": 22593.475343381226
+        }
+      ]
+    },
+    {
+      "owner": "0xe76d4f0b98755b704053940cb035ce0a1ad36160",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 20968.61031896335,
+      "positions": [
+        {
+          "id": "2268",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "2587972663390878402",
+          "amount0": 2.447256336503589,
+          "amount1": 2.7367801266079814,
+          "amount0_usd": 5234.575166362809,
+          "amount1_usd": 5234.57516636281,
+          "liquidity_usd": 10469.150332725618
+        },
+        {
+          "id": "2992",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "2595465205978695524",
+          "amount0": 2.4543414856568004,
+          "amount1": 2.744703487600997,
+          "amount0_usd": 5249.729993118867,
+          "amount1_usd": 5249.729993118867,
+          "liquidity_usd": 10499.459986237734
+        }
+      ]
+    },
+    {
+      "owner": "0x7f85c38d42c22e3c2e82590f0234901757d77218",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13866.760643972553,
+      "positions": [
+        {
+          "id": "6116",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "56862122578571175",
+          "amount0": 6245.562989738335,
+          "amount1": 261.292297,
+          "amount0_usd": 13605.468346972553,
+          "amount1_usd": 261.292297,
+          "liquidity_usd": 13866.760643972553
+        }
+      ]
+    },
+    {
+      "owner": "0x7c5f11e10e50c939cef824082f018b13a4a583fc",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 12949.646257911374,
+      "positions": [
+        {
+          "id": "6675",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "535223053518795755283",
+          "amount0": 1.3646906155939267,
+          "amount1": 14218.95301428497,
+          "amount0_usd": 2919.014040173011,
+          "amount1_usd": 10030.632217738363,
+          "liquidity_usd": 12949.646257911374
+        }
+      ]
+    },
+    {
+      "owner": "0x9d1b457d6f672b2b54598c80175e91a2dcd075df",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 6205.14452896408,
+      "positions": [
+        {
+          "id": "9257",
+          "chain": "optimism",
+          "pool_id": "0x427464d9434f99a3d942c60210ee2376166975ce",
+          "liquidity": "823467139744543071",
+          "amount0": 3109.826781,
+          "amount1": 3095.3177479640794,
+          "amount0_usd": 3109.826781,
+          "amount1_usd": 3095.3177479640794,
+          "liquidity_usd": 6205.14452896408
+        }
+      ]
+    },
+    {
+      "owner": "0x8b932f5e9b62bba7fc468396dd628ae2dd88cf33",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3801.554533275795,
+      "positions": [
+        {
+          "id": "9264",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "438679012057217362109",
+          "amount0": 0.4736421957935903,
+          "amount1": 3952.78198780181,
+          "amount0_usd": 1013.1001149576728,
+          "amount1_usd": 2788.4544183181224,
+          "liquidity_usd": 3801.554533275795
+        }
+      ]
+    },
+    {
+      "owner": "0x99ea0316defd8a749869f37d9d730c88d28a5198",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 3772.993974,
+      "positions": [
+        {
+          "id": "4966",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "3732828332781",
+          "amount0": 1656.560596,
+          "amount1": 2075.11803,
+          "amount0_usd": 1656.560596,
+          "amount1_usd": 2075.11803,
+          "liquidity_usd": 3731.678626
+        },
+        {
+          "id": "9691",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "41329317686",
+          "amount0": 14.209912,
+          "amount1": 27.105436,
+          "amount0_usd": 14.209912,
+          "amount1_usd": 27.105436,
+          "liquidity_usd": 41.315348
+        }
+      ]
+    },
+    {
+      "owner": "0xbd26bec43c6d95fd90a3f2d2d693d04cdc21c75d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3759.891730819947,
+      "positions": [
+        {
+          "id": "5286",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "7213258177982630",
+          "amount0": 1291.4487513479182,
+          "amount1": 946.572077,
+          "amount0_usd": 2813.3196538199472,
+          "amount1_usd": 946.572077,
+          "liquidity_usd": 3759.891730819947
+        }
+      ]
+    },
+    {
+      "owner": "0xfa4d3cd41555d3a0fafd4a97e9ba91882a2f4755",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3738.9318357088478,
+      "positions": [
+        {
+          "id": "5915",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "1857439420150952991942",
+          "amount0": 0.0,
+          "amount1": 1.9548165834859743,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3738.9318357088478,
+          "liquidity_usd": 3738.9318357088478
+        }
+      ]
+    },
+    {
+      "owner": "0x7b9e4001a402eba625de1d2270e4c85e9d917134",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2965.0205189601056,
+      "positions": [
+        {
+          "id": "9532",
+          "chain": "optimism",
+          "pool_id": "0x64cfb034b5f0366329df47bf110fa1409278f3b4",
+          "liquidity": "2696509738592945852",
+          "amount0": 1783.663218,
+          "amount1": 1181.357300960106,
+          "amount0_usd": 1783.663218,
+          "amount1_usd": 1181.357300960106,
+          "liquidity_usd": 2965.0205189601056
+        }
+      ]
+    },
+    {
+      "owner": "0x2dffe68fe52940cd3e07883cc8fee6ec806d2ebd",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2205.3886907009764,
+      "positions": [
+        {
+          "id": "9064",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "75525452580560724277",
+          "amount0": 0.2609512467602557,
+          "amount1": 783.2613681825462,
+          "amount0_usd": 499.1153299609993,
+          "amount1_usd": 1706.273360739977,
+          "liquidity_usd": 2205.3886907009764
+        }
+      ]
+    },
+    {
+      "owner": "0xc86a67652fd985e7701f51470fe5a74886a53ed2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2003.352947362381,
+      "positions": [
+        {
+          "id": "9707",
+          "chain": "optimism",
+          "pool_id": "0xf2057f0231bedcecf32436e3cd6b0b93c6675e0a",
+          "liquidity": "3497475313052765851117",
+          "amount0": 1.0461812559340424,
+          "amount1": 0.001230673713573918,
+          "amount0_usd": 2001.0063536284313,
+          "amount1_usd": 2.3465937339497316,
+          "liquidity_usd": 2003.352947362381
+        }
+      ]
+    },
+    {
+      "owner": "0x945de57f58df6b68409e1cd863ae7b8c3f50c9c4",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 1975.6414235734283,
+      "positions": [
+        {
+          "id": "6426",
+          "chain": "optimism",
+          "pool_id": "0xf2057f0231bedcecf32436e3cd6b0b93c6675e0a",
+          "liquidity": "466022739276064409245",
+          "amount0": 0.0,
+          "amount1": 0.9315331749522995,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1776.2059002311428,
+          "liquidity_usd": 1776.2059002311428
+        },
+        {
+          "id": "6429",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "5407858298940010824",
+          "amount0": 0.03634882281561145,
+          "amount1": 59.63583526739313,
+          "amount0_usd": 69.52354096233033,
+          "amount1_usd": 129.91198237995516,
+          "liquidity_usd": 199.43552334228548
+        }
+      ]
+    },
+    {
+      "owner": "0xc71a826a8b93a2a20e7983abd26251c4b1864cf7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1841.5114321622739,
+      "positions": [
+        {
+          "id": "9709",
+          "chain": "optimism",
+          "pool_id": "0x381db320dc534209ff93348b281e86c256ba09dd",
+          "liquidity": "1754750817914906743",
+          "amount0": 1413.34717,
+          "amount1": 428.28652101356965,
+          "amount0_usd": 1413.34717,
+          "amount1_usd": 428.1642621622739,
+          "liquidity_usd": 1841.5114321622739
+        }
+      ]
+    },
+    {
+      "owner": "0x3f6e4667fec54733fb3b15993b9ce96b69b65cb3",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 1307.4093340706825,
+      "positions": [
+        {
+          "id": "7474",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "83177220800424",
+          "amount0": 0.02264161074612344,
+          "amount1": 372.278049,
+          "amount0_usd": 48.429423420122895,
+          "amount1_usd": 372.278049,
+          "liquidity_usd": 420.7074724201229
+        },
+        {
+          "id": "8207",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "3177232044344442",
+          "amount0": 275.37108822111236,
+          "amount1": 286.827578,
+          "amount0_usd": 599.8742836505595,
+          "amount1_usd": 286.827578,
+          "liquidity_usd": 886.7018616505595
+        }
+      ]
+    },
+    {
+      "owner": "0x0ce17f94da6267ca9b7a3973b6cf7df6005b368e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1161.5716575936647,
+      "positions": [
+        {
+          "id": "9096",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "1342014634534598",
+          "amount0": 315.91678436480476,
+          "amount1": 473.37176,
+          "amount0_usd": 688.1998975936647,
+          "amount1_usd": 473.37176,
+          "liquidity_usd": 1161.5716575936647
+        }
+      ]
+    },
+    {
+      "owner": "0x91bd6e2b5f136e636015821039a36b4002c15d09",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 1154.4207305938685,
+      "positions": [
+        {
+          "id": "10187",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "2627519837647369",
+          "amount0": 246.25932245463142,
+          "amount1": 0.0,
+          "amount0_usd": 536.4565888308761,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 536.4565888308761
+        },
+        {
+          "id": "9983",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "97460326892331",
+          "amount0": 0.1978025856354194,
+          "amount1": 239.631775,
+          "amount0_usd": 378.3323667629923,
+          "amount1_usd": 239.631775,
+          "liquidity_usd": 617.9641417629923
+        }
+      ]
+    },
+    {
+      "owner": "0x5891be896ed4a79ed928c55b17fbbecdb46f8a00",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 1118.717386644994,
+      "positions": [
+        {
+          "id": "3565",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "14608655503593498703",
+          "amount0": 0.17779850728610966,
+          "amount1": 123.9219326231439,
+          "amount0_usd": 340.0710352313812,
+          "amount1_usd": 269.95419541361275,
+          "liquidity_usd": 610.0252306449939
+        },
+        {
+          "id": "3576",
+          "chain": "optimism",
+          "pool_id": "0xf9d5940c2313636546ab9852354860dce275dbad",
+          "liquidity": "95081765140128",
+          "amount0": 0.0,
+          "amount1": 508.692156,
+          "amount0_usd": 0.0,
+          "amount1_usd": 508.692156,
+          "liquidity_usd": 508.692156
+        }
+      ]
+    },
+    {
+      "owner": "0x3747620be079f042cbcea3c724e726ca2fdd9cc1",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1027.0901069260112,
+      "positions": [
+        {
+          "id": "10144",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "1845688982346546",
+          "amount0": 283.27864500841383,
+          "amount1": 409.989832,
+          "amount0_usd": 617.1002749260114,
+          "amount1_usd": 409.989832,
+          "liquidity_usd": 1027.0901069260112
+        }
+      ]
+    },
+    {
+      "owner": "0x9ffaa816a11a5e36ba911f157cc8d0734cc4ca2d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1012.459341866231,
+      "positions": [
+        {
+          "id": "4203",
+          "chain": "optimism",
+          "pool_id": "0x427464d9434f99a3d942c60210ee2376166975ce",
+          "liquidity": "1012738452553516025",
+          "amount0": 287.985502,
+          "amount1": 724.473839866231,
+          "amount0_usd": 287.985502,
+          "amount1_usd": 724.473839866231,
+          "liquidity_usd": 1012.459341866231
+        }
+      ]
+    },
+    {
+      "owner": "0x742dd993a78d7fb4a4bfc777a36999c041dac46f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 867.070286,
+      "positions": [
+        {
+          "id": "7945",
+          "chain": "optimism",
+          "pool_id": "0x9ee23e9ea484d1206dfe2707ac24861cc32111a3",
+          "liquidity": "468532533357691013",
+          "amount0": 867.070286,
+          "amount1": 560.2518271690243,
+          "amount0_usd": 867.070286,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 867.070286
+        }
+      ]
+    },
+    {
+      "owner": "0xe793542db8d2c5f0068e7dedf8900c3c53e47ee4",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 841.2785858203375,
+      "positions": [
+        {
+          "id": "6749",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "54591258605078294824",
+          "amount0": 0.0,
+          "amount1": 386.1872495427963,
+          "amount0_usd": 0.0,
+          "amount1_usd": 841.2785858203375,
+          "liquidity_usd": 841.2785858203375
+        }
+      ]
+    },
+    {
+      "owner": "0x17d8d047f0e47f3fbb370d5de1a901e04f8a68d4",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 754.87971019064,
+      "positions": [
+        {
+          "id": "4878",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "771513166087528",
+          "amount0": 149.49622676597465,
+          "amount1": 429.213924,
+          "amount0_usd": 325.66578619064,
+          "amount1_usd": 429.213924,
+          "liquidity_usd": 754.87971019064
+        }
+      ]
+    },
+    {
+      "owner": "0x95d9fd113de294909702b0480a22f011c73bb26e",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 665.5646787916304,
+      "positions": [
+        {
+          "id": "9487",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "183401521141384",
+          "amount0": 39.01642755142734,
+          "amount1": 74.73784,
+          "amount0_usd": 84.99422244801225,
+          "amount1_usd": 74.73784,
+          "liquidity_usd": 159.73206244801224
+        },
+        {
+          "id": "9628",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "117143037371038",
+          "amount0": 22.698824658669476,
+          "amount1": 51.435744,
+          "amount0_usd": 49.44760639103671,
+          "amount1_usd": 51.435744,
+          "liquidity_usd": 100.88335039103671
+        },
+        {
+          "id": "9629",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "5604841291264838502",
+          "amount0": 0.05613468665469788,
+          "amount1": 47.980255284060334,
+          "amount0_usd": 107.36749871771099,
+          "amount1_usd": 104.52121700149485,
+          "liquidity_usd": 211.88871571920583
+        },
+        {
+          "id": "9921",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "7560858976560",
+          "amount0": 0.05232719892744652,
+          "amount1": 92.975544,
+          "amount0_usd": 100.08500623337557,
+          "amount1_usd": 92.975544,
+          "liquidity_usd": 193.06055023337558
+        }
+      ]
+    },
+    {
+      "owner": "0xbb8baa8f6309bd7ff2485fa6a63982dc528ffc3c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 650.5271187009505,
+      "positions": [
+        {
+          "id": "10217",
+          "chain": "optimism",
+          "pool_id": "0xf9d5940c2313636546ab9852354860dce275dbad",
+          "liquidity": "131228926539986",
+          "amount0": 0.3356713701692675,
+          "amount1": 8.496361,
+          "amount0_usd": 642.0307577009505,
+          "amount1_usd": 8.496361,
+          "liquidity_usd": 650.5271187009505
+        }
+      ]
+    },
+    {
+      "owner": "0x10d0739e251f5c212312d023c9fcfe0fdcafca23",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 535.4524506291959,
+      "positions": [
+        {
+          "id": "3986",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "996504400966658819804",
+          "amount0": 85.77121000935021,
+          "amount1": 494.1683499494032,
+          "amount0_usd": 186.84584316595624,
+          "amount1_usd": 348.60660746323964,
+          "liquidity_usd": 535.4524506291959
+        }
+      ]
+    },
+    {
+      "owner": "0xebd38140632d2f475e90d57a7c8a681db2d5d715",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 488.49911009534895,
+      "positions": [
+        {
+          "id": "9784",
+          "chain": "optimism",
+          "pool_id": "0xeb11b31dd80ddc80729fe5882e6b38c01ba016f8",
+          "liquidity": "45043987267191858588",
+          "amount0": 0.255400794502981,
+          "amount1": 391.2199909192163,
+          "amount0_usd": 488.49911009534895,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 488.49911009534895
+        }
+      ]
+    },
+    {
+      "owner": "0xd5da422aa15c6f80afc15884f70602446ec282e9",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 401.46952328530836,
+      "positions": [
+        {
+          "id": "9811",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "39019727947739",
+          "amount0": 0.11187956241809427,
+          "amount1": 187.480108,
+          "amount0_usd": 213.98941528530838,
+          "amount1_usd": 187.480108,
+          "liquidity_usd": 401.46952328530836
+        }
+      ]
+    },
+    {
+      "owner": "0x665e9bce744c37ff056787d4521a73bafa882dbd",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 357.810517842684,
+      "positions": [
+        {
+          "id": "9947",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "2006468914579124474586",
+          "amount0": 9.88824277611125,
+          "amount1": 476.6802113337957,
+          "amount0_usd": 21.540760107392348,
+          "amount1_usd": 336.26975773529165,
+          "liquidity_usd": 357.810517842684
+        }
+      ]
+    },
+    {
+      "owner": "0x4ffd0a59a26cb2aa76d403215e4cc2845c053994",
+      "number_of_positions": 6,
+      "total_liquidity_usd": 340.47371895729816,
+      "positions": [
+        {
+          "id": "6306",
+          "chain": "optimism",
+          "pool_id": "0xc5656e0d19998997a90df921003200944c498375",
+          "liquidity": "114065819164868949532",
+          "amount0": 0.0,
+          "amount1": 9.633460544503713,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "6307",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "165053294249119661193",
+          "amount0": 6.937282687541041,
+          "amount1": 20.444271978619597,
+          "amount0_usd": 15.112325369933492,
+          "amount1_usd": 14.422227358858718,
+          "liquidity_usd": 29.53455272879221
+        },
+        {
+          "id": "8855",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "33501950750303",
+          "amount0": 0.009119541634412146,
+          "amount1": 168.344317,
+          "amount0_usd": 19.50630404181835,
+          "amount1_usd": 168.34431699999996,
+          "liquidity_usd": 187.8506210418183
+        },
+        {
+          "id": "8856",
+          "chain": "optimism",
+          "pool_id": "0x6cea6745e35e9f9b0aaca15a700897fbeca50625",
+          "liquidity": "11989897182898442476",
+          "amount0": 0.007142268784004095,
+          "amount1": 44.82540845040573,
+          "amount0_usd": 13.660850005723331,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 13.660850005723331
+        },
+        {
+          "id": "8858",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "15223994262350",
+          "amount0": 0.007315514634729292,
+          "amount1": 67.342767,
+          "amount0_usd": 13.992213281517612,
+          "amount1_usd": 67.342767,
+          "liquidity_usd": 81.3349802815176
+        },
+        {
+          "id": "8859",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "5138589894495192551",
+          "amount0": 0.001048227806370904,
+          "amount1": 36.644597689797834,
+          "amount0_usd": 2.2421138162254994,
+          "amount1_usd": 25.850601083221235,
+          "liquidity_usd": 28.092714899446733
+        }
+      ]
+    },
+    {
+      "owner": "0x78b9ff33cfbe1b6b6914e38ada0593cc04d0fe39",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 318.32228120920234,
+      "positions": [
+        {
+          "id": "8860",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "8534093492211959611",
+          "amount0": 0.056648339745416554,
+          "amount1": 96.38737758708055,
+          "amount0_usd": 108.34995093835538,
+          "amount1_usd": 209.97233027084695,
+          "liquidity_usd": 318.32228120920234
+        }
+      ]
+    },
+    {
+      "owner": "0x193af43ddf04de73a2253b428c8f3333811130a5",
+      "number_of_positions": 3,
+      "total_liquidity_usd": 257.04690674304004,
+      "positions": [
+        {
+          "id": "3911",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "126357728548916",
+          "amount0": 21.989848043892767,
+          "amount1": 60.61872,
+          "amount0_usd": 47.90315653008152,
+          "amount1_usd": 60.618719999999996,
+          "liquidity_usd": 108.52187653008151
+        },
+        {
+          "id": "4294",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "131368677687037354922",
+          "amount0": 16.03060794053456,
+          "amount1": 84.60445803019925,
+          "amount0_usd": 34.921420098719956,
+          "amount1_usd": 59.68345219436574,
+          "liquidity_usd": 94.60487229308569
+        },
+        {
+          "id": "4295",
+          "chain": "optimism",
+          "pool_id": "0xdcc97c90dce69407ebfc20a79f75bae4640f7565",
+          "liquidity": "115334135158723163380",
+          "amount0": 14.457777760618939,
+          "amount1": 76.43468281387803,
+          "amount0_usd": 0.0,
+          "amount1_usd": 53.92015791987284,
+          "liquidity_usd": 53.92015791987284
+        }
+      ]
+    },
+    {
+      "owner": "0xf8bb12b44c936ac6676b9e7a308ba2069eddbe60",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 229.3903452877226,
+      "positions": [
+        {
+          "id": "6578",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "261233666110976",
+          "amount0": 60.334960274600306,
+          "amount1": 97.955374,
+          "amount0_usd": 131.4349712877226,
+          "amount1_usd": 97.955374,
+          "liquidity_usd": 229.3903452877226
+        }
+      ]
+    },
+    {
+      "owner": "0xdb1538d47bc28fe6735f0d6d48afa1f13c63aa40",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 228.25773338511993,
+      "positions": [
+        {
+          "id": "9677",
+          "chain": "optimism",
+          "pool_id": "0x8d5122e99a9a6bb0b6773eb36444b1c6e0a9be82",
+          "liquidity": "4821766339710912455",
+          "amount0": 0.03266937015713561,
+          "amount1": 46.320629354057544,
+          "amount0_usd": 62.48593815141804,
+          "amount1_usd": 100.90585228648557,
+          "liquidity_usd": 163.3917904379036
+        },
+        {
+          "id": "9678",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "1486606390693844549",
+          "amount0": 0.022669868928749424,
+          "amount1": 9.872201887332219,
+          "amount0_usd": 43.36012665592174,
+          "amount1_usd": 21.505816291294586,
+          "liquidity_usd": 64.86594294721633
+        }
+      ]
+    },
+    {
+      "owner": "0x17860030a448d9f68f3cd0fb2f0bf37ed6310dda",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 199.59921914561838,
+      "positions": [
+        {
+          "id": "6936",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "288016148222142",
+          "amount0": 63.922539197523605,
+          "amount1": 60.348989,
+          "amount0_usd": 139.2502301456184,
+          "amount1_usd": 60.348988999999996,
+          "liquidity_usd": 199.59921914561838
+        }
+      ]
+    },
+    {
+      "owner": "0xf31e07d448b4be2e83c1135ec33ad1644cb5b5a7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 193.20039104623515,
+      "positions": [
+        {
+          "id": "9785",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "273395863511484",
+          "amount0": 51.6468093691658,
+          "amount1": 80.691874,
+          "amount0_usd": 112.50851704623514,
+          "amount1_usd": 80.691874,
+          "liquidity_usd": 193.20039104623515
+        }
+      ]
+    },
+    {
+      "owner": "0x22a2ca5fd19963e998032336f14aa3b8d2de90be",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 159.00977374953717,
+      "positions": [
+        {
+          "id": "6793",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "707377679479",
+          "amount0": 0.16652015267325457,
+          "amount1": 0.43751,
+          "amount0_usd": 0.3627510714488721,
+          "amount1_usd": 0.43751,
+          "liquidity_usd": 0.800261071448872
+        },
+        {
+          "id": "9944",
+          "chain": "optimism",
+          "pool_id": "0x8471db928e330858f4ab6ea94be21bcbfca3e553",
+          "liquidity": "143083806250213",
+          "amount0": 25.30790762679381,
+          "amount1": 103.078224,
+          "amount0_usd": 55.13128867808831,
+          "amount1_usd": 103.078224,
+          "liquidity_usd": 158.20951267808832
+        }
+      ]
+    },
+    {
+      "owner": "0x9663f9db80469fcddc6f1da01c83c2d492fcf2f6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 148.1858538024651,
+      "positions": [
+        {
+          "id": "10095",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "827364586684617868109",
+          "amount0": 8.595358779654003,
+          "amount1": 183.51859716182645,
+          "amount0_usd": 18.72431388484878,
+          "amount1_usd": 129.4615399176163,
+          "liquidity_usd": 148.1858538024651
+        }
+      ]
+    },
+    {
+      "owner": "0x3e97b8da1e88c8a318069a8b35dff8a7b20df636",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 137.32300945763302,
+      "positions": [
+        {
+          "id": "39",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "3723118859819987455",
+          "amount0": 0.05763231047023743,
+          "amount1": 12.436088004754929,
+          "amount0_usd": 110.2319686680585,
+          "amount1_usd": 27.09104078957452,
+          "liquidity_usd": 137.32300945763302
+        }
+      ]
+    },
+    {
+      "owner": "0x41d00d74d03098dd982a02446dbe8ae3d509fe36",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 128.8909099887832,
+      "positions": [
+        {
+          "id": "6263",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "494285726196365084",
+          "amount0": 0.01707106667086288,
+          "amount1": 14.311840251814715,
+          "amount0_usd": 32.65142887798477,
+          "amount1_usd": 31.177219708282983,
+          "liquidity_usd": 63.828648586267754
+        },
+        {
+          "id": "7058",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "503838759516505160",
+          "amount0": 0.01740099824702233,
+          "amount1": 14.588444409191885,
+          "amount0_usd": 33.28248126629035,
+          "amount1_usd": 31.779780136225085,
+          "liquidity_usd": 65.06226140251543
+        }
+      ]
+    },
+    {
+      "owner": "0x8d5c85c58c85d4600e61776b71695f055e09c703",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 126.16271277460478,
+      "positions": [
+        {
+          "id": "6479",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "976997468752852909",
+          "amount0": 0.03374240452923456,
+          "amount1": 28.288560559532087,
+          "amount0_usd": 64.53830583058726,
+          "amount1_usd": 61.62440694401753,
+          "liquidity_usd": 126.16271277460478
+        }
+      ]
+    },
+    {
+      "owner": "0x2e5d1bfe4aac4692ebab5fd6256f2bcd2c506cb8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 109.61839565241526,
+      "positions": [
+        {
+          "id": "6604",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "848879139690755721",
+          "amount0": 0.02931760239301076,
+          "amount1": 24.57894694601308,
+          "amount0_usd": 56.07509055320449,
+          "amount1_usd": 53.54330509921077,
+          "liquidity_usd": 109.61839565241526
+        }
+      ]
+    },
+    {
+      "owner": "0x53444c242f13cb6eb7b5d57228b69b220b2751c6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 104.42353421483816,
+      "positions": [
+        {
+          "id": "6257",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "808650403613227024",
+          "amount0": 0.027928229001736228,
+          "amount1": 23.414140410520936,
+          "amount0_usd": 53.417668650705885,
+          "amount1_usd": 51.00586556413227,
+          "liquidity_usd": 104.42353421483816
+        }
+      ]
+    },
+    {
+      "owner": "0x76bacc875b491d7ebf6e5515ca019cbb091d2d2b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 102.13848300000001,
+      "positions": [
+        {
+          "id": "9561",
+          "chain": "optimism",
+          "pool_id": "0x7e29ccaa4bf2894aca02c77e6b99cafc1d24b2f5",
+          "liquidity": "13554554594",
+          "amount0": 49.295229,
+          "amount1": 52.843254,
+          "amount0_usd": 49.295229,
+          "amount1_usd": 52.843254,
+          "liquidity_usd": 102.13848300000001
+        }
+      ]
+    },
+    {
+      "owner": "0xf24308cf7275b65a36d24b11966894a0f7c92e1e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 100.10160048281955,
+      "positions": [
+        {
+          "id": "4894",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "116235290273861",
+          "amount0": 22.52293036178546,
+          "amount1": 51.037166,
+          "amount0_usd": 49.06443448281955,
+          "amount1_usd": 51.037166,
+          "liquidity_usd": 100.10160048281955
+        }
+      ]
+    },
+    {
+      "owner": "0x12f1a20e79ad85476dace0918ef012a3d69189e7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 75.61395475842191,
+      "positions": [
+        {
+          "id": "8708",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "2064194628595226847",
+          "amount0": 0.013355214522550651,
+          "amount1": 22.98441804217133,
+          "amount0_usd": 25.544205616487723,
+          "amount1_usd": 50.06974914193419,
+          "liquidity_usd": 75.61395475842191
+        }
+      ]
+    },
+    {
+      "owner": "0x1654565fa45592ef3db800dc47b67a92503ea23f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 67.30989409278806,
+      "positions": [
+        {
+          "id": "9669",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "5168589112037602491",
+          "amount0": 0.0168911754880707,
+          "amount1": 16.06784534604231,
+          "amount0_usd": 32.307355231389465,
+          "amount1_usd": 35.0025388613986,
+          "liquidity_usd": 67.30989409278806
+        }
+      ]
+    },
+    {
+      "owner": "0xb4d502361a3c6f823eeb9a99af09e110382206ee",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 66.24617031715911,
+      "positions": [
+        {
+          "id": "5445",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "79784683275715",
+          "amount0": 21.817625073012557,
+          "amount1": 18.718188,
+          "amount0_usd": 47.52798231715912,
+          "amount1_usd": 18.718187999999998,
+          "liquidity_usd": 66.24617031715911
+        }
+      ]
+    },
+    {
+      "owner": "0xf8b664cd628717fe6b0ae6bfb53bfbd1f35abc9a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 66.06632779499523,
+      "positions": [
+        {
+          "id": "9352",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "2167779597421648873",
+          "amount0": 0.012359781024519489,
+          "amount1": 19.47559991282203,
+          "amount0_usd": 23.64026330928536,
+          "amount1_usd": 42.426064485709865,
+          "liquidity_usd": 66.06632779499523
+        }
+      ]
+    },
+    {
+      "owner": "0xe53f8cc868dc2e0fb1da5bd1b5e6404600a6de22",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 64.764537,
+      "positions": [
+        {
+          "id": "1178",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "46288824352",
+          "amount0": 59.85322,
+          "amount1": 4.911317,
+          "amount0_usd": 59.85322,
+          "amount1_usd": 4.911317,
+          "liquidity_usd": 64.764537
+        }
+      ]
+    },
+    {
+      "owner": "0x4f2604aac91114ae3b3d0be485d407d02b24480b",
+      "number_of_positions": 10,
+      "total_liquidity_usd": 62.77945264082356,
+      "positions": [
+        {
+          "id": "3636",
+          "chain": "optimism",
+          "pool_id": "0x92eae0b63fdc34ad8a1f3176a59a61e2209dd71d",
+          "liquidity": "100977997347783",
+          "amount0": 0.000100821487902831,
+          "amount1": 0.000101134749748942,
+          "amount0_usd": 0.19283889548921151,
+          "amount1_usd": 0.19283922897503827,
+          "liquidity_usd": 0.38567812446424976
+        },
+        {
+          "id": "3782",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "15428940593147406204",
+          "amount0": 0.018733950422188145,
+          "amount1": 0.0,
+          "amount0_usd": 35.831987631904106,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 35.831987631904106
+        },
+        {
+          "id": "5320",
+          "chain": "optimism",
+          "pool_id": "0x5047a457901c03afe24da1ccbfde1c767dcd071f",
+          "liquidity": "233390423967285103804",
+          "amount0": 20.23060737925119,
+          "amount1": 0.0,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "5347",
+          "chain": "optimism",
+          "pool_id": "0x2a68e3830071d65b07fb3a1fd59543e0839d504d",
+          "liquidity": "5452286766824729526",
+          "amount0": 0.0,
+          "amount1": 20.97202088038283,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "5351",
+          "chain": "optimism",
+          "pool_id": "0x2a68e3830071d65b07fb3a1fd59543e0839d504d",
+          "liquidity": "43292497137060108428",
+          "amount0": 0.0,
+          "amount1": 18.49639019723835,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "8356",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "3935987228439978065",
+          "amount0": 9.2628880636262e-5,
+          "amount1": 31.804145551647544,
+          "amount0_usd": 0.19812915836977787,
+          "amount1_usd": 22.435947759831485,
+          "liquidity_usd": 22.634076918201263
+        },
+        {
+          "id": "9594",
+          "chain": "optimism",
+          "pool_id": "0xdcc97c90dce69407ebfc20a79f75bae4640f7565",
+          "liquidity": "2204940138643049528",
+          "amount0": 0.02682802716729012,
+          "amount1": 0.19121844976117808,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.1348933315183973,
+          "liquidity_usd": 0.1348933315183973
+        },
+        {
+          "id": "9792",
+          "chain": "optimism",
+          "pool_id": "0xbe18473e13e09edaa4e298289c64ba2f4334d469",
+          "liquidity": "603719369300182688",
+          "amount0": 0.009780263007526543,
+          "amount1": 1.9165230241968592,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.3519938896508892,
+          "liquidity_usd": 1.3519938896508892
+        },
+        {
+          "id": "9852",
+          "chain": "optimism",
+          "pool_id": "0xc5656e0d19998997a90df921003200944c498375",
+          "liquidity": "232989337358744323420",
+          "amount0": 3.0046855255095792,
+          "amount1": 5.562914682806846,
+          "amount0_usd": 2.1196283162388734,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 2.1196283162388734
+        },
+        {
+          "id": "9853",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "5333077080687341402",
+          "amount0": 0.0,
+          "amount1": 0.4553101333066202,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.32119442884577226,
+          "liquidity_usd": 0.32119442884577226
+        }
+      ]
+    },
+    {
+      "owner": "0x03086bc12fc2e1c53d9a9082786c8c21ee0bdd0a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 54.40717778748997,
+      "positions": [
+        {
+          "id": "9776",
+          "chain": "optimism",
+          "pool_id": "0xeb11b31dd80ddc80729fe5882e6b38c01ba016f8",
+          "liquidity": "5016828429892517862",
+          "amount0": 0.028445571642653805,
+          "amount1": 43.57259851672485,
+          "amount0_usd": 54.40717778748997,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 54.40717778748997
+        }
+      ]
+    },
+    {
+      "owner": "0xd978db7da36c97705f7f4bab63cb6911207f140e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 51.78250096495283,
+      "positions": [
+        {
+          "id": "6766",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "63470092450798",
+          "amount0": 16.575280262539575,
+          "amount1": 15.674555,
+          "amount0_usd": 36.10794596495283,
+          "amount1_usd": 15.674555,
+          "liquidity_usd": 51.78250096495283
+        }
+      ]
+    },
+    {
+      "owner": "0x626b4650e09484c9178daca20b830a5fc0ce0638",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 51.292402,
+      "positions": [
+        {
+          "id": "9266",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "57022909224",
+          "amount0": 0.0,
+          "amount1": 51.292402,
+          "amount0_usd": 0.0,
+          "amount1_usd": 51.292402,
+          "liquidity_usd": 51.292402
+        }
+      ]
+    },
+    {
+      "owner": "0x60b06cd93d2761cf3a95a5c2dda7d270902f30ca",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 48.872418210891865,
+      "positions": [
+        {
+          "id": "4299",
+          "chain": "optimism",
+          "pool_id": "0x427464d9434f99a3d942c60210ee2376166975ce",
+          "liquidity": "48885891534103306",
+          "amount0": 13.901346,
+          "amount1": 34.97107221089187,
+          "amount0_usd": 13.901346,
+          "amount1_usd": 34.97107221089187,
+          "liquidity_usd": 48.872418210891865
+        }
+      ]
+    },
+    {
+      "owner": "0x29825fb8a960c37c52e5464c8053494fe76ce63d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 48.589821006215146,
+      "positions": [
+        {
+          "id": "6054",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "56601617608382",
+          "amount0": 12.562209246074795,
+          "amount1": 21.224035,
+          "amount0_usd": 27.36578600621515,
+          "amount1_usd": 21.224035,
+          "liquidity_usd": 48.589821006215146
+        }
+      ]
+    },
+    {
+      "owner": "0x627a584c78af211f5a4b520169c23bc88c7bac8e",
+      "number_of_positions": 14,
+      "total_liquidity_usd": 48.56044702445353,
+      "positions": [
+        {
+          "id": "10178",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "12690813563285289",
+          "amount0": 5.2994255591187e-5,
+          "amount1": 0.3547869258132537,
+          "amount0_usd": 0.11335241435061011,
+          "amount1_usd": 0.25028123835274735,
+          "liquidity_usd": 0.36363365270335746
+        },
+        {
+          "id": "10179",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "117377287049776",
+          "amount0": 2.6999867687469e-5,
+          "amount1": 6.213319770315e-5,
+          "amount0_usd": 0.05775154600021591,
+          "amount1_usd": 0.11884071012556265,
+          "liquidity_usd": 0.17659225612577856
+        },
+        {
+          "id": "8808",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "2463160990798285",
+          "amount0": 0.000420271771814643,
+          "amount1": 0.000769854730784688,
+          "amount0_usd": 0.8989430927400528,
+          "amount1_usd": 1.472483089267074,
+          "liquidity_usd": 2.3714261820071267
+        },
+        {
+          "id": "8809",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "27234458500131291",
+          "amount0": 8.1302527361296e-5,
+          "amount1": 0.2899753253692355,
+          "amount0_usd": 0.1555054374117552,
+          "amount1_usd": 0.6316884670279327,
+          "liquidity_usd": 0.7871939044396878
+        },
+        {
+          "id": "8810",
+          "chain": "optimism",
+          "pool_id": "0xc5656e0d19998997a90df921003200944c498375",
+          "liquidity": "231746532426095419",
+          "amount0": 0.051951082866350994,
+          "amount1": 0.04486680994050563,
+          "amount0_usd": 0.03664842306055122,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.03664842306055122
+        },
+        {
+          "id": "8964",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "7141525790387911",
+          "amount0": 0.00122625091769714,
+          "amount1": 0.002224612826657799,
+          "amount0_usd": 2.622897530496451,
+          "amount1_usd": 4.254964782877172,
+          "liquidity_usd": 6.8778623133736225
+        },
+        {
+          "id": "8965",
+          "chain": "optimism",
+          "pool_id": "0x909a5a949fa8e9ca18923e4ea6bde8f5605d9951",
+          "liquidity": "16611195867032250",
+          "amount0": 8.1676952032219e-5,
+          "amount1": 0.15116445183370444,
+          "amount0_usd": 0.15622159069898192,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.15622159069898192
+        },
+        {
+          "id": "8966",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "24673419407",
+          "amount0": 8.8933494378347e-5,
+          "amount1": 0.345956,
+          "amount0_usd": 0.19022488743286536,
+          "amount1_usd": 0.345956,
+          "liquidity_usd": 0.5361808874328653
+        },
+        {
+          "id": "8967",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "116345605616300070",
+          "amount0": 0.000296653432818885,
+          "amount1": 2.1064354215689454,
+          "amount0_usd": 0.6345288269509957,
+          "amount1_usd": 1.4859658782856777,
+          "liquidity_usd": 2.1204947052366734
+        },
+        {
+          "id": "9036",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "19964656621036396934",
+          "amount0": 2.4362396622555944,
+          "amount1": 9.372217989966726,
+          "amount0_usd": 5.3071567230877115,
+          "amount1_usd": 6.611546688942678,
+          "liquidity_usd": 11.91870341203039
+        },
+        {
+          "id": "9037",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "15607195750957398",
+          "amount0": 0.002679866834346456,
+          "amount1": 0.004861701669196524,
+          "amount0_usd": 5.732118932939865,
+          "amount1_usd": 9.29886276811819,
+          "liquidity_usd": 15.030981701058053
+        },
+        {
+          "id": "9038",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "31468238731948736",
+          "amount0": 0.000111657891072836,
+          "amount1": 0.3245954672671246,
+          "amount0_usd": 0.21356542970177472,
+          "amount1_usd": 0.707105726534135,
+          "liquidity_usd": 0.9206711562359097
+        },
+        {
+          "id": "9124",
+          "chain": "optimism",
+          "pool_id": "0xc5656e0d19998997a90df921003200944c498375",
+          "liquidity": "4049311248528839",
+          "amount0": 0.001029767102375956,
+          "amount1": 0.000752949057314424,
+          "amount0_usd": 0.0007264399188521243,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0007264399188521243
+        },
+        {
+          "id": "9187",
+          "chain": "optimism",
+          "pool_id": "0x81e2f9ed2b784b978050b7085c36e662458dd225",
+          "liquidity": "353822685865",
+          "amount0": 0.001167706271072892,
+          "amount1": 5.029666,
+          "amount0_usd": 2.2334444001316847,
+          "amount1_usd": 5.029666,
+          "liquidity_usd": 7.263110400131684
+        }
+      ]
+    },
+    {
+      "owner": "0x68977a1f7ea1724974e27b97cb2545074f9004de",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 48.43012932095208,
+      "positions": [
+        {
+          "id": "6373",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "162797849369921",
+          "amount0": 19.711156644346694,
+          "amount1": 5.490923,
+          "amount0_usd": 42.939206320952074,
+          "amount1_usd": 5.490923,
+          "liquidity_usd": 48.43012932095208
+        }
+      ]
+    },
+    {
+      "owner": "0x0cae345e28d39db7f92a437cc238328e8779fbe6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 44.12080898097282,
+      "positions": [
+        {
+          "id": "9889",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "50632269393299",
+          "amount0": 10.534891236826697,
+          "amount1": 21.171376,
+          "amount0_usd": 22.94943298097282,
+          "amount1_usd": 21.171376,
+          "liquidity_usd": 44.12080898097282
+        }
+      ]
+    },
+    {
+      "owner": "0x29fb34903b5d01b357c8289f444a6196b4b646d1",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 37.91406839821586,
+      "positions": [
+        {
+          "id": "10196",
+          "chain": "optimism",
+          "pool_id": "0x4a7869200248c4c3bb604e3f1d05b5ab8b6f2b4b",
+          "liquidity": "12840087540657",
+          "amount0": 17.404377147442748,
+          "amount1": 0.0010914,
+          "amount0_usd": 37.91406839821586,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 37.91406839821586
+        }
+      ]
+    },
+    {
+      "owner": "0xd1a0a30fa874d8677f8ff6254d129bb4609bd8ab",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 37.886080045009095,
+      "positions": [
+        {
+          "id": "5008",
+          "chain": "optimism",
+          "pool_id": "0xd5969a85153d1747fedc3d86928249045d835e83",
+          "liquidity": "9919308113854623",
+          "amount0": 0.009908124725517432,
+          "amount1": 0.00993050412498151,
+          "amount0_usd": 18.951037801382,
+          "amount1_usd": 18.93504224362709,
+          "liquidity_usd": 37.886080045009095
+        }
+      ]
+    },
+    {
+      "owner": "0x541865d27a2d37d9686e8d3e6a0c638d5f13071e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 37.676955928477696,
+      "positions": [
+        {
+          "id": "73",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "18012786873434578068",
+          "amount0": 0.0,
+          "amount1": 0.01969855068253608,
+          "amount0_usd": 0.0,
+          "amount1_usd": 37.676955928477696,
+          "liquidity_usd": 37.676955928477696
+        }
+      ]
+    },
+    {
+      "owner": "0xfd47bae98581b759aaf0ef477a42bfd363a15a19",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 37.38971378958553,
+      "positions": [
+        {
+          "id": "859",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "404102943833",
+          "amount0": 0.008953294573934453,
+          "amount1": 18.239005,
+          "amount0_usd": 19.150708789585533,
+          "amount1_usd": 18.239005,
+          "liquidity_usd": 37.38971378958553
+        }
+      ]
+    },
+    {
+      "owner": "0x57aa14fcfef7625fc0409c5e5579d4899ab1933c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 36.37875708893576,
+      "positions": [
+        {
+          "id": "10199",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "42112931308435",
+          "amount0": 10.098844348547008,
+          "amount1": 14.379218,
+          "amount0_usd": 21.999539088935755,
+          "amount1_usd": 14.379218,
+          "liquidity_usd": 36.37875708893576
+        }
+      ]
+    },
+    {
+      "owner": "0xfa8375db13398940645f1e8532c618437e64c31c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 35.4388120004635,
+      "positions": [
+        {
+          "id": "10333",
+          "chain": "optimism",
+          "pool_id": "0x427464d9434f99a3d942c60210ee2376166975ce",
+          "liquidity": "141784273847701490",
+          "amount0": 26.146156,
+          "amount1": 9.292656000463502,
+          "amount0_usd": 26.146156,
+          "amount1_usd": 9.292656000463502,
+          "liquidity_usd": 35.4388120004635
+        }
+      ]
+    },
+    {
+      "owner": "0x8abba322da900406c040f924a96b3da4882b5e3e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 34.461055096884664,
+      "positions": [
+        {
+          "id": "6147",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "40438846750712",
+          "amount0": 10.560646636942339,
+          "amount1": 11.455516,
+          "amount0_usd": 23.005539096884664,
+          "amount1_usd": 11.455516,
+          "liquidity_usd": 34.461055096884664
+        }
+      ]
+    },
+    {
+      "owner": "0xb59104900dab8ecd0fe05c9950acd167685b9cf7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 33.62776993921927,
+      "positions": [
+        {
+          "id": "8770",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "260411696830869919",
+          "amount0": 0.008993796913136521,
+          "amount1": 7.540113758548633,
+          "amount0_usd": 17.202224437066924,
+          "amount1_usd": 16.425545502152346,
+          "liquidity_usd": 33.62776993921927
+        }
+      ]
+    },
+    {
+      "owner": "0x4b7bf3d052432530629bbf2dae0258a66abc7d18",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 32.510810743058144,
+      "positions": [
+        {
+          "id": "8697",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "251762023061574580",
+          "amount0": 0.008695064520572561,
+          "amount1": 7.289666006053171,
+          "amount0_usd": 16.6308459955545,
+          "amount1_usd": 15.879964747503648,
+          "liquidity_usd": 32.510810743058144
+        }
+      ]
+    },
+    {
+      "owner": "0xe321bd63cde8ea046b382f82964575f2a5586474",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 31.150814,
+      "positions": [
+        {
+          "id": "961",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "424994856992792",
+          "amount0": 0.0,
+          "amount1": 31.150814,
+          "amount0_usd": 0.0,
+          "amount1_usd": 31.150814,
+          "liquidity_usd": 31.150814
+        }
+      ]
+    },
+    {
+      "owner": "0x1b8473749b37d1efa846df24ce64001bc7d2f2f8",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 29.834910656385492,
+      "positions": [
+        {
+          "id": "8783",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "231038495961931254",
+          "amount0": 0.007981563859777156,
+          "amount1": 6.687760388080344,
+          "amount0_usd": 15.26615001436431,
+          "amount1_usd": 14.568760642021182,
+          "liquidity_usd": 29.834910656385492
+        }
+      ]
+    },
+    {
+      "owner": "0xd4ab8575a6f4b10d837569e6477e2364a3cabed7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 29.47381547554182,
+      "positions": [
+        {
+          "id": "9041",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "228243690079318889",
+          "amount0": 0.007882815634857938,
+          "amount1": 6.6087023310120845,
+          "amount0_usd": 15.077276600362577,
+          "amount1_usd": 14.396538875179242,
+          "liquidity_usd": 29.47381547554182
+        }
+      ]
+    },
+    {
+      "owner": "0xab521e236f10cb93aa7bd22ede689d11557b35cb",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 29.396485808478232,
+      "positions": [
+        {
+          "id": "6740",
+          "chain": "optimism",
+          "pool_id": "0xdbaf3a3e610ee2dfadd2b02fc0f46633da8d8853",
+          "liquidity": "40113533705521441000",
+          "amount0": 6.385441761514793,
+          "amount1": 21.95265497523486,
+          "amount0_usd": 13.910183262976902,
+          "amount1_usd": 15.48630254550133,
+          "liquidity_usd": 29.396485808478232
+        }
+      ]
+    },
+    {
+      "owner": "0x03c2bfd2509de9b13d0124015077e100a292336d",
+      "number_of_positions": 13,
+      "total_liquidity_usd": 29.256717670804736,
+      "positions": [
+        {
+          "id": "2805",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "1064482268517",
+          "amount0": 0.0,
+          "amount1": 0.999572,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.999572,
+          "liquidity_usd": 0.999572
+        },
+        {
+          "id": "2806",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "522157018935",
+          "amount0": 0.0,
+          "amount1": 0.988026,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.9880259999999998,
+          "liquidity_usd": 0.9880259999999998
+        },
+        {
+          "id": "2807",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "256689625311",
+          "amount0": 0.0,
+          "amount1": 0.973662,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.973662,
+          "liquidity_usd": 0.973662
+        },
+        {
+          "id": "2808",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "99472263179",
+          "amount0": 0.0,
+          "amount1": 0.941188,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.941188,
+          "liquidity_usd": 0.941188
+        },
+        {
+          "id": "2809",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "13204858892",
+          "amount0": 0.000292566518684338,
+          "amount1": 0.595995,
+          "amount0_usd": 0.6257870948665172,
+          "amount1_usd": 0.595995,
+          "liquidity_usd": 1.2217820948665172
+        },
+        {
+          "id": "2810",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "1956845755699178371",
+          "amount0": 0.0,
+          "amount1": 0.002045682940527456,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.912729785863039,
+          "liquidity_usd": 3.912729785863039
+        },
+        {
+          "id": "2811",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "967741607365381362",
+          "amount0": 0.0,
+          "amount1": 0.002023350832529427,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.8700156866182818,
+          "liquidity_usd": 3.8700156866182818
+        },
+        {
+          "id": "2812",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "481425405692033638",
+          "amount0": 0.0,
+          "amount1": 0.002013126179533174,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.8504592326165494,
+          "liquidity_usd": 3.8504592326165494
+        },
+        {
+          "id": "2813",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "184828547054766954",
+          "amount0": 0.0,
+          "amount1": 0.002009490959045701,
+          "amount0_usd": 0.0,
+          "amount1_usd": 3.8435062316418005,
+          "liquidity_usd": 3.8435062316418005
+        },
+        {
+          "id": "2825",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "21807575506837618681",
+          "amount0": 0.0,
+          "amount1": 0.00227975982361609,
+          "amount0_usd": 0.0,
+          "amount1_usd": 4.360443150675443,
+          "liquidity_usd": 4.360443150675443
+        },
+        {
+          "id": "2883",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "14113519429967534134",
+          "amount0": 0.0,
+          "amount1": 0.000738136612561399,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.4118165883811695,
+          "liquidity_usd": 1.4118165883811695
+        },
+        {
+          "id": "2993",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "7280099429032718323",
+          "amount0": 0.0,
+          "amount1": 0.000762240717926645,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.4579199454340772,
+          "liquidity_usd": 1.4579199454340772
+        },
+        {
+          "id": "2995",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "14236322499431467579",
+          "amount0": 0.0,
+          "amount1": 0.000745341367771066,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.4255969547078535,
+          "liquidity_usd": 1.4255969547078535
+        }
+      ]
+    },
+    {
+      "owner": "0x92fb2cbd30b04bdbe660bbb6adc99a06efbfc666",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 29.016003769497367,
+      "positions": [
+        {
+          "id": "860",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "1647485520255033351",
+          "amount0": 0.0,
+          "amount1": 0.015170366256316495,
+          "amount0_usd": 0.0,
+          "amount1_usd": 29.016003769497367,
+          "liquidity_usd": 29.016003769497367
+        }
+      ]
+    },
+    {
+      "owner": "0xd6c0522db033690034916de5596fb5393d95bbbc",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 27.714139590896714,
+      "positions": [
+        {
+          "id": "9210",
+          "chain": "optimism",
+          "pool_id": "0xe159ce9220613f539d2d9f2b4a47224f418a43aa",
+          "liquidity": "214616851789981090",
+          "amount0": 0.00741218771132786,
+          "amount1": 6.21414282342712,
+          "amount0_usd": 14.177117607991933,
+          "amount1_usd": 13.537021982904779,
+          "liquidity_usd": 27.714139590896714
+        }
+      ]
+    },
+    {
+      "owner": "0x353ac98d550a0d0a4cf5accc0f241174b34bd57f",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 24.25589322274533,
+      "positions": [
+        {
+          "id": "8457",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "56394074421841031",
+          "amount0": 0.003342890648088847,
+          "amount1": 0.004939343270344894,
+          "amount0_usd": 7.150298115216136,
+          "amount1_usd": 9.44736603781696,
+          "liquidity_usd": 16.597664153033097
+        },
+        {
+          "id": "8458",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "3806003404203630635",
+          "amount0": 0.0,
+          "amount1": 0.004003933166855836,
+          "amount0_usd": 0.0,
+          "amount1_usd": 7.658229069712229,
+          "liquidity_usd": 7.658229069712229
+        }
+      ]
+    },
+    {
+      "owner": "0x37c14240884086a671ac959e66c9fdc84d63331e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 20.41395714303716,
+      "positions": [
+        {
+          "id": "9409",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "540671766010970244",
+          "amount0": 0.005214601668229321,
+          "amount1": 4.7925119592327565,
+          "amount0_usd": 9.973846320207958,
+          "amount1_usd": 10.4401108228292,
+          "liquidity_usd": 20.41395714303716
+        }
+      ]
+    },
+    {
+      "owner": "0x05208c7a291406ea85a3d772d54cde4e9d13933d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 13.11659227532427,
+      "positions": [
+        {
+          "id": "6224",
+          "chain": "optimism",
+          "pool_id": "0xdcc97c90dce69407ebfc20a79f75bae4640f7565",
+          "liquidity": "171768975487615568354",
+          "amount0": 0.0,
+          "amount1": 18.593465020136158,
+          "amount0_usd": 0.0,
+          "amount1_usd": 13.11659227532427,
+          "liquidity_usd": 13.11659227532427
+        }
+      ]
+    },
+    {
+      "owner": "0xe0a6ec9d5f0fec342d6761150ccd65a699e2ac58",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 12.771176,
+      "positions": [
+        {
+          "id": "2389",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "12166812543",
+          "amount0": 6.61548,
+          "amount1": 6.155696,
+          "amount0_usd": 6.61548,
+          "amount1_usd": 6.155696,
+          "liquidity_usd": 12.771176
+        }
+      ]
+    },
+    {
+      "owner": "0xbe61359a90eea3be6b8169ac2a098b0945e1d556",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 11.142909561806327,
+      "positions": [
+        {
+          "id": "10188",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "3001733381748537008",
+          "amount0": 0.000659642761554925,
+          "amount1": 4.535957148447013,
+          "amount0_usd": 1.2616832403654026,
+          "amount1_usd": 9.881226321440925,
+          "liquidity_usd": 11.142909561806327
+        }
+      ]
+    },
+    {
+      "owner": "0x5232582d4a41851f6ce4b652048106f8ff7b5b1f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 10.686907000000001,
+      "positions": [
+        {
+          "id": "2390",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "10181175319",
+          "amount0": 5.535827,
+          "amount1": 5.15108,
+          "amount0_usd": 5.535827,
+          "amount1_usd": 5.15108,
+          "liquidity_usd": 10.686907000000001
+        }
+      ]
+    },
+    {
+      "owner": "0xa2dfeb674d997b68ec5adb0a6fb9136bd45c2d2d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 10.084538,
+      "positions": [
+        {
+          "id": "3546",
+          "chain": "optimism",
+          "pool_id": "0x9ee23e9ea484d1206dfe2707ac24861cc32111a3",
+          "liquidity": "10123422840823983",
+          "amount0": 10.084538,
+          "amount1": 0.0,
+          "amount0_usd": 10.084538,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 10.084538
+        }
+      ]
+    },
+    {
+      "owner": "0x447af58818f1e7af53b4d09cab746fd5958f630b",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 10.00418,
+      "positions": [
+        {
+          "id": "1426",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "10007788623",
+          "amount0": 7.94181,
+          "amount1": 2.06237,
+          "amount0_usd": 7.941809999999999,
+          "amount1_usd": 2.06237,
+          "liquidity_usd": 10.00418
+        }
+      ]
+    },
+    {
+      "owner": "0xedf1d6cf7e1aacc5703c2eab860dee6c352dac9e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 9.875263,
+      "positions": [
+        {
+          "id": "1677",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "9878306238",
+          "amount0": 6.358385,
+          "amount1": 3.516878,
+          "amount0_usd": 6.358385,
+          "amount1_usd": 3.516878,
+          "liquidity_usd": 9.875263
+        }
+      ]
+    },
+    {
+      "owner": "0xde53532d14a0699d5fbf6fdd260a24de410d8d55",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 8.448276948659114,
+      "positions": [
+        {
+          "id": "10002",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "22147329035372822",
+          "amount0": 5.299583910499e-5,
+          "amount1": 0.4091213747676255,
+          "amount0_usd": 0.11335580141795779,
+          "amount1_usd": 0.28861098553365744,
+          "liquidity_usd": 0.40196678695161525
+        },
+        {
+          "id": "10033",
+          "chain": "optimism",
+          "pool_id": "0x792b9730022534f72882de91861e3f93c2b2069e",
+          "liquidity": "1460485380789599508",
+          "amount0": 0.00055885960623157,
+          "amount1": 9.711561773361806,
+          "amount0_usd": 1.195376460008518,
+          "amount1_usd": 6.850933701698981,
+          "liquidity_usd": 8.046310161707499
+        }
+      ]
+    },
+    {
+      "owner": "0xf2cbb98b2f8eefb1fbd6b6c1a07915711de4da03",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 7.024318777481257,
+      "positions": [
+        {
+          "id": "10021",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "11474750787115",
+          "amount0": 2.054418712098938,
+          "amount1": 2.548929,
+          "amount0_usd": 4.475389777481257,
+          "amount1_usd": 2.548929,
+          "liquidity_usd": 7.024318777481257
+        }
+      ]
+    },
+    {
+      "owner": "0xabd6a02c472e69c3c6fb502c5061e04fdcf06029",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 6.992577269858036,
+      "positions": [
+        {
+          "id": "5617",
+          "chain": "optimism",
+          "pool_id": "0xe512562bb23bd1ef8529fd33b92930e3e08e19d5",
+          "liquidity": "79387771320780",
+          "amount0": 3.209928587958442,
+          "amount1": 0.0,
+          "amount0_usd": 6.992577269858036,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 6.992577269858036
+        }
+      ]
+    },
+    {
+      "owner": "0x0b0f9f02d9aef778433dea88c4bec341d6c86834",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 6.378721078998199,
+      "positions": [
+        {
+          "id": "8300",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "7322289647070",
+          "amount0": 1.3832429382464138,
+          "amount1": 3.365435,
+          "amount0_usd": 3.013286078998198,
+          "amount1_usd": 3.365435,
+          "liquidity_usd": 6.378721078998199
+        }
+      ]
+    },
+    {
+      "owner": "0xb880b835e4caf70aa4af39301ad38cf9230a0868",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 5.0537529999999995,
+      "positions": [
+        {
+          "id": "2293",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "5055311111",
+          "amount0": 2.243454,
+          "amount1": 2.810299,
+          "amount0_usd": 2.243454,
+          "amount1_usd": 2.8102989999999997,
+          "liquidity_usd": 5.0537529999999995
+        }
+      ]
+    },
+    {
+      "owner": "0x30e9509ae8837d25b99f369ddc484b85528d1c13",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.992878654482991,
+      "positions": [
+        {
+          "id": "9850",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "26662884345663164150",
+          "amount0": 0.0,
+          "amount1": 2.291970944435171,
+          "amount0_usd": 0.0,
+          "amount1_usd": 4.992878654482991,
+          "liquidity_usd": 4.992878654482991
+        }
+      ]
+    },
+    {
+      "owner": "0xef09879057a9ad798438f3ba561bcdd293d72fc7",
+      "number_of_positions": 41,
+      "total_liquidity_usd": 4.678970661597366,
+      "positions": [
+        {
+          "id": "2370",
+          "chain": "optimism",
+          "pool_id": "0x76a3d69152433c601e427d10c4adb2c0b7aae521",
+          "liquidity": "727341951",
+          "amount0": 0.000299,
+          "amount1": 0.0,
+          "amount0_usd": 0.000299,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.000299
+        },
+        {
+          "id": "2371",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "405669206369",
+          "amount0": 0.0,
+          "amount1": 4.23471391e-10,
+          "amount0_usd": 0.0,
+          "amount1_usd": 8.099637984952513e-7,
+          "liquidity_usd": 8.099637984952513e-7
+        },
+        {
+          "id": "2375",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "5987250327695",
+          "amount0": 0.0,
+          "amount1": 0.004999,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.004999,
+          "liquidity_usd": 0.004999
+        },
+        {
+          "id": "2380",
+          "chain": "optimism",
+          "pool_id": "0x9ee23e9ea484d1206dfe2707ac24861cc32111a3",
+          "liquidity": "1930512892213",
+          "amount0": 0.001923,
+          "amount1": 0.0,
+          "amount0_usd": 0.0019230000000000002,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0019230000000000002
+        },
+        {
+          "id": "3547",
+          "chain": "optimism",
+          "pool_id": "0x8da51b1ff098f8dca81474ebb73e3d5bd7bd380c",
+          "liquidity": "9383041229257373",
+          "amount0": 0.000216692436491883,
+          "amount1": 0.0,
+          "amount0_usd": 0.000472047450416026,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.000472047450416026
+        },
+        {
+          "id": "3549",
+          "chain": "optimism",
+          "pool_id": "0x8da51b1ff098f8dca81474ebb73e3d5bd7bd380c",
+          "liquidity": "44556967415175851",
+          "amount0": 0.000200553393172966,
+          "amount1": 0.0,
+          "amount0_usd": 0.0004368898123637448,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0004368898123637448
+        },
+        {
+          "id": "3550",
+          "chain": "optimism",
+          "pool_id": "0x8da51b1ff098f8dca81474ebb73e3d5bd7bd380c",
+          "liquidity": "4455696741517358",
+          "amount0": 2.0055339317295e-5,
+          "amount1": 0.0,
+          "amount0_usd": 4.368898123637099e-5,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 4.368898123637099e-5
+        },
+        {
+          "id": "3553",
+          "chain": "optimism",
+          "pool_id": "0x8da51b1ff098f8dca81474ebb73e3d5bd7bd380c",
+          "liquidity": "100000022031871",
+          "amount0": 0.000622398673602887,
+          "amount1": 1.5886342132002e-5,
+          "amount0_usd": 0.0013558466173209725,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0013558466173209725
+        },
+        {
+          "id": "3556",
+          "chain": "optimism",
+          "pool_id": "0x28bc0a25dc9581cfd9920ad0d273c006270e00fa",
+          "liquidity": "143766212153",
+          "amount0": 0.0,
+          "amount1": 1.505232144894e-6,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.0618524467012897e-6,
+          "liquidity_usd": 1.0618524467012897e-6
+        },
+        {
+          "id": "3557",
+          "chain": "optimism",
+          "pool_id": "0x28bc0a25dc9581cfd9920ad0d273c006270e00fa",
+          "liquidity": "1506974426",
+          "amount0": 0.0,
+          "amount1": 9.0457720856e-8,
+          "amount0_usd": 0.0,
+          "amount1_usd": 6.381258368670437e-8,
+          "liquidity_usd": 6.381258368670437e-8
+        },
+        {
+          "id": "3558",
+          "chain": "optimism",
+          "pool_id": "0x28bc0a25dc9581cfd9920ad0d273c006270e00fa",
+          "liquidity": "5837618519324",
+          "amount0": 0.0,
+          "amount1": 0.000192246155752087,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.00013561831744474627,
+          "liquidity_usd": 0.00013561831744474627
+        },
+        {
+          "id": "3559",
+          "chain": "optimism",
+          "pool_id": "0x28bc0a25dc9581cfd9920ad0d273c006270e00fa",
+          "liquidity": "17222566372884",
+          "amount0": 0.0,
+          "amount1": 0.00132609042347581,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0009354785343187704,
+          "liquidity_usd": 0.0009354785343187704
+        },
+        {
+          "id": "3560",
+          "chain": "optimism",
+          "pool_id": "0x56707cda502004a5729acd7d87c75596f120d462",
+          "liquidity": "55494760601",
+          "amount0": 0.0,
+          "amount1": 0.023568,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.023568,
+          "liquidity_usd": 0.023568
+        },
+        {
+          "id": "3561",
+          "chain": "optimism",
+          "pool_id": "0xdfc122f431d3c6d193a9d663c00f6cefdb6bbc60",
+          "liquidity": "17797250086563316",
+          "amount0": 0.002150243300329969,
+          "amount1": 0.005600117167669235,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.003950552169959294,
+          "liquidity_usd": 0.003950552169959294
+        },
+        {
+          "id": "3622",
+          "chain": "optimism",
+          "pool_id": "0x500b0a1ce8fcc7210f07f8f60263f436bfe41494",
+          "liquidity": "90530201773569235",
+          "amount0": 0.021222624179536655,
+          "amount1": 0.07393613055421569,
+          "amount0_usd": 0.04623181961158598,
+          "amount1_usd": 0.05215757675315166,
+          "liquidity_usd": 0.09838939636473765
+        },
+        {
+          "id": "3623",
+          "chain": "optimism",
+          "pool_id": "0xece389febc38c0338fbf1834e098f019a864538d",
+          "liquidity": "36843787971486147",
+          "amount0": 0.004773387550515729,
+          "amount1": 0.013450129395524552,
+          "amount0_usd": 0.010398449800775367,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.010398449800775367
+        },
+        {
+          "id": "3627",
+          "chain": "optimism",
+          "pool_id": "0x5fc81ed5170c87a9b0def98aac5d8cddd37a93bd",
+          "liquidity": "24211533817",
+          "amount0": 0.00678,
+          "amount1": 0.004930378383346815,
+          "amount0_usd": 0.00678,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.00678
+        },
+        {
+          "id": "3628",
+          "chain": "optimism",
+          "pool_id": "0xc061d7c77c1b3fd0f4c72cb314bde027b020b8ac",
+          "liquidity": "372839345819394146",
+          "amount0": 0.157508628412929,
+          "amount1": 0.049999999999999996,
+          "amount0_usd": 0.1574636659332942,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.1574636659332942
+        },
+        {
+          "id": "3631",
+          "chain": "optimism",
+          "pool_id": "0x500b0a1ce8fcc7210f07f8f60263f436bfe41494",
+          "liquidity": "31644072714698931",
+          "amount0": 0.0,
+          "amount1": 0.002013702584220784,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0014205483341801258,
+          "liquidity_usd": 0.0014205483341801258
+        },
+        {
+          "id": "3632",
+          "chain": "optimism",
+          "pool_id": "0x500b0a1ce8fcc7210f07f8f60263f436bfe41494",
+          "liquidity": "5902882543037358",
+          "amount0": 0.0,
+          "amount1": 0.001881612924248949,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0013273668743629017,
+          "liquidity_usd": 0.0013273668743629017
+        },
+        {
+          "id": "3633",
+          "chain": "optimism",
+          "pool_id": "0x500b0a1ce8fcc7210f07f8f60263f436bfe41494",
+          "liquidity": "8919381657415161",
+          "amount0": 0.0,
+          "amount1": 0.001919984918783938,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0013544360519777976,
+          "liquidity_usd": 0.0013544360519777976
+        },
+        {
+          "id": "5144",
+          "chain": "optimism",
+          "pool_id": "0x874fa71ae297251ca16ca35e049c8c67293f5ab7",
+          "liquidity": "103079269857775",
+          "amount0": 0.000102416913656289,
+          "amount1": 0.000103745909685099,
+          "amount0_usd": 0.2190653364929793,
+          "amount1_usd": 0.19843236844986314,
+          "liquidity_usd": 0.41749770494284244
+        },
+        {
+          "id": "5145",
+          "chain": "optimism",
+          "pool_id": "0x874fa71ae297251ca16ca35e049c8c67293f5ab7",
+          "liquidity": "51539634878887",
+          "amount0": 5.1208456778465e-5,
+          "amount1": 5.1872954792225e-5,
+          "amount0_usd": 0.10953266814022734,
+          "amount1_usd": 0.0992161841286771,
+          "liquidity_usd": 0.20874885226890444
+        },
+        {
+          "id": "5148",
+          "chain": "optimism",
+          "pool_id": "0x477b822f1a4915feb600464178150b2964be2d79",
+          "liquidity": "25769817439444",
+          "amount0": 2.5769817439443e-5,
+          "amount1": 2.5769817439443e-5,
+          "amount0_usd": 0.055120521866922845,
+          "amount1_usd": 0.04928932547365501,
+          "liquidity_usd": 0.10440984734057786
+        },
+        {
+          "id": "5150",
+          "chain": "optimism",
+          "pool_id": "0xea1ea74e74da7be1fd7ee7ba35fa612c2b899d74",
+          "liquidity": "52926403043450",
+          "amount0": 1.0176225896918e-5,
+          "amount1": 2.9313175154759e-5,
+          "amount0_usd": 0.02176650585096031,
+          "amount1_usd": 0.05606662267842605,
+          "liquidity_usd": 0.07783312852938636
+        },
+        {
+          "id": "5164",
+          "chain": "optimism",
+          "pool_id": "0x725f230416b0b315be714b8a6dd2b40880e75df3",
+          "liquidity": "640571720320183932",
+          "amount0": 0.2981673498192607,
+          "amount1": 0.18762322623290534,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "5207",
+          "chain": "optimism",
+          "pool_id": "0x8611a7e9270a179254759c568080cc78ff05c751",
+          "liquidity": "40718307020600226",
+          "amount0": 0.01261845609787814,
+          "amount1": 0.016560207045172002,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "5262",
+          "chain": "optimism",
+          "pool_id": "0x81e2f9ed2b784b978050b7085c36e662458dd225",
+          "liquidity": "24991593819",
+          "amount0": 9.9767513204781e-5,
+          "amount1": 0.591993,
+          "amount0_usd": 0.19082298280161636,
+          "amount1_usd": 0.591993,
+          "liquidity_usd": 0.7828159828016164
+        },
+        {
+          "id": "5264",
+          "chain": "optimism",
+          "pool_id": "0x81e2f9ed2b784b978050b7085c36e662458dd225",
+          "liquidity": "9986976059",
+          "amount0": 7.7844016563247e-5,
+          "amount1": 0.436761,
+          "amount0_usd": 0.14889042491584703,
+          "amount1_usd": 0.43676099999999995,
+          "liquidity_usd": 0.585651424915847
+        },
+        {
+          "id": "5344",
+          "chain": "optimism",
+          "pool_id": "0x116d189ac9167f219cf86cb21fedb121258f8d56",
+          "liquidity": "38977020462009718",
+          "amount0": 0.027706373399110352,
+          "amount1": 0.054832442420800764,
+          "amount0_usd": 0.060356157949307834,
+          "amount1_usd": 0.05481678992861342,
+          "liquidity_usd": 0.11517294787792126
+        },
+        {
+          "id": "5349",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "6769305581927",
+          "amount0": 6.401236849771e-6,
+          "amount1": 7.158538128946e-6,
+          "amount0_usd": 0.01369196800025065,
+          "amount1_usd": 0.013691968000251973,
+          "liquidity_usd": 0.027383936000502623
+        },
+        {
+          "id": "5350",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "27736121544991",
+          "amount0": 6.273572591528e-6,
+          "amount1": 1.4760163692807e-5,
+          "amount0_usd": 0.013418899688663114,
+          "amount1_usd": 0.028231418946168322,
+          "liquidity_usd": 0.041650318634831436
+        },
+        {
+          "id": "5364",
+          "chain": "optimism",
+          "pool_id": "0x5fc81ed5170c87a9b0def98aac5d8cddd37a93bd",
+          "liquidity": "10623237004686",
+          "amount0": 0.0,
+          "amount1": 0.18762322623278888,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "5530",
+          "chain": "optimism",
+          "pool_id": "0x66c50c90ee23144db0aaf89e6740ebbf63841499",
+          "liquidity": "215920714571",
+          "amount0": 0.20572297364584485,
+          "amount1": 0.226623,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.226623,
+          "liquidity_usd": 0.226623
+        },
+        {
+          "id": "5531",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "108137187446482",
+          "amount0": 0.00010225742370993,
+          "amount1": 0.000114355035405609,
+          "amount0_usd": 0.21872419441479055,
+          "amount1_usd": 0.2187241944147911,
+          "liquidity_usd": 0.43744838882958165
+        },
+        {
+          "id": "5532",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "111040413484750304",
+          "amount0": 0.0,
+          "amount1": 0.000233501630500941,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.4466130926785012,
+          "liquidity_usd": 0.4466130926785012
+        },
+        {
+          "id": "5538",
+          "chain": "optimism",
+          "pool_id": "0x500b0a1ce8fcc7210f07f8f60263f436bfe41494",
+          "liquidity": "108636923042100253",
+          "amount0": 0.00547066311590588,
+          "amount1": 0.0887239127682365,
+          "amount0_usd": 0.011917409844829065,
+          "amount1_usd": 0.06258948440175532,
+          "liquidity_usd": 0.07450689424658438
+        },
+        {
+          "id": "5540",
+          "chain": "optimism",
+          "pool_id": "0xb3e39d05fea3103215ca72e4d20dbce6eb5cec5c",
+          "liquidity": "55627926463",
+          "amount0": 0.055627852927728955,
+          "amount1": 0.055627,
+          "amount0_usd": 0.05561197337732214,
+          "amount1_usd": 0.055627,
+          "liquidity_usd": 0.11123897337732214
+        },
+        {
+          "id": "5585",
+          "chain": "optimism",
+          "pool_id": "0xb0c85016d503f7d9e74ae051228e16d389ebc33f",
+          "liquidity": "59996910020678681",
+          "amount0": 0.00858711111065166,
+          "amount1": 0.000406604684864881,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.000885756364758345,
+          "liquidity_usd": 0.000885756364758345
+        },
+        {
+          "id": "5621",
+          "chain": "optimism",
+          "pool_id": "0x500b0a1ce8fcc7210f07f8f60263f436bfe41494",
+          "liquidity": "12070693569809228",
+          "amount0": 0.000607847647435366,
+          "amount1": 0.009858150740562089,
+          "amount0_usd": 0.0013241483498848015,
+          "amount1_usd": 0.006954343567086886,
+          "liquidity_usd": 0.008278491916971688
+        },
+        {
+          "id": "886",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "8124490127171",
+          "amount0": 0.0,
+          "amount1": 0.696957,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.696957,
+          "liquidity_usd": 0.696957
+        }
+      ]
+    },
+    {
+      "owner": "0x167eb291844a3739130521165796ceda972caae6",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 4.380946044061785,
+      "positions": [
+        {
+          "id": "10153",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "134013157539",
+          "amount0": 0.000860247931316657,
+          "amount1": 2.73557,
+          "amount0_usd": 1.6453760440617855,
+          "amount1_usd": 2.73557,
+          "liquidity_usd": 4.380946044061785
+        }
+      ]
+    },
+    {
+      "owner": "0x25dfd3ad1fb9ffe02234775c9ae41613a19a6802",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3.7123737754075385,
+      "positions": [
+        {
+          "id": "7920",
+          "chain": "optimism",
+          "pool_id": "0xe512562bb23bd1ef8529fd33b92930e3e08e19d5",
+          "liquidity": "4387258976154",
+          "amount0": 0.9803290273544332,
+          "amount1": 1.576804,
+          "amount0_usd": 2.1355697754075385,
+          "amount1_usd": 1.576804,
+          "liquidity_usd": 3.7123737754075385
+        }
+      ]
+    },
+    {
+      "owner": "0x589bc055bdd34c1b366ea1c1acdab6cbf3d9ff42",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 3.5582632703149897,
+      "positions": [
+        {
+          "id": "10245",
+          "chain": "optimism",
+          "pool_id": "0xb740344fed5a220248c8d8ef660552af654d69ac",
+          "liquidity": "139614660939",
+          "amount0": 0.001100177796421519,
+          "amount1": 1.453979,
+          "amount0_usd": 2.1042842703149898,
+          "amount1_usd": 1.453979,
+          "liquidity_usd": 3.5582632703149897
+        }
+      ]
+    },
+    {
+      "owner": "0x6977e753e022f65ebeb170d8267b2ea54a431523",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 3.4193383829379016,
+      "positions": [
+        {
+          "id": "3641",
+          "chain": "optimism",
+          "pool_id": "0x92eae0b63fdc34ad8a1f3176a59a61e2209dd71d",
+          "liquidity": "127765426090287003",
+          "amount0": 0.000108225810105689,
+          "amount1": 0.000504589714099047,
+          "amount0_usd": 0.2070009689236117,
+          "amount1_usd": 0.962129155974039,
+          "liquidity_usd": 1.1691301248976507
+        },
+        {
+          "id": "3928",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "2615182578553",
+          "amount0": 0.481188459150678,
+          "amount1": 1.201977,
+          "amount0_usd": 1.0482312580402509,
+          "amount1_usd": 1.201977,
+          "liquidity_usd": 2.250208258040251
+        }
+      ]
+    },
+    {
+      "owner": "0x0193a8a52d77e27bdd4f12e0cdd52d8ff1d97d68",
+      "number_of_positions": 4,
+      "total_liquidity_usd": 3.2371433041153943,
+      "positions": [
+        {
+          "id": "8796",
+          "chain": "optimism",
+          "pool_id": "0xdfc122f431d3c6d193a9d663c00f6cefdb6bbc60",
+          "liquidity": "36821556739048240251",
+          "amount0": 0.0,
+          "amount1": 1.353285252981448,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.9546628816276831,
+          "liquidity_usd": 0.9546628816276831
+        },
+        {
+          "id": "8936",
+          "chain": "optimism",
+          "pool_id": "0x40161bdd46c4088ec06377555fe5390c20283435",
+          "liquidity": "116684748556928720",
+          "amount0": 0.001193343654663111,
+          "amount1": 1.3498750757200866,
+          "amount0_usd": 2.282480422487711,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 2.282480422487711
+        },
+        {
+          "id": "9039",
+          "chain": "optimism",
+          "pool_id": "0xd4e3c253c3abad5fbfb16d0ad5cc1a0c6ea2d08d",
+          "liquidity": "44865274130430941127",
+          "amount0": 0.0811324759854949,
+          "amount1": 0.09158844904877117,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "9081",
+          "chain": "optimism",
+          "pool_id": "0x2a4d93eaa67f3f3781301a4b27cf45539b758599",
+          "liquidity": "13989673243791041361",
+          "amount0": 0.5234596522355592,
+          "amount1": 0.002250261413070251,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0xfdc6a5e86bca38b38a6c9e4e2e0d7feb418b3fa7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.9704800000000002,
+      "positions": [
+        {
+          "id": "768",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "2971366552",
+          "amount0": 1.615625,
+          "amount1": 1.354855,
+          "amount0_usd": 1.615625,
+          "amount1_usd": 1.354855,
+          "liquidity_usd": 2.9704800000000002
+        }
+      ]
+    },
+    {
+      "owner": "0x86a404722f8bc0157152974d2eaacce06fde1cc7",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.647331,
+      "positions": [
+        {
+          "id": "2256",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "59217400044748",
+          "amount0": 0.0,
+          "amount1": 2.647331,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.647331,
+          "liquidity_usd": 2.647331
+        }
+      ]
+    },
+    {
+      "owner": "0xede89306da0f3c30d196f867d35e27dc5bcaaca2",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.607683483246775,
+      "positions": [
+        {
+          "id": "7935",
+          "chain": "optimism",
+          "pool_id": "0xdcc97c90dce69407ebfc20a79f75bae4640f7565",
+          "liquidity": "35254844172219580521",
+          "amount0": 2.628108276178395,
+          "amount1": 3.6965296024753536,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.607683483246775,
+          "liquidity_usd": 2.607683483246775
+        }
+      ]
+    },
+    {
+      "owner": "0xe4b32e80b814071f8dbae21436ec3cc8451a018c",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.4770489811664005,
+      "positions": [
+        {
+          "id": "9588",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "368586169092",
+          "amount0": 0.000542645402373903,
+          "amount1": 1.316354,
+          "amount0_usd": 1.1606949811664002,
+          "amount1_usd": 1.316354,
+          "liquidity_usd": 2.4770489811664005
+        }
+      ]
+    },
+    {
+      "owner": "0xcb51e0fd0a55714b99037db1c977dce1a18d9197",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.412406,
+      "positions": [
+        {
+          "id": "9377",
+          "chain": "optimism",
+          "pool_id": "0x22cfc1afaab641666195d08ba55d4a9682338993",
+          "liquidity": "3457986916817",
+          "amount0": 0.000249541259275081,
+          "amount1": 2.412406,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.412406,
+          "liquidity_usd": 2.412406
+        }
+      ]
+    },
+    {
+      "owner": "0xe93bad1ced0d19a91aa4de6d682ef3942e2ffc1f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.382829,
+      "positions": [
+        {
+          "id": "782",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "47160564013689",
+          "amount0": 0.0,
+          "amount1": 2.382829,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.382829,
+          "liquidity_usd": 2.382829
+        }
+      ]
+    },
+    {
+      "owner": "0x9e5488452bd4f5a28a43b39b9b7e0ba59aedbdfe",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.233989,
+      "positions": [
+        {
+          "id": "15",
+          "chain": "optimism",
+          "pool_id": "0x3f676045603b4b17d37a5f2afab3249c1930453d",
+          "liquidity": "10042362900390",
+          "amount0": 0.0,
+          "amount1": 2.233989,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.233989,
+          "liquidity_usd": 2.233989
+        }
+      ]
+    },
+    {
+      "owner": "0xa5e44f38c2f67f4ca6f487adf0fda526ba720e35",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 2.0928967123645,
+      "positions": [
+        {
+          "id": "2848",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "20922079155296532516",
+          "amount0": 0.0,
+          "amount1": 0.001094224067360608,
+          "amount0_usd": 0.0,
+          "amount1_usd": 2.0928967123645,
+          "liquidity_usd": 2.0928967123645
+        }
+      ]
+    },
+    {
+      "owner": "0xfdd55b8b80b422e4e6c5f7279559031f1d122165",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.9932725429746232,
+      "positions": [
+        {
+          "id": "2324",
+          "chain": "optimism",
+          "pool_id": "0x427464d9434f99a3d942c60210ee2376166975ce",
+          "liquidity": "1993821784790728",
+          "amount0": 0.766242,
+          "amount1": 1.227030542974623,
+          "amount0_usd": 0.766242,
+          "amount1_usd": 1.227030542974623,
+          "liquidity_usd": 1.9932725429746232
+        }
+      ]
+    },
+    {
+      "owner": "0x6505f5b020bf853a741cd72f803d3a099a5adb2e",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.914283,
+      "positions": [
+        {
+          "id": "1991",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "42717409251710",
+          "amount0": 0.0,
+          "amount1": 1.914283,
+          "amount0_usd": 0.0,
+          "amount1_usd": 1.914283,
+          "liquidity_usd": 1.914283
+        }
+      ]
+    },
+    {
+      "owner": "0x59da52d08dadf371eab7c230ef26e571a00e93ca",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.7632782552876847,
+      "positions": [
+        {
+          "id": "10125",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "7833722936324",
+          "amount0": 0.5854497341525517,
+          "amount1": 0.487922,
+          "amount0_usd": 1.2753562552876847,
+          "amount1_usd": 0.487922,
+          "liquidity_usd": 1.7632782552876847
+        }
+      ]
+    },
+    {
+      "owner": "0x516e5b72c3fd2d2e59835c82005ba6a2bc5788a4",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.491752,
+      "positions": [
+        {
+          "id": "1322",
+          "chain": "optimism",
+          "pool_id": "0x9ee23e9ea484d1206dfe2707ac24861cc32111a3",
+          "liquidity": "1499377344564243",
+          "amount0": 1.491752,
+          "amount1": 0.0,
+          "amount0_usd": 1.491752,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 1.491752
+        }
+      ]
+    },
+    {
+      "owner": "0xe8b50533ec88a9067ba421a41ab6819f6f951a0d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.2387740898480022,
+      "positions": [
+        {
+          "id": "9604",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "274670252776840827",
+          "amount0": 0.000200725386973082,
+          "amount1": 0.3924177995254572,
+          "amount0_usd": 0.3839227403372492,
+          "amount1_usd": 0.8548513495107529,
+          "liquidity_usd": 1.2387740898480022
+        }
+      ]
+    },
+    {
+      "owner": "0x48f5eb1b681d3c2856f4188ae5e5e80ef153b034",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.142607247310899,
+      "positions": [
+        {
+          "id": "5259",
+          "chain": "optimism",
+          "pool_id": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+          "liquidity": "943570299749",
+          "amount0": 0.21792855951217166,
+          "amount1": 0.667867,
+          "amount0_usd": 0.4747402473108991,
+          "amount1_usd": 0.667867,
+          "liquidity_usd": 1.142607247310899
+        }
+      ]
+    },
+    {
+      "owner": "0x860b0f90b281ae6a4974213ba7b7861bb3ec7f80",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.9997145395773686,
+      "positions": [
+        {
+          "id": "9166",
+          "chain": "optimism",
+          "pool_id": "0x381db320dc534209ff93348b281e86c256ba09dd",
+          "liquidity": "2003906238557626",
+          "amount0": 0.0,
+          "amount1": 0.9999999999999998,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.9997145395773686,
+          "liquidity_usd": 0.9997145395773686
+        }
+      ]
+    },
+    {
+      "owner": "0x3be4f1943b30eb61391fca1bd53f85517be8f66f",
+      "number_of_positions": 5,
+      "total_liquidity_usd": 0.8805957864880536,
+      "positions": [
+        {
+          "id": "2383",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "17410587133931",
+          "amount0": 9.9999999999996e-5,
+          "amount1": 0.0,
+          "amount0_usd": 0.21389566300362595,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.21389566300362595
+        },
+        {
+          "id": "2384",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "1821296525",
+          "amount0": 4.0352599612704e-5,
+          "amount1": 0.082203,
+          "amount0_usd": 0.08631246048079529,
+          "amount1_usd": 0.082203,
+          "liquidity_usd": 0.1685154604807953
+        },
+        {
+          "id": "2385",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "11785073908",
+          "amount0": 0.0,
+          "amount1": 0.15429,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.15429,
+          "liquidity_usd": 0.15429
+        },
+        {
+          "id": "2386",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "999999118724570280",
+          "amount0": 9.9999999999999e-5,
+          "amount1": 0.0,
+          "amount0_usd": 0.2138956630036324,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.2138956630036324
+        },
+        {
+          "id": "2387",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "579399014194",
+          "amount0": 0.0,
+          "amount1": 0.129999,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.12999899999999998,
+          "liquidity_usd": 0.12999899999999998
+        }
+      ]
+    },
+    {
+      "owner": "0x657d54c9ac70b83a6d746addf6c6ad43e470fa0a",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.837561,
+      "positions": [
+        {
+          "id": "1106",
+          "chain": "optimism",
+          "pool_id": "0x9ee23e9ea484d1206dfe2707ac24861cc32111a3",
+          "liquidity": "841631875601219",
+          "amount0": 0.837561,
+          "amount1": 0.0,
+          "amount0_usd": 0.837561,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.837561
+        }
+      ]
+    },
+    {
+      "owner": "0x6baadd8b3770fc18f0428f25ed50cc00c71e6201",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.4882317494927713,
+      "positions": [
+        {
+          "id": "2282",
+          "chain": "optimism",
+          "pool_id": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+          "liquidity": "4893661054468014806",
+          "amount0": 0.0,
+          "amount1": 0.000255261011013296,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.4882317494927713,
+          "liquidity_usd": 0.4882317494927713
+        }
+      ]
+    },
+    {
+      "owner": "0xe533b0ee4d86321026fe83c9b46576e9f8d2aacf",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.451403,
+      "positions": [
+        {
+          "id": "2750",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "752538157",
+          "amount0": 0.409178,
+          "amount1": 0.042225,
+          "amount0_usd": 0.409178,
+          "amount1_usd": 0.042225,
+          "liquidity_usd": 0.451403
+        }
+      ]
+    },
+    {
+      "owner": "0xa321ce8d9f895e15f0893b5425fa2355f52faa55",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.445292,
+      "positions": [
+        {
+          "id": "2749",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "445442970",
+          "amount0": 0.331232,
+          "amount1": 0.11406,
+          "amount0_usd": 0.331232,
+          "amount1_usd": 0.11406,
+          "liquidity_usd": 0.445292
+        }
+      ]
+    },
+    {
+      "owner": "0xaf023cf2d72cb176f00c2e90af7df679e1503f88",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.366365,
+      "positions": [
+        {
+          "id": "3470",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "4431408689629",
+          "amount0": 0.0,
+          "amount1": 0.366365,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.366365,
+          "liquidity_usd": 0.366365
+        }
+      ]
+    },
+    {
+      "owner": "0x7464c9a9bef3d49cf8c0dfaeb44ff5c129c34396",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.31344572851031227,
+      "positions": [
+        {
+          "id": "46",
+          "chain": "optimism",
+          "pool_id": "0x3f676045603b4b17d37a5f2afab3249c1930453d",
+          "liquidity": "12612853435",
+          "amount0": 3.4106513494913e-5,
+          "amount1": 0.248211,
+          "amount0_usd": 0.06523472851031224,
+          "amount1_usd": 0.24821100000000001,
+          "liquidity_usd": 0.31344572851031227
+        }
+      ]
+    },
+    {
+      "owner": "0x6e3cb6e0658ec9a3b5b966738564fb417e33c930",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.245412,
+      "positions": [
+        {
+          "id": "9057",
+          "chain": "optimism",
+          "pool_id": "0xf9d5940c2313636546ab9852354860dce275dbad",
+          "liquidity": "4810751380973",
+          "amount0": 0.0,
+          "amount1": 0.245412,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.245412,
+          "liquidity_usd": 0.245412
+        }
+      ]
+    },
+    {
+      "owner": "0xdd269567a4478daad6854859030af126e75428a5",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.2275402808102887,
+      "positions": [
+        {
+          "id": "9680",
+          "chain": "optimism",
+          "pool_id": "0xf9d5940c2313636546ab9852354860dce275dbad",
+          "liquidity": "2600667821",
+          "amount0": 6.0897531736932e-5,
+          "amount1": 0.111063,
+          "amount0_usd": 0.1164772808102887,
+          "amount1_usd": 0.111063,
+          "liquidity_usd": 0.2275402808102887
+        }
+      ]
+    },
+    {
+      "owner": "0xd331a0e78b6aadcd777d3ee9fd0c5edde8193a81",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0965357999006602,
+      "positions": [
+        {
+          "id": "6658",
+          "chain": "optimism",
+          "pool_id": "0x961aa0a829361c307d628e69aba1282138521e22",
+          "liquidity": "2596753626236659",
+          "amount0": 1.9799407113027e-5,
+          "amount1": 0.02693048142875509,
+          "amount0_usd": 0.03786986165783569,
+          "amount1_usd": 0.05866593824282451,
+          "liquidity_usd": 0.0965357999006602
+        }
+      ]
+    },
+    {
+      "owner": "0xde8ffbde20333cb0573b252453d8fdd250c04b9d",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.07504317500081371,
+      "positions": [
+        {
+          "id": "6347",
+          "chain": "optimism",
+          "pool_id": "0x3f676045603b4b17d37a5f2afab3249c1930453d",
+          "liquidity": "1307082497",
+          "amount0": 7.895833204646e-6,
+          "amount1": 0.059941,
+          "amount0_usd": 0.015102175000813707,
+          "amount1_usd": 0.059941,
+          "liquidity_usd": 0.07504317500081371
+        }
+      ]
+    },
+    {
+      "owner": "0x0e9b118e8c6218ad0f2b00f6fb68e3159809d2d1",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.019998,
+      "positions": [
+        {
+          "id": "470",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "530834",
+          "amount0": 0.009999,
+          "amount1": 0.0,
+          "amount0_usd": 0.009999,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.009999
+        },
+        {
+          "id": "471",
+          "chain": "optimism",
+          "pool_id": "0x7e29ccaa4bf2894aca02c77e6b99cafc1d24b2f5",
+          "liquidity": "530781",
+          "amount0": 0.009999,
+          "amount1": 0.0,
+          "amount0_usd": 0.009999,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.009999
+        }
+      ]
+    },
+    {
+      "owner": "0x8752a7aea7bad6087871e441a5b4c3952f2f3a77",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.016331663187287866,
+      "positions": [
+        {
+          "id": "43",
+          "chain": "optimism",
+          "pool_id": "0xf9d5940c2313636546ab9852354860dce275dbad",
+          "liquidity": "1247233282",
+          "amount0": 1.315258029047e-6,
+          "amount1": 0.013816,
+          "amount0_usd": 0.002515663187287865,
+          "amount1_usd": 0.013816,
+          "liquidity_usd": 0.016331663187287866
+        }
+      ]
+    },
+    {
+      "owner": "0xdd05d17d07e2ff7400aa421aa5c66a735b862f1f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.003922,
+      "positions": [
+        {
+          "id": "495",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "3923518",
+          "amount0": 0.001937,
+          "amount1": 0.001985,
+          "amount0_usd": 0.001937,
+          "amount1_usd": 0.001985,
+          "liquidity_usd": 0.003922
+        }
+      ]
+    },
+    {
+      "owner": "0x79a439fb251f3c74f4e9688a2edf4d3935525998",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.00208,
+      "positions": [
+        {
+          "id": "776",
+          "chain": "optimism",
+          "pool_id": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+          "liquidity": "2081560",
+          "amount0": 0.001027,
+          "amount1": 0.001053,
+          "amount0_usd": 0.001027,
+          "amount1_usd": 0.001053,
+          "liquidity_usd": 0.00208
+        }
+      ]
+    },
+    {
+      "owner": "0x2cc8b8e5287c67d619cce4b654755aa951395b6f",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 9e-6,
+      "positions": [
+        {
+          "id": "1513",
+          "chain": "optimism",
+          "pool_id": "0x3f676045603b4b17d37a5f2afab3249c1930453d",
+          "liquidity": "3334494489",
+          "amount0": 0.0,
+          "amount1": 9e-6,
+          "amount0_usd": 0.0,
+          "amount1_usd": 9e-6,
+          "liquidity_usd": 9e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x500bea59133e20dc63b7e88913b30348494b84ba",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 1.509601388419122e-6,
+      "positions": [
+        {
+          "id": "9128",
+          "chain": "optimism",
+          "pool_id": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+          "liquidity": "44424",
+          "amount0": 2.38247649e-10,
+          "amount1": 1e-6,
+          "amount0_usd": 5.096013884191221e-7,
+          "amount1_usd": 1e-6,
+          "liquidity_usd": 1.509601388419122e-6
+        }
+      ]
+    },
+    {
+      "owner": "0x4c1a699166cd60473040d0618c47ad82251b9d0f",
+      "number_of_positions": 2,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "10321",
+          "chain": "optimism",
+          "pool_id": "0xc5656e0d19998997a90df921003200944c498375",
+          "liquidity": "24925489922918325035900",
+          "amount0": 0.0,
+          "amount1": 138.859062640947,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        },
+        {
+          "id": "8871",
+          "chain": "optimism",
+          "pool_id": "0x4e2f78679b293ca7624ab5a6aea2cacec01d8c53",
+          "liquidity": "30490278583926242",
+          "amount0": 0.0,
+          "amount1": 186.5632634226453,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x55986cc9eb57e29875a80a7f70b9abcef063cfaf",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "47",
+          "chain": "optimism",
+          "pool_id": "0xf4d4cbff02cf20f4c425a83897870311e11d0300",
+          "liquidity": "21790929281208824",
+          "amount0": 0.0,
+          "amount1": 0.000277095540722264,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    },
+    {
+      "owner": "0x1a30254019b2dfbc7dd54b651458482b9451e821",
+      "number_of_positions": 1,
+      "total_liquidity_usd": 0.0,
+      "positions": [
+        {
+          "id": "9467",
+          "chain": "optimism",
+          "pool_id": "0x58de6a101b30926144bf6832287713dd60f481d3",
+          "liquidity": "43788896420789",
+          "amount0": 0.0,
+          "amount1": 0.00232207,
+          "amount0_usd": 0.0,
+          "amount1_usd": 0.0,
+          "liquidity_usd": 0.0
+        }
+      ]
+    }
+  ]
+}

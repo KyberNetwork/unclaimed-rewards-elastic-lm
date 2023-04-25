@@ -11,6 +11,8 @@ For detail records of unclaimed rewards for each NFT for each chain, please visi
 
 For the total unclaimed rewards for each reward token for each chain, please visit [`group_unclaimed_total.json`](/group_unclaimed_total.json)
 
+We also add snapshots of liquidity providers on Elastic pools, at around `2023-04-25 14:10:00 UTC`. Please visit [`lp-snapshots`](/lp-snapshots) folder. We might update this list in the future.
+
 
 ## How we get this data
 
